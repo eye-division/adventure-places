@@ -1,11 +1,11 @@
 # External gems
-gems:
+plugins:
  # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  - jekyll-paginate
+   - jekyll-seo-tag
+   - jekyll-sitemap
 
-exclude:
-  - "/vendor/"
+#exclude:
+#  - "/vendor/"
 
 # Site settings
 title: ADVENTURE Places
@@ -17,15 +17,15 @@ description: Adventure Places
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net"
+url: "https://hungry-hugle-985803.netlify.com"
 logo:
 email: a.ward@eyedivision.com
+placeholder_image: "/assets/images/leaf-icon.png"
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+
+#inter_post_navigation: false
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
 
@@ -36,19 +36,25 @@ imagecdn:
 
 # Collections Example
 collections:
-    gallery:
+    projects:
         output: true
-        permalink: /gallery/:path/
-        _hide_content: true
+        permalink: /projects/:path/
 
 # Defaults Example
 defaults:
     -
         scope:
             path: ""
-            type: "gallery"
+            type: "projects"
         values:
-            layout: "gallery"
+            layout: "project"
+    -
+        scope:
+          path: "" # an empty string here means all files in the project
+          type: "posts" # previously `post` in Jekyll 2.2.
+        values:
+          layout: "post"
+
 _options:
   _text:
     italic: true

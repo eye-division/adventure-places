@@ -1,10 +1,10 @@
 ---
 layout: home
 carousel:
-  - image: /assets/images/bikepacking, brecon beacons 1.jpg
+  - image: /assets/images/bikepacking- brecon beacons 1.jpg
     caption: "Bike packing, Brecon Beacons"
-    link: /gallery/test/
-  - image: /assets/images/kayaking, isles of scilly.jpg
+    link:
+  - image: /assets/images/kayaking- isles of scilly.jpg
     caption: "Kayaking, Isles of Scilly"
     link:
 _options:
@@ -64,8 +64,8 @@ _comments:
                 <header class="gallery-header">
                   <h2 class="title">{{ section.frontpagetitle }}</h2>
                 </header>
-                {% if section.homepage_description_markdown: %}
-                  {{ section.homepage_description_markdown:  | markdownify }}<br>
+                {% if section.homepage_description_markdown %}
+                  {{ section.homepage_description_markdown  | markdownify }}<br>
                   <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
                 {% endif %}
@@ -78,22 +78,19 @@ _comments:
 
     {% endfor %}
 
-      <!-- Galleries -->
-    {% for gallery in site.gallery %}
-      {% if gallery.frontpage %}
-        <section class="gallery-cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery-header">
-                <h2 class="title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown:  %}
-                {{ gallery.homepage_description_markdown:  | markdownify }}
-              {% endif %}
-          </article>
-          </div>
-        </a>
-      </section>
-      {% endif %}
-    {% endfor %}
+  <section class="blog--home">
+
+    <ul>
+      {% for post in site.posts limit:2 %}
+        <li>
+          <h3 class="hdr--small">{{ post.title }}</h3>
+          <p>{{ post.excerpt | markdownify }}
+          <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
+        </li>
+
+      {% endfor %}
+
+    </ul>
+    <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
+
+  </section>
