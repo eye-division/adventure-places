@@ -1,9 +1,32 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Lato:300,400);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+@font-face {
+    font-family: 'trailmade_extrasregular';
+    src: url('/assets/fonts/trailmadeextras-regular-webfont.woff2') format('woff2'),
+         url('/assets/fonts/trailmadeextras-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'trailmadeitalic';
+    src: url('/assets/fonts/trailmade-italic-webfont.woff2') format('woff2'),
+         url('/assets/fonts/trailmade-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'trailmaderegular';
+    src: url('/assets/fonts/trailmade-regular-webfont.woff2') format('woff2'),
+         url('/assets/fonts/trailmade-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 /// Typography
 $base-font-family: ('Open Sans',  'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $helvetica;
-$heading-font-family: ('Lato', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
-$subheading-font-family: ('Lato', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
+$heading-font-family: ('trailmaderegular', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
+$subheading-font-family: ('trailmaderegular', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
 // Font Sizes
 $base-font-size: $em-base; // 16px
 
