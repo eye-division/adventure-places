@@ -2,6 +2,7 @@
 // This file contains all styles related to the header
 // -----------------------------------------------------------------------------
 
+
 /// logo
 .logo {
     display: block;
@@ -9,12 +10,13 @@
     padding: 0 0.5em;
     text-align: center;
     margin: 0 auto;
-    //height: 6em;
+    text-decoration: none;//height: 6em;
 
     span {
         font-size: 1.25em;
     }
     h1 {
+        font-size: modular-scale(8);
         margin-bottom: 0;
         font-family: $logo-font-family;
     }

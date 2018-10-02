@@ -1,0 +1,81 @@
+---
+layout: page-noimage
+title: "Adventures"
+permalink: "/adventures/"
+main_image_path: "/assets/images/mountainbiking-dartmoor.jpg"
+main_image_caption: "Mountain biking on Dartmoor"
+main_nav: true
+frontpage: true
+homepage_description_markdown: We go on adventures!
+frontpagetitle: "Adventures"
+images:
+  - image_path:
+    image_title: ""
+    image_description:
+_options:
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Page title
+  permalink: Be careful editing this
+  main_image_path: Image used to represent your page
+  frontpage: Show this page on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+  frontpagetitle: Alternative title for home page use
+  images: Add and edit images here
+---
+
+<section class="adventures-intro editable">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta vero neque nulla eos, cumque soluta voluptas consequuntur velit hic ipsam ea est nesciunt quidem doloremque perferendis possimus, quae quibusdam. Asperiores!</p>
+</section>
+
+{% assign adventures = site.adventures %}
+
+{% if adventures %}
+
+<section class="adventures">
+
+  <ul class="posts--list">
+
+  {% for adventure in adventures %}
+
+  <li class="post--inlist">
+
+    <a href="{{ adventure.url }}" title="{{ adventure.title }}" class="post--image">
+      {% if adventure.main_image_path %}
+          {% include img.html src=adventure.main_image_path max-w=200 %}
+      {% else %}
+          {% include img.html src=site.placeholder_image width=150 %}
+      {% endif %}
+    </a>
+
+    <div class="post--caption">
+        {% if adventure.description_markdown %}
+        <h3>{{ adventure.title }}</h3>
+        <p>{{ adventure.description_markdown | markdownify }}<br />
+          <a href="{{ adventure.url }}" title="{{ adventure.title }}">View this adventure&nbsp;&raquo;</a></p>
+        {% endif %}
+    </div>
+
+  </li>
+  {% endfor %}
+  </ul>
+
+</section>
+
+
+{% else %}
+
+  {% if page.main_image_path %}
+    <figure>
+    {% assign alt_text = page.title %}
+    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+    {% include img.html src=page.main_image_path alt=alt_text %}
+    <figcaption>{{ alt_text }}</figcaption>
+    </figure>
+  {% endif %}
+
+{% endif %}

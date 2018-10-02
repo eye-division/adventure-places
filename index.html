@@ -1,10 +1,13 @@
 ---
 layout: home
+main_image_path: "/assets/images/fellrunning-howgills.jpg"
+main_image_caption: "Fell running in the Howgills"
+show_carousel: false
 carousel:
-  - image: /assets/images/bikepacking- brecon beacons 1.jpg
+  - image: /assets/images/bikepacking-breconbeacons1.jpg
     caption: "Bike packing, Brecon Beacons"
     link:
-  - image: /assets/images/kayaking - isles of scilly.jpg
+  - image: /assets/images/kayaking-islesofscilly.jpg
     caption: "Kayaking, Isles of Scilly"
     link:
 _options:
@@ -14,38 +17,43 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 _comments:
+  main_image_path: Cover image
+  main_image_caption: Alt text for cover image
   carousel: Edit the slideshow
   link: Optional web link from the slide
   caption: optional caption
 ---
-
-    <div class="editable">
+  <div class="editable">
     <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
+    <p>Test out the alternative full width <a href="/video/">video layout</a></p>
     </div>
 
-    {% if page.carousel %}
-    <!-- <div class="two-thirds no-gutter"> -->
-    <section>
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.link %}
-              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+
+    {% if page.show_carousel %}
+      {% if page.carousel %}
+      <!-- <div class="two-thirds no-gutter"> -->
+      <section class="slideshow">
+        <div class="flexslider">
+            <ul class="slides">
+              {% for slides in page.carousel %}
+              <li>
+                {% if slides.link %}
+                <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+                {% endif %}
+                {% include img.html src=slides.image width=960 alt=slides.caption %}
+                {% if slides.link %}
+                </a>
               {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.link %}
-              </a>
-            {% endif %}
-              {% if slides.caption %}
-              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      <!-- </div> -->
+                {% if slides.caption %}
+                <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </section>
+        <!-- </div> -->
+        {% endif %}
       {% endif %}
 
       <!-- Regular page promotions on front page -->
@@ -54,21 +62,22 @@ _comments:
         {% if section.frontpage %}
 
           {% if section.main_image_path %}
-            <section class="gallery-cover has-cover" style="background-image: url({{ section.main_image_path }});">
+            <section class="gallery--cover has--cover" style="background-image: url({{ section.main_image_path }});">
           {% else %}
-            <section class="gallery-cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+            <section class="gallery--cover has--cover" style="background-image: url('http://placekitten.com/g/1200/300');">
           {% endif %}
             <a href="{{ section.url | prepend: site.baseurl }}">
-              <div class="scrim has-cover">
+              <div class="scrim has--cover">
                 <article class="gallery--front">
                   <header class="gallery-header">
-                    <h2 class="title">{{ section.frontpagetitle }}</h2>
+                    <h2 class="title mb0">{{ section.frontpagetitle }}</h2>
                   </header>
                   {% if section.homepage_description_markdown %}
-                    {{ section.homepage_description_markdown  | markdownify }}<br>
+                    {{ section.homepage_description_markdown | markdownify }}<br>
                     <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
                   {% endif %}
+                </span>
               </article>
             </div>
             </a>

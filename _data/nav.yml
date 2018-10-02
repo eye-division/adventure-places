@@ -4,17 +4,15 @@
 - title: "Adventures"
   href: "/adventures/"
 
-- title: "Projects"
-  href: "/projects/"
-
 - title: "Kit"
   href: "/kit/"
-
-- title: "Posts"
-  href: "/posts/"
+- title: "Projects"
+  href: "/projects/"
+- title: "Books"
+  href: "/books/"
+- title: "News"
+  href: "/news/"
 - title: "About"
   href: "/about/"
 - title: "Contact"
   href: "/contact/"
-#- title: "Typography"
-#  href: "/typography/"

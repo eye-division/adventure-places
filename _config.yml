@@ -20,7 +20,7 @@ baseurl: ""
 url: "https://hungry-hugle-985803.netlify.com"
 logo:
 email: a.ward@eyedivision.com
-placeholder_image: "/assets/images/leaf-icon.png"
+#placeholder_image: "/assets/images/leaf-icon.png"
 
 # Build settings
 markdown: kramdown
@@ -36,18 +36,45 @@ imagecdn:
 
 # Collections Example
 collections:
+    adventures:
+        output: true
+        permalink: /adventure/:path/
     projects:
         output: true
-        permalink: /projects/:path/
+        permalink: /project/:path/
+    kit:
+        output: true
+        permalink: /kit/:path/
+    books:
+        output: true
+        permalink: /books/:path/
 
 # Defaults Example
 defaults:
     -
         scope:
             path: ""
+            type: "adventures"
+        values:
+            layout: "adventure"
+    -
+        scope:
+            path: ""
             type: "projects"
         values:
             layout: "project"
+    -
+        scope:
+            path: ""
+            type: "kit"
+        values:
+            layout: "kit"
+    -
+        scope:
+            path: ""
+            type: "books"
+        values:
+            layout: "book"
     -
         scope:
           path: "" # an empty string here means all files in the project
@@ -162,8 +189,8 @@ social:
   - name: Pinterest
     icon: icon-pinterest
     username:
-    url: http://uk.pinterest.com/
-    desc: Follow me on Pinterest
+    url:
+    desc:
     share: true
 
 # Social sharing protocols

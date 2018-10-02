@@ -2,9 +2,9 @@
 layout: post
 title: Biking in the Brecon Beacons
 date: 2018-07-07 15:21:00
-main_image_path: /assets/images/bikepacking- brecon beacons 1.jpg
+main_image_path: /assets/images/bikepacking-breconbeacons1.jpg
 images:
-  - image_path: /assets/images/bikepacking- brecon beacons 1.jpg
+  - image_path: /assets/images/bikepacking-breconbeacons1.jpg
     description: "Biking in the Brecon Beacons"
 _options:
   main_image_path:
