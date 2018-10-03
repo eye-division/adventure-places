@@ -4,9 +4,12 @@
 
     <div class="site--navigation">
 
-      <p><strong>Site Map</strong></p>
+      <h3>Site Map</h3>
+      {% assign links = site.pages | where:"main_nav",true | sort: "pageorder_number" %}
       <ul class="pages">
-        {% for page in site.pages %}
+
+        {% for page in links %}
+
           {% if page.title and page.main_nav != false %}
             <li class=""><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
@@ -18,11 +21,9 @@
 
     <div class="site--contact">
 
-      <p><strong>Contact</strong></p>
-      <p>Adventure Places<br>
-        <em>Address</em><br>
-      Tel:</p>
-      <p><a href="mailto:"> <svg class="icon icon__white"><use xlink:href="#icon-envelope_alt" /></svg> someone@somewhere.com</a></p>
+      <h3>Contact</h3>
+      <p>Adventure Places</p>
+      <p><a href="mailto:someone@somewhere.com"><svg class="icon icon--light"><use xlink:href="#icon-envelope_alt" /></svg></a> <a href="mailto:someone@somewhere.com">someone@somewhere.com</a></p>
 
       <ul class="social-media-list list--horizontal">
 
@@ -30,7 +31,7 @@
           {% if social.url != null %}
           <li class="">
             <a href="{{ social.url }}" title="{{ social.desc }}">
-              <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
+              <svg class="icon {{ social.icon }} icon--light"><use xlink:href="#{{ social.icon }}" /></svg>
             </a>
           </li>
           {% endif %}

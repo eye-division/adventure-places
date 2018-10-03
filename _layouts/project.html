@@ -21,11 +21,27 @@ layout: default
     </figure>
   {% endif %}
 
-  {% if page.description_markdown %}
+
     <section class="main--content">
-      {{ page.description_markdown | markdownify }}
+
+      {% if page.ongoing %}
+        <p><strong>Project in progress!</strong></p>
+      {% endif %}
+
+      {% if page.project_date %}
+        <p class="post--date">{{ page.project_date  | date: "%B %Y" }}
+        {% if page.project_to_date %}
+          to {{ page.project_to_date  | date: "%B %Y" }}
+        {% endif %}
+        </p>
+      {% endif %}
+
+      {% if page.description_markdown %}
+        {{ page.description_markdown | markdownify }}
+      {% endif %}
+
     </section>
-    {% endif %}
+
 
 {% if with_media %}
   <aside class="media">

@@ -3,6 +3,7 @@ layout: home
 main_image_path: "/assets/images/fellrunning-howgills.jpg"
 main_image_caption: "Fell running in the Howgills"
 show_carousel: false
+show_blog: false
 carousel:
   - image: /assets/images/bikepacking-breconbeacons1.jpg
     caption: "Bike packing, Brecon Beacons"
@@ -11,6 +12,13 @@ carousel:
     caption: "Kayaking, Isles of Scilly"
     link:
 _options:
+  layout:
+    hidden: true
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
   image:
     width: 1200
     height: 1200
@@ -23,9 +31,19 @@ _comments:
   link: Optional web link from the slide
   caption: optional caption
 ---
+
+  {% if page.main_image_path %}
+    <figure>
+    {% assign alt_text = page.title %}
+    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+    {% include img.html src=page.main_image_path alt=alt_text %}
+    <figcaption>{{ alt_text }}</figcaption>
+    </figure>
+  {% endif %}
+
   <div class="editable">
     <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
-    <p>Test out the alternative full width <a href="/video/">video layout</a></p>
+
     </div>
 
 
@@ -88,6 +106,7 @@ _comments:
 
       {% endfor %}
 
+    {% if page.show_blog %}
     <section class="blog blog--home">
 
       <ul class="posts--list">
@@ -127,3 +146,4 @@ _comments:
       <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
 
     </section>
+    {% endif %}

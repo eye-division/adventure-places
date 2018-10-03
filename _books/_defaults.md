@@ -5,6 +5,7 @@ book_date:
 list: false
 archive: false
 description_markdown: 
+purchase_link: 
 main_image_path:
 main_image_caption:
 images:

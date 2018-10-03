@@ -7,35 +7,39 @@ layout: default
     <h1 class="post--title">{{ page.title }}</h1>
   </header>
 
-  <section id="content">
+  <section class="main--content">
+    {{ content }}
+  </section>
 
-    <section class="main--content">
-      {{ content }}
-    </section>
+  {% if page.images[0].image_path %}
 
+  <section class="gallery">
 
-    {% if page.images[0].image_path %}
-    <section class="gallery">
-      {% for image in page.images %}
+    {% for image in page.images %}
 
-        {% if image.image_path %}
-        <div class="gallery--box {% cycle 'alpha', '', 'last' %}">
+      {% if image.image_path %}
+
+      <div class="gallery--box {% cycle 'alpha', '', 'last' %}">
         {% include img.html src=image.image_path alt=image.description %}
         <caption>{{ image.image_title }}</caption>
       </div>
+
       {% endif %}
-      {% endfor %}
-    </section>
-    {% endif %}
+
+    {% endfor %}
 
   </section>
 
-  <section class="rss">
-  <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-</section>
+  {% endif %}
 
-<section class="share">
+
+  <section class="rss">
+    <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
+  </section>
+
+  <section class="share">
   <span>Share: </span>
+
   {% for social in site.social %}
     {% capture full_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
     {% if social.name == "Twitter" and social.share == true %}
@@ -74,13 +78,11 @@ layout: default
         <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
       </a>
     {% endif %}
-    {% if social.name == "Hacker News" and social.share == true %}
-      <a href="//news.ycombinator.com/submitlink" onclick="window.location = '//news.ycombinator.com/submitlink?u=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
-        <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
-      </a>
-    {% endif %}
+
   {% endfor %}
+
 </section>
+
 {% if site.inter_post_navigation == true %}
   <section class="post--navigation">
     <span class="prev--post">
@@ -107,22 +109,25 @@ layout: default
 {% endif %}
 
 {% if site.disqus_shortname %}
-{% unless page.disqus_disabled %}
-<section class="disqus">
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-    var disqus_shortname = '{{ site.disqus_shortname }}';
 
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-  </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</section>
-{% endunless %}
+  {% unless page.disqus_disabled %}
+  <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = '{{ site.disqus_shortname }}';
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function() {
+          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </section>
+  {% endunless %}
+
 {% endif %}
+
 </div>

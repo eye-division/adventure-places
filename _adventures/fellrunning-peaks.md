@@ -1,7 +1,7 @@
 ---
 title: "Fell running in the Peak District"
 permalink:
-adventure_date:
+adventure_date: 2016-03-23T10:20:00Z
 list: false
 archive: false
 description_markdown:  >-

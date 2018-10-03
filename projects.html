@@ -1,19 +1,27 @@
 ---
 layout: page-noimage
-title: "Projects"
+title: "Recent projects"
 permalink: "/projects/"
 main_image_path: "/assets/images/mountainbiking-dartmoor.jpg"
 main_image_caption: "Mountain biking on Dartmoor"
+pageorder_number: 3
 main_nav: true
 frontpage: true
 homepage_description_markdown: "Projects we're involved in"
-frontpagetitle: "Projects"
+frontpagetitle: "Recent projects"
 images:
   - image_path:
     image_title: ""
     image_description:
 _options:
+  layout:
+    hidden: true
   main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  image_path:
     width: 1200
     height: 1200
     resize_style: "contain"
@@ -52,12 +60,28 @@ _comments:
       {% endif %}
     </a>
 
-    <div class="post--caption">
-        {% if project.description_markdown %}
+    <div class="post--content">
+
         <h3>{{ project.title }}</h3>
-        <p>{{ project.description_markdown | markdownify }}<br />
-          <a href="{{ project.url }}" title="{{ project.title }}">View this project&nbsp;&raquo;</a></p>
+
+        {% if project.description_markdown %}
+          <p>{{ project.description_markdown | markdownify }}</p>
         {% endif %}
+
+        {% if project.ongoing %}
+            <p><strong>In progress!</strong></p>
+        {% endif %}
+
+        {% if project.project_date %}
+          <p class="post--date">{{ project.project_date | date: "%B %Y" }}
+          {% if project.project_to_date %}
+            to {{ project.project_to_date | date: "%B %Y" }}
+          {% endif %}
+          </p>
+        {% endif %}
+
+        <p><a href="{{ project.url }}" title="{{ project.title }}">View this project&nbsp;&raquo;</a></p>
+
     </div>
 
   </li>

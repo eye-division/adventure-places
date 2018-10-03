@@ -2,7 +2,6 @@
 title:
 permalink:
 adventure_date:
-adventure_to_date:
 list: false
 archive: false
 description_markdown: 

@@ -24,6 +24,10 @@ layout: default
 
   {% if page.description_markdown %}
     <section class="main--content">
+      {% if page.adventure_date %}
+        <p class="post--date">{{ page.adventure_date  | date: "%B %Y" }}</p>
+      {% endif %}
+
       {{ page.description_markdown | markdownify }}
     </section>
     {% endif %}

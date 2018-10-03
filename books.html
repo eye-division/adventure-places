@@ -4,6 +4,8 @@ title: "Books"
 permalink: "/books/"
 main_image_path: "/assets/images/Wild-Running-mid-res.jpg"
 main_image_caption: "Wild Running"
+pageorder_number: 4
+main_nav: true
 frontpage: true
 homepage_description_markdown: We write books!
 frontpagetitle: "Books"
@@ -12,7 +14,14 @@ images:
     image_title: ""
     image_description:
 _options:
+  layout:
+    hidden: true
   main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  image_path:
     width: 1200
     height: 1200
     resize_style: "contain"
@@ -51,9 +60,12 @@ _comments:
       {% endif %}
     </a>
 
-    <div class="post--caption">
+    <div class="post--content">
         {% if book.description_markdown %}
         <h3>{{ book.title }}</h3>
+        {% if page.book_date %}
+        <p class="post--date">{{ page.book_date  | date: "%Y" }}</p>
+      {% endif %}
         <p>{{ book.description_markdown | markdownify }}<br />
           <a href="{{ book.url }}" title="{{ book.title }}">View this book&nbsp;&raquo;</a></p>
         {% endif %}

@@ -1,5 +1,5 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Overlock:400,400i);
 @font-face {
     font-family: 'trailmade_extrasregular';
     src: url('/assets/fonts/trailmadeextras-regular-webfont.woff2') format('woff2'),
@@ -24,12 +24,13 @@
     font-style: normal;
 }
 /// Typography
-$base-font-family: ('Open Sans',  'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $helvetica;
+//$base-font-family: ('Open Sans',  'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $helvetica;
+$base-font-family: ('Overlock', cursive);
 $heading-font-family: ('trailmaderegular', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
-$subheading-font-family: ('Open Sans', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif);
+$subheading-font-family: ('Overlock', cursive);
 $logo-font-family: ('trailmaderegular', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
 // Font Sizes
-$base-font-size: 16px; // 16px
+$base-font-size: 1.25em; // 16px
 
 $site-title-font-family: $logo-font-family;
 
@@ -62,6 +63,7 @@ $orange: rgb(211, 84, 0);           // Pumpkin
 $red:   rgb(192, 57, 43);               // Pomegranate
 $gray: rgb(127, 140, 141);              // Asbestos
 $dark-gray: rgb(51, 51, 51) !default;
+$dark-red: rgb(156, 19, 19);
 
 // Social Media Brand Colors */
 $twitter: rgb(0, 172, 237);
@@ -136,10 +138,10 @@ $navigation-color-hover: $medium-gray;
 $navigation-active-link-color: transparentize(black, 0.5);
 
 // footer
-$footer-background: $white;
-$footer-color: $black;
-$footer-color-hover: $action-color;
-$footer-active-link-color: $black;
+$footer-background: $dark-red;
+$footer-color: $white;
+$footer-color-hover: shade($footer-color, 10%);
+$footer-active-link-color: shade($footer-color, 10%);
 
 // drop down variables
 $dropdown-color: $base-font-color;
@@ -181,6 +183,8 @@ $large: (
 
 body {
   background-color: $base-background-color;
+  font-family: $base-font-family;
+  font-size: $base-font-size;
 }
 
 hr {

@@ -1,9 +1,9 @@
 ---
 title: "Example project"
 permalink:
-project_date:
-project_to_date:
-list: false
+project_date: 2018-03-23T10:20:00Z
+project_to_date: 2018-06-23T10:20:00Z
+ongoing: true
 archive: false
 description_markdown: >-
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!" 
