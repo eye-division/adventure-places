@@ -37,10 +37,10 @@ _comments:
 ---
 
 <section class="book--intro editable">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos commodi, eveniet neque voluptatem iure, repellendus laudantium nulla sint nisi error aliquam porro est dolores cumque, sequi iste esse libero suscipit.</p>
+  <p>Published in 2014 our first book, <a href="/books/wild-running/">Wild Running</a>, champions the incredible off-road running to be found in Britain. <a href="/books/amazing-family-adventures/">Amazing Family Adventures* with the National Trust</a> and <em>Day Walks in Devon</em> were published in 2017 and we’re excited to announce two new books for 2018: <a href="/books/adventurers-guide-to-britain/">The Adventurer’s Guide to Britain</a>, out on 17 May, and <em>Day Walks in Cornwall</em>, out in the autumn. Click on a book image for full details and to purchase.</p>
 </section>
 
-{% assign books = site.books %}
+{% assign books = site.books | sort: "book_date" | reverse %}
 
 {% if books %}
 

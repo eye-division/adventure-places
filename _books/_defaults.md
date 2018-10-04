@@ -2,7 +2,6 @@
 title:
 permalink:
 book_date:
-list: false
 archive: false
 description_markdown: 
 purchase_link: 

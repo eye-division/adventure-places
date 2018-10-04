@@ -1,11 +1,10 @@
 ---
 title: "Wild Running"
-permalink:
+permalink: 
 book_date: 2016-03-23T10:20:00Z
-list: false
 archive: false
 description_markdown:  >-
-  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!"
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!
 purchase_link: "http://wildrunning.net/buy-book/"
 main_image_path: "/assets/images/Wild-Running-mid-res.jpg"
 main_image_caption: "Wild Running"

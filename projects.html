@@ -40,7 +40,7 @@ _comments:
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta vero neque nulla eos, cumque soluta voluptas consequuntur velit hic ipsam ea est nesciunt quidem doloremque perferendis possimus, quae quibusdam. Asperiores!</p>
 </section>
 
-{% assign projects = site.projects | where:"archive",false | sort: "order" %}
+{% assign projects = site.projects | where:"archive",false | sort: "project_date" | reverse %}
 
 {% if projects %}
 

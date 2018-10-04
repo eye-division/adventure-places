@@ -1,13 +1,14 @@
 ---
-title: "Fell running in the Peak District"
+title: "Another project"
 permalink:
-adventure_date: 2016-03-23T10:20:00Z
-list: false
+project_date: 2017-02-23T10:20:00Z
+project_to_date: 2017-03-23T10:20:00Z
+ongoing: false
 archive: false
-description_markdown:  >-
+description_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!
-main_image_path: "/assets/images/fellrunning-peakdistrict1.jpg"
-main_image_caption: "Fell running in the Peak District"
+main_image_path: "/assets/images/bouldering-cotswolds.jpg"
+main_image_caption: "Bouldering in the Cotswolds"
 images:
   - image_path:
     description:

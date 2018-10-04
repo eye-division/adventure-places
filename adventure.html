@@ -40,15 +40,13 @@ _comments:
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta vero neque nulla eos, cumque soluta voluptas consequuntur velit hic ipsam ea est nesciunt quidem doloremque perferendis possimus, quae quibusdam. Asperiores!</p>
 </section>
 
-{% assign adventures = site.adventures %}
+{% assign adventures = site.adventures | sort: "adventure_date" | reverse %}
 
 {% if adventures %}
 
 <section class="adventures">
 
   <ul class="posts--list">
-
-  {% assign adventures = adventures | sort: "adventure_date" %}
 
   {% for adventure in adventures %}
 
