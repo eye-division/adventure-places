@@ -26,7 +26,7 @@ collections:
         widget: "date"
       - label: "Featured Image"
         name: "main_image_path"
-        hint: "This is used in the list of Adventures"
+        hint: "This is displayed in the list of Adventures and at the top of your page"
         widget: "image"
       - label: "Image caption"
         name: "main_image_caption"
@@ -40,13 +40,9 @@ collections:
       - label: "Description"
         name: "description_markdown"
         widget: "markdown"
-      #- label: "Images"
-      #  name: "images"
-      #  widget: "object"
-      #  fields:
-      #    - label: "Image"
-      #      name: "image_path"
-      #      widget: "image"
-      #    - label: "Image caption"
-      #      name: "description"
-      #      widget: "string"
+      - label: "Images"
+        name: "images"
+        widget: "object"
+        fields:
+          - {label: "Image", name: "image_path", widget: "image"}
+          - {label: "Image caption", name: "description", widget: "string"}
