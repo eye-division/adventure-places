@@ -5,6 +5,8 @@ backend:
 # This line should *not* be indented
 media_folder: "assets/images" # Media files will be stored in the repo under assets/images/
 
+display_url: https://hungry-hugle-985803.netlify.com
+
 collections:
   - name: "adventure" # Used in routes, e.g., /admin/collections/blog
     label: "Adventure" # Used in the UI
@@ -12,15 +14,39 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "adventure"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Adventure date", name: "adventure_date", widget: "date"}
-      - {label: "Featured Image", name: "main_image_path", widget: "image"}
-      - {label: "Image caption", name: "main_image_caption", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Order", name: "order_number", widget: "number"}
-      - {label: "Description", name: "description_markdown", widget: "markdown"}
-      - {label: "Images", name: "images", widget: "object", fields:
-        - {label: "Image", name: "image_path", widget: "image" }
-        - {label: "Image caption", name: "description", widget: "string"}
-        }
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "adventure"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Adventure date"
+        name: "adventure_date"
+        widget: "date"
+      - label: "Featured Image"
+        name: "main_image_path"
+        hint: "This is used in the list of Adventures"
+        widget: "image"
+      - label: "Image caption"
+        name: "main_image_caption"
+        widget: "string"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+      - label: "Order"
+        name: "order_number"
+        widget: "number"
+      - label: "Description"
+        name: "description_markdown"
+        widget: "markdown"
+      - label: "Images"
+        name: "images"
+        widget: "object"
+        fields:
+          - label: "Image"
+            name: "image_path"
+            widget: "image"
+          - label: "Image caption"
+            name: "description"
+            widget: "string"
