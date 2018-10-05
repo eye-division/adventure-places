@@ -3,7 +3,13 @@ backend:
   branch: develop # Branch to update (optional; defaults to master) https://github.com/eye-division/adventure-places
 
 # This line should *not* be indented
-media_folder: "assets/images" # Media files will be stored in the repo under assets/images/
+# media_folder: "assets/images" # Media files will be stored in the repo under assets/images/ - remove when using Uploadcare
+
+# use Uploadcare as image CDN
+media_library:
+  name: uploadcare
+  config:
+    publicKey: fa92adaaade3867141c5
 
 display_url: https://hungry-hugle-985803.netlify.com
 
@@ -41,9 +47,9 @@ collections:
       - label: "Description"
         name: "description_markdown"
         widget: "markdown"
-      - label: "Images"
-        name: "images"
-        widget: "object"
-        fields:
-          - {label: "Image", name: "image_path", widget: "image"}
-          - {label: "Image caption", name: "description", widget: "string"}
+      #- label: "Images"
+      #  name: "images"
+      #  widget: "object"
+      #  fields:
+      #    - {label: "Image", name: "image_path", widget: "image"}
+      #    - {label: "Image caption", name: "description", widget: "string"}
