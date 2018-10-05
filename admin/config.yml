@@ -3,7 +3,7 @@ backend:
   branch: develop # Branch to update (optional; defaults to master) https://github.com/eye-division/adventure-places
 
 # This line should *not* be indented
-media_folder: "assets/images/" # Media files will be stored in the repo under assets/images/
+media_folder: "assets/images" # Media files will be stored in the repo under assets/images/
 
 collections:
   - name: "adventure" # Used in routes, e.g., /admin/collections/blog
