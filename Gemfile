@@ -8,8 +8,6 @@ gem "jekyll-sitemap", "~>0.8"
 #
 gem "jekyll-seo-tag"
 
-gem "jekyll-seo-tag"
-
 gem 'jekyll-tagging-related_posts'
 
 gem 'jekyll-tagging'
