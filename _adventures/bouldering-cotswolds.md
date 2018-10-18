@@ -8,8 +8,8 @@ main_image_caption: "Bouldering in the Cotswolds"
 frontpage: true
 homepage_description_markdown:
 location:
-    latitude: 51.5285582
-    longitude: -0.2416807
+    latitude: 51.633869
+    longitude: -2.340849
 images:
   - image_path:
     description:

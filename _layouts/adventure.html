@@ -26,8 +26,9 @@ layout: default
 
   {% if page.location %}
 
-    {% google_map %}
-
+    <div class="video--responsive">
+      {% google_map zoom="10"  %}
+    </div>
   {% endif %}
 
   {% if page.description_markdown %}

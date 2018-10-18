@@ -8,8 +8,8 @@ main_image_caption: "Fell running in the Peak District"
 frontpage: true
 homepage_description_markdown:
 location:
-    latitude: 54.5285582
-    longitude: -1.2416807
+    latitude: 53.249948
+    longitude: -1.774388
 images:
   - image_path:
     description:
