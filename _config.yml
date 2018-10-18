@@ -28,7 +28,7 @@ email: a.ward@eyedivision.com
 # jekyll-maps Google Maps API key
 maps:
     google:
-        #api_key: <YOUR_KEY>
+        api_key: "AIzaSyCzLQJuptww2IOTEZHUT0VRix4_JnNbyd0"
 
 # Build settings
 markdown: kramdown
