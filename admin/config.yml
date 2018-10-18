@@ -41,6 +41,7 @@ collections:
       - label: "Tags"
         name: "tags"
         widget: "list"
+        required: false
       - label: "Order"
         name: "order_number"
         widget: "number"

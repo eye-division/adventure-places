@@ -50,35 +50,35 @@ _comments:
 
   {% for adventure in adventures %}
 
-  <li class="post--inlist">
+    <li class="post--inlist">
 
-    <a href="{{ adventure.url }}" title="{{ adventure.title }}" class="post--image">
-      {% if adventure.main_image_path %}
-          {% include img.html src=adventure.main_image_path max-w=200 %}
-      {% else %}
-          {% include img.html src=site.placeholder_image width=150 %}
-      {% endif %}
-    </a>
+      <a href="{{ adventure.url }}" title="{{ adventure.title }}" class="post--image">
+        {% if adventure.main_image_path %}
+            {% include img.html src=adventure.main_image_path max-w=200 %}
+        {% else %}
+            {% include img.html src=site.placeholder_image width=150 %}
+        {% endif %}
+      </a>
 
-    <div class="post--content">
+      <div class="post--content">
 
-        <h3>{{ adventure.title }}</h3>
-        <p>
-          {% if adventure.description_markdown %}
-            {{ adventure.description_markdown | markdownify }}<br>
-          {% endif %}
-          {% if adventure.adventure_date %}
-            <span class="post--date">{{ adventure.adventure_date  | date: "%B %Y" }}</span><br>
-          {% endif %}
-          <a href="{{ adventure.url }}" title="{{ adventure.title }}">View this adventure&nbsp;&raquo;</a>
-        </p>
+          <h3>{{ adventure.title }}</h3>
+          <p>
+            {% if adventure.description_markdown %}
+              {{ adventure.description_markdown | markdownify }}<br>
+            {% endif %}
+            {% if adventure.adventure_date %}
+              <span class="post--date">{{ adventure.adventure_date  | date: "%B %Y" }}</span><br>
+            {% endif %}
+            <a href="{{ adventure.url }}" title="{{ adventure.title }}">View this adventure&nbsp;&raquo;</a>
+          </p>
 
+      </div>
 
+    </li>
 
-    </div>
-
-  </li>
   {% endfor %}
+
   </ul>
 
 </section>

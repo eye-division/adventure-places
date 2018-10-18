@@ -3,6 +3,8 @@ plugins:
  # - jekyll-archives # Sorry, not GitHub pages friendly!
    - jekyll-seo-tag
    - jekyll-sitemap
+   - jekyll/tagging
+   - jekyll-tagging-related_posts
 
 #exclude:
 #  - "/vendor/"
@@ -19,6 +21,7 @@ baseurl: ""
 # the base hostname & protocol for your site
 url: "https://hungry-hugle-985803.netlify.com"
 logo:
+show_logo: false
 email: a.ward@eyedivision.com
 #placeholder_image: "/assets/images/leaf-icon.png"
 
@@ -83,15 +86,16 @@ defaults:
           layout: "post"
 
 _options:
-  _text:
-    italic: true
-    bold: true
+  _text:            # text =
     link: true
-    undo: true
-    redo: true
-    underline: true
-    strike: true
+    bold: true
+    italic: true
+    removeformat: true
   _block:
+    link: true
+    bold: true
+    italic: true
+    removeformat: true
     left: align-left
     center: center-this-text
     right: align-right
@@ -101,23 +105,23 @@ _options:
     format: p h1 h2 h3 h4 div
     numberedlist: true
     bulletedlist: true
-    indent: true
-    outdent:  true
     blockquote: true
     image: true
     styles: /css/editor.scss
   content:
+    link: true
+    bold: true
+    italic: true
+    removeformat: true
     left: align-left
     center: center-this-text
     right: align-right
     justify: full-width-text
     undo: true
     redo: true
-    format: p h1 h2 h3 h4 div
+    format: p h2 h3 h4 h5 h6 div
     numberedlist: true
     bulletedlist: true
-    indent: true
-    outdent:  true
     blockquote: true
     image: true
     styles: /css/editor.scss
