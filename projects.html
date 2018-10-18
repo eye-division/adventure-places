@@ -54,9 +54,9 @@ _comments:
 
     <a href="{{ project.url }}" title="{{ project.title }}" class="post--image">
       {% if project.main_image_path %}
-          {% include img.html src=project.main_image_path max-w=200 %}
+          {% include img.html src=project.main_image_path %}
       {% else %}
-          {% include img.html src=site.placeholder_image width=150 %}
+          {% include img.html src=site.placeholder_image %}
       {% endif %}
     </a>
 
