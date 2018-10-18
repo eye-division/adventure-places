@@ -9,12 +9,15 @@ main_nav: true
 frontpage: false
 homepage_description_markdown:
 frontpagetitle:
+show_form: true
 images:
   - image_path:
     image_title: ""
     image_description:
 _options:
   layout:
+    hidden: true
+  permalink:
     hidden: true
   main_image_path:
     width: 1200
@@ -28,8 +31,8 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Page title
-  permalink: Be careful editing this
   main_image_path: Image used to represent your page
+  show_form: Do you want to show a contact form?
   frontpage: Show this page on the homepage
   homepage_description_markdown: Text used on homepage if shown
   frontpagetitle: Alternative title for home page use
@@ -38,7 +41,7 @@ _comments:
   <div class="editable">
        <strong>Tel:</strong> 111 1111
   </div>
-
+{% if page.show_form %}
       <h4>Send an email</h4>
 
       <form action="/thanks/" name="contact" method="post" netlify>
@@ -59,12 +62,14 @@ _comments:
             <label>Message</label>
             <textarea name="message"></textarea>
             </p>
-            {% if site.recaptcha_site_key %}
-                  <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+            {% if site.recaptcha_site_key and jekyll.environment == 'production' %}
+              <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
             {% endif %}
-      	<p>
+      	     <p>
             <input type="submit" value="Send message">
             </p>
       </fieldset>
 
       </form>
+
+{% endif %}

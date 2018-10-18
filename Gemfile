@@ -16,3 +16,6 @@ gem 'jekyll-tagging'
 #gem 'neat', '~> 3.0'
 # Oct 2018 - replace jekyll sass gem with sassc
 gem 'sassc'
+
+# jekyll maps - https://ayastreb.me/jekyll-maps/
+gem 'jekyll-maps'

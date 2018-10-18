@@ -22,6 +22,12 @@ layout: default
     </figure>
   {% endif %}
 
+  {% if page.location %}
+
+    {% google_map %}
+
+  {% endif %}
+
   {% if page.description_markdown %}
     <section class="main--content">
       {% if page.adventure_date %}
@@ -31,6 +37,7 @@ layout: default
       {{ page.description_markdown | markdownify }}
     </section>
     {% endif %}
+  }
 
 {% if with_media %}
   <aside class="media">
