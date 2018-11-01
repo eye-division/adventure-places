@@ -1,0 +1,41 @@
+// -----------------------------------------------------------------------------
+// Parallax styles
+// -----------------------------------------------------------------------------
+.main--container {
+  perspective: 1px;
+  transform-style: preserve-3d;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.content--container {
+  position: relative;
+  display: block;
+  background-color: white;
+  z-index: 1;
+  background: url(/assets/patterns/leaves.png) repeat;
+  background-color: rgb(255,255, 255);
+}
+
+.content {
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 75px 0;
+}
+.parallax--container {
+  display: flex;
+  flex: 1 0 auto;
+  position: relative;
+  z-index: -1;
+  height: 100vh;
+  justify-content: center;
+  align-items: top;
+  transform: translateZ(-1px) scale(2);
+  background: url(/assets/images/kayaking-cover.jpg) no-repeat center center;
+  background-size: cover;
+  background-color: rgb(255,255, 255);
+}
+.text--white {
+    color: $white;
+}

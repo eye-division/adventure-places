@@ -1,0 +1,39 @@
+---
+
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  {% assign section = page.url | split: '/' %}
+
+  <body class="{% if section[1] %}{{section[1]}}{% else %}front{% endif %}">
+
+    {% include svg/symbol-defs.svg %}
+
+    {% include header.html %}
+
+    <div class="page--content">
+
+        <div class="page">
+
+
+          <article class="post--content">
+
+            {{ content }}
+
+          </article>
+
+        </div>
+
+    </div>
+
+    {% include footer.html %}
+
+
+  </body>
+
+</html>
+

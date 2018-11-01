@@ -190,8 +190,8 @@ social:
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: '@jenandsim'
-    url: https://twitter.com/@jenandsim
+    username: 'jenandsim'
+    url: https://twitter.com/jenandsim
     desc: Follow us on Twitter
     share: true
 
