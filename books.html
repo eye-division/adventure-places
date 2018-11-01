@@ -1,0 +1,95 @@
+---
+layout: page-noimage
+title: "Books"
+permalink: "/books/"
+main_image_path: "/assets/images/Wild-Running-mid-res.jpg"
+main_image_caption: "Wild Running"
+pageorder_number: 4
+main_nav: true
+frontpage: true
+homepage_description_markdown: We write books!
+frontpagetitle: "Books"
+images:
+  - image_path:
+    image_title: ""
+    image_description:
+_options:
+  layout:
+    hidden: true
+  permalink:
+    hidden: true
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+_comments:
+  title: Page title
+  main_image_path: Image used to represent your page
+  main_nav: show in top navigation
+  frontpage: Show this page on the homepage
+  homepage_description_markdown: Text used on homepage if shown
+  frontpagetitle: Alternative title for home page use
+  images: Add and edit images here
+---
+
+<section class="book--intro editable">
+  <p>Published in 2014 our first book, <a href="/books/wild-running/">Wild Running</a>, champions the incredible off-road running to be found in Britain. <a href="/books/amazing-family-adventures/">Amazing Family Adventures* with the National Trust</a> and <em>Day Walks in Devon</em> were published in 2017 and we’re excited to announce two new books for 2018: <a href="/books/adventurers-guide-to-britain/">The Adventurer’s Guide to Britain</a>, out on 17 May, and <em>Day Walks in Cornwall</em>, out in the autumn. Click on a book image for full details and to purchase.</p>
+</section>
+
+{% assign books = site.books | sort: "book_date" | reverse %}
+
+{% if books %}
+
+<section class="book--current">
+
+  <ul class="posts--list">
+
+  {% for book in books %}
+
+  <li class="post--inlist">
+
+    <a href="{{ book.url }}" title="{{ book.title }}" class="post--image">
+      {% if book.main_image_path %}
+          {% include img.html src=book.main_image_path %}
+      {% else %}
+          {% include img.html src=site.placeholder_image %}
+      {% endif %}
+    </a>
+
+    <div class="post--content">
+        {% if book.description_markdown %}
+        <h3>{{ book.title }}</h3>
+        {% if page.book_date %}
+        <p class="post--date">{{ page.book_date  | date: "%Y" }}</p>
+      {% endif %}
+        <p>{{ book.description_markdown | markdownify }}<br />
+          <a href="{{ book.url }}" title="{{ book.title }}">View this book&nbsp;&raquo;</a></p>
+        {% endif %}
+    </div>
+
+  </li>
+  {% endfor %}
+  </ul>
+
+</section>
+
+
+{% else %}
+
+  {% if page.main_image_path %}
+    <figure>
+    {% assign alt_text = page.title %}
+    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+    {% include img.html src=page.main_image_path alt=alt_text %}
+    <figcaption>{{ alt_text }}</figcaption>
+    </figure>
+  {% endif %}
+
+{% endif %}
+

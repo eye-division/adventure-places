@@ -1,0 +1,56 @@
+backend:
+  name: git-gateway
+  branch: develop # Branch to update (optional; defaults to master) https://github.com/eye-division/adventure-places
+
+# This line should *not* be indented
+# media_folder: "assets/images" # Media files will be stored in the repo under assets/images/ - remove when using Uploadcare
+
+# use Uploadcare as image CDN
+media_library:
+  name: uploadcare
+  config:
+    publicKey: fa92adaaade3867141c5
+
+display_url: https://hungry-hugle-985803.netlify.com
+
+collections:
+  - name: "adventure" # Used in routes, e.g., /admin/collections/blog
+    label: "Adventures" # Used in the UI
+    label_singular: "Adventure"
+    folder: "_adventures" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "adventure"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Adventure date"
+        name: "adventure_date"
+        widget: "date"
+      - label: "Featured Image"
+        name: "main_image_path"
+        hint: "This is displayed in the list of Adventures and at the top of your page"
+        widget: "image"
+      - label: "Image caption"
+        name: "main_image_caption"
+        widget: "string"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+      - label: "Order"
+        name: "order_number"
+        widget: "number"
+      - label: "Description"
+        name: "description_markdown"
+        widget: "markdown"
+      #- label: "Images"
+      #  name: "images"
+      #  widget: "object"
+      #  fields:
+      #    - {label: "Image", name: "image_path", widget: "image"}
+      #    - {label: "Image caption", name: "description", widget: "string"}

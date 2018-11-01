@@ -4,15 +4,31 @@
 
 .front {
 
-    .page-content {
-        @include outer-container(100%);
-    }
+    .page--content {
+         @include grid-container;
+     }
     .scrim {
         padding: 0 0 20em 0;
     }
     .gallery--front {
-        padding: 0 1em 1em;
+        //padding: 0 1em 1em;
         background: rgba(255,255,255,0.8);
     }
 
+}
+
+.home {
+    @include grid-media($large) { // half page width on 488px and above
+        @include grid-column(3);
+        padding-right: 60px;
+    }
+}
+.blog--home {
+    @include grid-media($large) { // half page width on 488px and above
+        //@include grid-column(1);
+    }
+    blockquote {
+        margin-left: 0;
+        padding-top: 0;
+    }
 }

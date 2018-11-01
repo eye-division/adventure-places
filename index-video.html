@@ -1,0 +1,120 @@
+---
+layout: home
+permalink: /video/
+main_image_path: "/assets/images/fellrunning-howgills.jpg"
+main_image_caption: "Fell running in the Howgills"
+main_nav: false
+show_carousel: false
+carousel:
+  - image: /assets/images/bikepacking-breconbeacons1.jpg
+    caption: "Bike packing, Brecon Beacons"
+    link:
+  - image: /assets/images/kayaking-islesofscilly.jpg
+    caption: "Kayaking, Isles of Scilly"
+    link:
+video: /assets/video/forest_floor
+_options:
+  layout:
+    hidden: true
+  image:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+_comments:
+  carousel: Edit the slideshow
+  link: Optional web link from the slide
+  caption: optional caption
+---
+
+    <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
+    </div>
+
+    {% if page.video %}
+    <section>
+      <video class="background"
+        playsinline
+        loop
+        muted
+        autoplay
+        preload="auto"
+        poster="{{ page.video }}.jpg">
+      <source src="{{ page.video }}.webm" type="video/webm">
+      <source src="{{ page.video }}.mp4" type="video/mp4">
+
+      </video>
+    </section>
+
+    {% endif %}
+
+      <!-- Regular page promotions on front page -->
+      {% for section in site.pages %}
+
+        {% if section.frontpage %}
+
+          {% if section.main_image_path %}
+            <section class="gallery--cover has--cover" style="background-image: url({{ section.main_image_path }});">
+          {% else %}
+            <section class="gallery--cover has--cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+          {% endif %}
+            <a href="{{ section.url | prepend: site.baseurl }}">
+              <div class="scrim has--cover">
+                <article class="gallery--front">
+                  <header class="gallery-header">
+                    <h2 class="title mb0">{{ section.frontpagetitle }}</h2>
+                  </header>
+                  {% if section.homepage_description_markdown %}
+                    {{ section.homepage_description_markdown | markdownify }}<br>
+                    <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
+
+                  {% endif %}
+                </span>
+              </article>
+            </div>
+            </a>
+
+          </section>
+
+        {% endif %}
+
+      {% endfor %}
+
+    <section class="blog blog--home">
+
+      <ul class="posts--list">
+
+        {% for post in site.posts limit:2 %}
+
+         {% unless post.categories contains 'Archive' %}
+
+        <li class="post--inlist">
+
+          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" class="post--image">
+            {% if post.main_image_path %}
+                {% include img.html src=post.main_image_path max-w=400 %}
+            {% else %}
+                {% include img.html src=site.placeholder_image width=150 %}
+            {% endif %}
+          </a>
+
+          <div class="post--caption">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.excerpt | markdownify }}
+              <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
+            <div class="post--meta">
+              <div class="post--date">{{ post.date | date: "%B %Y" }}</div>
+              <!-- Editor Link -->
+              <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
+            </div>
+          </div>
+
+        </li>
+
+        {% endunless %}
+
+        {% endfor %}
+
+      </ul>
+      <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
+
+    </section>

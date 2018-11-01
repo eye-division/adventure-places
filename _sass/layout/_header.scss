@@ -1,25 +1,22 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header
 // -----------------------------------------------------------------------------
-
 /// logo
 .logo {
     display: block;
     color: $base-font-color;
-    text-shadow: 0 2px 1px rgba(0,0,0,0.8) !important;
-    //background: rgba($navigation-color, 0.8);
     padding: 0 0.5em;
-    @include media ($small) {
-        //width: 40%;
-    }
-    //float: left;
-    //height: 6em;
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;//height: 6em;
 
     span {
         font-size: 1.25em;
     }
     h1 {
+        font-size: modular-scale(8);
         margin-bottom: 0;
+        font-family: $logo-font-family;
     }
     .subtitle {
         color: $base-font-color;

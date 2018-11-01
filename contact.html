@@ -2,26 +2,37 @@
 layout: page
 title: Contact
 permalink: /contact/
-main_image_path:
-image_caption:
+main_image_path: "/assets/images/sunsetrunwatergatebay-cornwall.jpg"
+main_image_caption: "Sunset run Watergate Bay, Cornwall"
+pageorder_number: 6
+main_nav: true
 frontpage: false
 homepage_description_markdown:
 frontpagetitle:
+show_form: true
 images:
   - image_path:
     image_title: ""
     image_description:
 _options:
+  layout:
+    hidden: true
+  permalink:
+    hidden: true
   main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+  image_path:
     width: 1200
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
 _comments:
   title: Page title
-  permalink: Be careful editing this
   main_image_path: Image used to represent your page
-  archive: Not used yet!
+  show_form: Do you want to show a contact form?
   frontpage: Show this page on the homepage
   homepage_description_markdown: Text used on homepage if shown
   frontpagetitle: Alternative title for home page use
@@ -30,10 +41,10 @@ _comments:
   <div class="editable">
        <strong>Tel:</strong> 111 1111
   </div>
-
+{% if page.show_form %}
       <h4>Send an email</h4>
 
-      <form action="/thanks/" method="post">
+      <form action="/thanks/" name="contact" method="post" netlify>
 
       <fieldset>
             <input type="text" name="_gotcha" style="display:none" />
@@ -51,12 +62,14 @@ _comments:
             <label>Message</label>
             <textarea name="message"></textarea>
             </p>
-            {% if site.recaptcha_site_key %}
-                  <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+            {% if site.recaptcha_site_key and jekyll.environment == 'production' %}
+              <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
             {% endif %}
-      	<p>
+      	     <p>
             <input type="submit" value="Send message">
             </p>
       </fieldset>
 
       </form>
+
+{% endif %}

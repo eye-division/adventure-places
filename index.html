@@ -1,100 +1,150 @@
 ---
 layout: home
+main_image_path: "/assets/images/fellrunning-howgills.jpg"
+main_image_caption: "Fell running in the Howgills"
+show_carousel: false
+show_blog: false
 carousel:
-  - image: /assets/images/advert-customers.jpg
-    caption: "A test caption"
-    link: /gallery/test/
-  - image: /assets/images/advert-impregnable.jpg
-    caption:
+  - image: /assets/images/bikepacking-breconbeacons1.jpg
+    caption: "Bike packing, Brecon Beacons"
+    link:
+  - image: /assets/images/kayaking-islesofscilly.jpg
+    caption: "Kayaking, Isles of Scilly"
     link:
 _options:
+  layout:
+    hidden: true
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
   image:
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
 _comments:
+  main_image_path: Cover image
+  main_image_caption: Alt text for cover image
   carousel: Edit the slideshow
   link: Optional web link from the slide
   caption: optional caption
 ---
 
-    <div class="editable">
+  {% if page.main_image_path %}
+  <!-- parallax picture please -->
+    <figure>
+    {% assign alt_text = page.title %}
+    {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+    {% include img.html src=page.main_image_path alt=alt_text %}
+    <figcaption>{{ alt_text }}</figcaption>
+    </figure>
+  {% endif %}
+
+  <div class="editable">
     <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
+
     </div>
 
-    {% if page.carousel %}
-    <!-- <div class="two-thirds no-gutter"> -->
-    <section>
-      <h2>This is a demo slideshow</h2>
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.link %}
-              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+
+    {% if page.show_carousel %}
+      {% if page.carousel %}
+      <!-- <div class="two-thirds no-gutter"> -->
+      <section class="slideshow">
+        <div class="flexslider">
+            <ul class="slides">
+              {% for slides in page.carousel %}
+              <li>
+                {% if slides.link %}
+                <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+                {% endif %}
+                {% include img.html src=slides.image width=960 alt=slides.caption %}
+                {% if slides.link %}
+                </a>
               {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.link %}
-              </a>
-            {% endif %}
-              {% if slides.caption %}
-              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      <!-- </div> -->
+                {% if slides.caption %}
+                <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+                {% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </section>
+        <!-- </div> -->
+        {% endif %}
       {% endif %}
 
       <!-- Regular page promotions on front page -->
       {% for section in site.pages %}
 
-      {% if section.frontpage %}
+        {% if section.frontpage %}
 
-        {% if section.main_image_path %}
-          <section class="gallery-cover has-cover" style="background-image: url({{ section.main_image_path }});">
-        {% else %}
-          <section class="gallery-cover has-cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+          {% if section.main_image_path %}
+            <section class="gallery--cover has--cover" style="background-image: url({{ section.main_image_path }});">
+          {% else %}
+            <section class="gallery--cover has--cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+          {% endif %}
+            <a href="{{ section.url | prepend: site.baseurl }}">
+              <div class="scrim has--cover">
+                <article class="gallery--front">
+                  <header class="gallery-header">
+                    <h2 class="title mb0">{{ section.frontpagetitle }}</h2>
+                  </header>
+                  {% if section.homepage_description_markdown %}
+                    {{ section.homepage_description_markdown | markdownify }}<br>
+                    <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
+
+                  {% endif %}
+                </span>
+              </article>
+            </div>
+            </a>
+
+          </section>
+
         {% endif %}
-          <a href="{{ section.url | prepend: site.baseurl }}">
-            <div class="scrim has-cover">
-              <article class="gallery--front">
-                <header class="gallery-header">
-                  <h2 class="title">{{ section.frontpagetitle }}</h2>
-                </header>
-                {% if section.homepage_description_markdown: %}
-                  {{ section.homepage_description_markdown:  | markdownify }}<br>
-                  <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
-                {% endif %}
-            </article>
-          </div>
+      {% endfor %}
+
+    {% if page.show_blog %}
+    <section class="blog blog--home">
+
+      <ul class="posts--list">
+
+        {% for post in site.posts limit:2 %}
+
+         {% unless post.categories contains 'Archive' %}
+
+        <li class="post--inlist">
+
+          <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}" class="post--image">
+            {% if post.main_image_path %}
+                {% include img.html src=post.main_image_path max-w=400 %}
+            {% else %}
+                {% include img.html src=site.placeholder_image width=150 %}
+            {% endif %}
           </a>
-        </section>
 
-      {% endif %}
-
-    {% endfor %}
-
-      <!-- Galleries -->
-    {% for gallery in site.gallery %}
-      {% if gallery.frontpage %}
-        <section class="gallery-cover {% if gallery.main_image_path %}has-cover{% endif %}" {% if gallery.main_image_path %}style="background-image: url({{ gallery.main_image_path | prepend: gallery.baseurl }});"{% endif %}>
-          <a href="{{ gallery.url }}">
-            <div class="scrim {% if gallery.main_image_path %}has-cover{% endif %}">
-            <article class="gallery--front">
-              <header class="gallery-header">
-                <h2 class="title">{{ gallery.title }}</h2>
-              </header>
-              {% if gallery.homepage_description_markdown:  %}
-                {{ gallery.homepage_description_markdown:  | markdownify }}
-              {% endif %}
-          </article>
+          <div class="post--caption">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.excerpt | markdownify }}
+              <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
+            <div class="post--meta">
+              <div class="post--date">{{ post.date | date: "%B %Y" }}</div>
+              <!-- Editor Link -->
+              <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
+            </div>
           </div>
-        </a>
-      </section>
-      {% endif %}
-    {% endfor %}
+
+        </li>
+
+        {% endunless %}
+
+        {% endfor %}
+
+      </ul>
+      <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
+
+    </section>
+    {% endif %}

@@ -44,3 +44,9 @@ a svg {
     display: inline-block;
     vertical-align: middle;
 }
+.icon--light {
+    fill: $white;
+}
+a:hover .icon--light { /// hover colour
+    fill: shade($white, 20%);
+}

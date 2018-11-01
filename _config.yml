@@ -1,54 +1,135 @@
 # External gems
-gems:
+plugins:
  # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  - jekyll-paginate
-
-exclude:
-  - "/vendor/"
+   - jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll/tagging
+   - jekyll-tagging-related_posts
+   - jekyll-maps
+#exclude:
+#  - "/vendor/"
 
 # Site settings
-title: A Painter
-subtitle: Great artist
-name: A Painter
-description: Demo Eye Gallery site
+title: ADVENTURE Places
+subtitle:
+name: Adventure Places
+description: Adventure Places
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://black-hare.cloudvent.net"
-logo: "/assets/logo.png"
+url: "https://www.adventureplaces.co.uk/"
+logo:
+show_logo: false
 email: a.ward@eyedivision.com
+#placeholder_image: "/assets/images/leaf-icon.png"
+
+# jekyll-maps Google Maps API key
+maps:
+    google:
+        api_key: "AIzaSyCzLQJuptww2IOTEZHUT0VRix4_JnNbyd0"
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
+
+#inter_post_navigation: false
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
 
 # Image CDN
 imagecdn:
-  staging: "http://ed-eyegallery-dev.imgix.net"
-  #production: "http://ed-eyegallery.imgix.net"
+  staging: "https://ed-adventureplaces-dev.imgix.net"
+  production: "https://ed-adventureplaces.imgix.net"
 
 # Collections Example
 collections:
-    gallery:
+    adventures:
         output: true
-        permalink: /gallery/:path/
-        _hide_content: true
+        permalink: /adventure/:path/
+    projects:
+        output: true
+        permalink: /project/:path/
+    kit:
+        output: true
+        permalink: /kit/:path/
+    books:
+        output: true
+        permalink: /books/:path/
 
 # Defaults Example
 defaults:
     -
         scope:
             path: ""
-            type: "gallery"
+            type: "adventures"
         values:
-            layout: "gallery"
+            layout: "adventure"
+    -
+        scope:
+            path: ""
+            type: "projects"
+        values:
+            layout: "project"
+    -
+        scope:
+            path: ""
+            type: "kit"
+        values:
+            layout: "kit"
+    -
+        scope:
+            path: ""
+            type: "books"
+        values:
+            layout: "book"
+    -
+        scope:
+          path: "" # an empty string here means all files in the project
+          type: "posts" # previously `post` in Jekyll 2.2.
+        values:
+          layout: "post"
+
+_options:
+  _text:            # text =
+    link: true
+    bold: true
+    italic: true
+    removeformat: true
+  _block:
+    link: true
+    bold: true
+    italic: true
+    removeformat: true
+    left: align-left
+    center: center-this-text
+    right: align-right
+    justify: full-width-text
+    undo: true
+    redo: true
+    format: p h1 h2 h3 h4 div
+    numberedlist: true
+    bulletedlist: true
+    blockquote: true
+    image: true
+    styles: /css/editor.scss
+  content:
+    link: true
+    bold: true
+    italic: true
+    removeformat: true
+    left: align-left
+    center: center-this-text
+    right: align-right
+    justify: full-width-text
+    undo: true
+    redo: true
+    format: p h2 h3 h4 h5 h6 div
+    numberedlist: true
+    bulletedlist: true
+    blockquote: true
+    image: true
+    styles: /css/editor.scss
 
 # Payment settings
 # Environment settings
@@ -71,10 +152,10 @@ appurl:
 # disqus_shortname:
 
 # Google analytics
-ga_tracking_id: ""
+ga_tracking_id: "UA-128482151-1"
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: "6LcNYBQUAAAAAALGOjCFo1CKxb65aFTFelMJo1YF"
+recaptcha_site_key: "6LeRKHgUAAAAAKxRzhKYU3DbMRdfWflYuzL6TH5z"
 
 # Social icons and sharing options
 #
@@ -95,30 +176,30 @@ social:
 
   - name: Facebook
     icon: icon-facebook_sign
-    username: eyedivision
-    url: https://www.facebook.com/eyedivision
-    desc: Like on Facebook
+    username: adventureplaces
+    url: https://www.facebook.com/jenandsimbenson
+    desc: Find us on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
-    username: '@eyedivision'
-    url: https://instagram.com/eyedivision
-    desc: Follow me on Instagram
+    username:
+    url:
+    desc: Follow us on Instagram
     share: false
 
   - name: Twitter
     icon: icon-twitter_sign
-    username: '@EyeDivision'
-    url: https://twitter.com/EyeDivision
+    username: '@jenandsim'
+    url: https://twitter.com/@jenandsim
     desc: Follow us on Twitter
     share: true
 
   - name: Pinterest
     icon: icon-pinterest
     username:
-    url: http://uk.pinterest.com/
-    desc: Follow me on Pinterest
+    url:
+    desc:
     share: true
 
 # Social sharing protocols

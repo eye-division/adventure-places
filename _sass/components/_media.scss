@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------
 // This file contains styles that are specific to media - embedded iframes etc
 // -----------------------------------------------------------------------------
-.video-responsive {
+.video--responsive {
   overflow: hidden;
   padding-bottom: 56.25%;
   position: relative;
@@ -14,3 +14,21 @@
     position: absolute;
   }
 }
+
+video.background {
+  display: none;
+   @include grid-media ($small) {
+      display: block;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      z-index: -100;
+      transform: translate(-50%, -50%);
+      background: url(/assets/video/forest_floor.jpg) no-repeat;
+      background-size: cover;
+    }
+  }
