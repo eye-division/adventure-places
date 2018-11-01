@@ -152,10 +152,10 @@ appurl:
 # disqus_shortname:
 
 # Google analytics
-ga_tracking_id: ""
+ga_tracking_id: "UA-128482151-1"
 
 # Google Recaptcha used for contact form
-recaptcha_site_key: ""
+recaptcha_site_key: "6LeRKHgUAAAAAKxRzhKYU3DbMRdfWflYuzL6TH5z"
 
 # Social icons and sharing options
 #
