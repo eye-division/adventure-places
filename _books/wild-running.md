@@ -1,6 +1,5 @@
 ---
 title: "Wild Running"
-permalink: 
 book_date: 2016-03-23T10:20:00Z
 archive: false
 description_markdown:  >-
@@ -27,7 +26,6 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Page title
-  permalink: Be careful editing this
   main_image_path: Image used to represent your book
   display_image: Show the featured image at the top of the page
   order_number: Books are ordered by date

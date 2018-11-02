@@ -1,6 +1,5 @@
 ---
 title:
-permalink:
 project_date:
 project_to_date:
 archive: false
@@ -27,7 +26,6 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Page title
-  permalink: This is the web address of the page - just letters and hyphens please
   project_date: Date project started (shown as Month Year)
   project_to_date: Project end date (shown as Month Year)
   display_image: Show the featured image at the top of the page

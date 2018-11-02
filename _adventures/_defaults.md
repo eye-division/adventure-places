@@ -2,6 +2,7 @@
 title:
 adventure_date:
 description_markdown: 
+display_image: true
 main_image_path:
 main_image_caption:
 location:
@@ -28,6 +29,7 @@ _options:
 _comments:
   title: Page title
   adventure_date: Adventures are ordered by date
+  display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your page
   images: Add and edit images here
   location: add latitude and longitude coordinates here to show a map

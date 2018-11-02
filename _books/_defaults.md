@@ -1,6 +1,5 @@
 ---
 title:
-permalink:
 book_date:
 archive: false
 description_markdown: 
@@ -26,7 +25,6 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Page title
-  permalink: Be careful editing this
   display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your book
   images: Add and edit images here

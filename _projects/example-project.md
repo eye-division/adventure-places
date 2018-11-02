@@ -1,6 +1,5 @@
 ---
 title: "Example project"
-permalink:
 project_date: 2018-03-23T10:20:00Z
 project_to_date: 2018-06-23T10:20:00Z
 ongoing: true
@@ -28,7 +27,6 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Page title
-  permalink: This is the web address of the page - just letters and hyphens please
   project_date: Date project started (shown as Month Year)
   project_to_date: Project end date (shown as Month Year)
   display_image: Show the featured image at the top of the page
