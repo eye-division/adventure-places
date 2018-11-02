@@ -50,9 +50,6 @@ collections:
     projects:
         output: true
         permalink: /project/:path/
-    kit:
-        output: true
-        permalink: /kit/:path/
     books:
         output: true
         permalink: /books/:path/
