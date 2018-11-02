@@ -1,5 +1,5 @@
 ---
-title: Bouldering in the Cotswolds
+title: Example 2
 adventure_date: 2017-03-23 00:00:00
 description_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta
