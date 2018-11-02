@@ -42,7 +42,7 @@ a:hover .icon { /// hover colour
 /// vertical align SVG icons in the centre
 a svg {
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
 }
 .icon--light {
     fill: $white;
