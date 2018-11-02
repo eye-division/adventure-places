@@ -27,6 +27,8 @@ _options:
 _comments:
   title: Page title
   permalink: Be careful editing this
-  main_image_path: Image used to represent your page
+  main_image_path: Image used to represent your book
   images: Add and edit images here
+  description_markdown: Short text used on summary page
+  tags: use tags to link books to each other
 ---

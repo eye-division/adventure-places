@@ -42,7 +42,24 @@ layout: default
 
     </section>
 
+  {% if site.related_posts.size >= 1 %}
 
+    <section class="post--related">
+
+        <h3>You may also enjoy:</h3>
+
+        <ul class="default-ul">
+
+        {% for related_post in site.related_posts limit: 5 %}
+
+        <li><a href="{{ related_post.url }}">{{ related_post.title }}</a>  <span class="post--date">{{ related_post.post_date | date: "%-d %B %Y" }}</span></li>
+
+        {% endfor %}
+
+        </ul>
+
+    </section>
+  {% endif %}
 
 
 {% if with_media %}

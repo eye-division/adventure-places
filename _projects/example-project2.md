@@ -30,4 +30,6 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your page
   images: Add and edit images here
+  description_markdown: Short text used on summary page
 ---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!

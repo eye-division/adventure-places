@@ -4,8 +4,6 @@ adventure_date:
 description_markdown: 
 main_image_path:
 main_image_caption:
-frontpage: true
-homepage_description_markdown: 
 location:
     latitude: 
     longitude: 
@@ -29,9 +27,10 @@ _options:
     mime_type: "image/jpeg"
 _comments:
   title: Page title
+  adventure_date: Adventures are ordered by date
   main_image_path: Image used to represent your page
   images: Add and edit images here
-  frontpage: Show this adventure on the homepage
-  homepage_description_markdown: Text used on homepage if shown
+  location: add latitude and longitude coordinates here to show a map
   description_markdown: Short text used on summary page
+  tags: use tags to link adventures to each other
 ---

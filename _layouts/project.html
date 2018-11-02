@@ -36,9 +36,7 @@ layout: default
         </p>
       {% endif %}
 
-      {% if page.description_markdown %}
-        {{ page.description_markdown | markdownify }}
-      {% endif %}
+      {{ content }}
 
     </section>
 
