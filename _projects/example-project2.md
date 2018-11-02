@@ -14,7 +14,7 @@ images:
   - image_path:
     description:
 tags: 
-order_number: 1
+order_number: 2
 _options:
   image:
     width: 1200
@@ -29,8 +29,11 @@ _options:
 _comments:
   title: Page title
   permalink: Be careful editing this
+  project_date: Date project started (shown as Month Year)
+  project_to_date: Project end date (shown as Month Year)
   display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your page
+  order_number: How projects are ordered
   images: Add and edit images here
   description_markdown: Short text used on summary page
 ---

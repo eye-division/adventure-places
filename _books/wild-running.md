@@ -30,6 +30,7 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your book
   display_image: Show the featured image at the top of the page
+  order_number: Books are ordered by date
   images: Add and edit images here
   description_markdown: Short text used on summary page
   tags: use tags to link books to each other

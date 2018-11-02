@@ -30,6 +30,7 @@ _comments:
   display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your book
   images: Add and edit images here
+  order_number: Books are ordered by date
   description_markdown: Short text used on summary page
   tags: use tags to link books to each other
 ---

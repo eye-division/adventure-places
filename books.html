@@ -1,8 +1,8 @@
 ---
-layout: page-noimage
+layout: page
 title: "Books"
 permalink: "/books/"
-display_image: true
+display_image: false
 main_image_path: "/assets/images/Wild-Running-mid-res.jpg"
 main_image_caption: "Wild Running"
 pageorder_number: 4
@@ -39,6 +39,17 @@ _comments:
   images: Add and edit images here
   display_image: Show the featured image at the top of the page
 ---
+
+  {% if page.main_image_path and page.display_image %}
+
+    <figure>
+      {% assign alt_text = page.title %}
+      {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+      {% include img.html src=page.main_image_path alt=alt_text %}
+      <figcaption>{{ alt_text }}</figcaption>
+    </figure>
+
+  {% endif %}
 
 <section class="book--intro editable">
   <p>Published in 2014 our first book, <a href="/books/wild-running/">Wild Running</a>, champions the incredible off-road running to be found in Britain. <a href="/books/amazing-family-adventures/">Amazing Family Adventures* with the National Trust</a> and <em>Day Walks in Devon</em> were published in 2017 and we’re excited to announce two new books for 2018: <a href="/books/adventurers-guide-to-britain/">The Adventurer’s Guide to Britain</a>, out on 17 May, and <em>Day Walks in Cornwall</em>, out in the autumn. Click on a book image for full details and to purchase.</p>

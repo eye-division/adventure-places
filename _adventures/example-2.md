@@ -36,6 +36,7 @@ _options:
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
+  adventure_date: Adventures are ordered by date
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
