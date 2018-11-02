@@ -15,6 +15,8 @@ images:
 tags:
 order_number:
 _options:
+  order_number:
+    hidden: true
   image:
     width: 1200
     height: 1200
@@ -29,6 +31,7 @@ _comments:
   title: Page title
   main_image_path: Image used to represent your page
   images: Add and edit images here
-  frontpage: Show this gallery on the homepage
+  frontpage: Show this adventure on the homepage
   homepage_description_markdown: Text used on homepage if shown
+  description_markdown: Short text used on summary page
 ---

@@ -16,6 +16,8 @@ images:
 tags: 
 order_number: 2
 _options:
+  order_number:
+    hidden: true
   image:
     width: 1200
     height: 1200
@@ -32,4 +34,6 @@ _comments:
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
+  description_markdown: Short text used on summary page
 ---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!
