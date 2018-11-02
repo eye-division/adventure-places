@@ -6,6 +6,7 @@ archive: false
 description_markdown:  >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!
 purchase_link: "http://wildrunning.net/buy-book/"
+display_image: true
 main_image_path: "/assets/images/Wild-Running-mid-res.jpg"
 main_image_caption: "Wild Running"
 images:
@@ -28,6 +29,7 @@ _comments:
   title: Page title
   permalink: Be careful editing this
   main_image_path: Image used to represent your book
+  display_image: Show the featured image at the top of the page
   images: Add and edit images here
   description_markdown: Short text used on summary page
   tags: use tags to link books to each other

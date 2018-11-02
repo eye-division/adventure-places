@@ -5,6 +5,7 @@ description_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta
   molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit
   reprehenderit sed qui mollitia cumque non quam, placeat inventore!
+display_image: true
 main_image_path: /uploads/sunset-cornwall-1.JPG
 main_image_caption: NOT Bouldering in the Cotswolds
 frontpage: true
@@ -35,6 +36,7 @@ _options:
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
+  display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown

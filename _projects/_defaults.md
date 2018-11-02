@@ -6,6 +6,7 @@ project_to_date:
 archive: false
 ongoing: false
 description_markdown: 
+display_image: true
 main_image_path:
 main_image_caption:
 images:
@@ -27,6 +28,7 @@ _options:
 _comments:
   title: Page title
   permalink: Be careful editing this
+  display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your page
   images: Add and edit images here
   description_markdown: Short text used on summary page

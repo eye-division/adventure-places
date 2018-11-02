@@ -10,6 +10,7 @@ description_markdown:  >-
 
   Each activity suggests National Trust places to visit for an adventure with the whole family.
 purchase_link: "https://shop.nationaltrust.org.uk/amazing-family-adventures/p8629"
+display_image: true
 main_image_path: "/assets/images/amazing-family-adventures.jpg"
 main_image_caption: "Amazing Family Adventures"
 images:
@@ -31,6 +32,7 @@ _options:
 _comments:
   title: Page title
   permalink: Be careful editing this
+  display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your book
   images: Add and edit images here
   description_markdown: Short text used on summary page
