@@ -1,15 +1,18 @@
 ---
 layout: home
-main_image_path: "/assets/images/fellrunning-howgills.jpg"
-main_image_caption: "Fell running in the Howgills"
-show_carousel: false
+main_image_path: /assets/images/fellrunning-howgills.jpg
+main_image_caption: Fell running in the Howgills
+show_carousel: true
 show_blog: false
 carousel:
-  - image: /assets/images/bikepacking-breconbeacons1.jpg
-    caption: "Bike packing, Brecon Beacons"
+  - image: /uploads/bikepacking-brecon-beacons-4.JPG
+    caption: 'Bike packing, Brecon Beacons'
     link:
   - image: /assets/images/kayaking-islesofscilly.jpg
-    caption: "Kayaking, Isles of Scilly"
+    caption: 'Kayaking, Isles of Scilly'
+    link:
+  - image:
+    caption:
     link:
 _options:
   layout:
@@ -17,13 +20,13 @@ _options:
   status:
     hidden: true
   main_image_path:
-    width: 1200
-    height: 1200
+    width: '1200'
+    height: '1200'
     resize_style: contain
     mime_type: image/jpeg
   image:
-    width: 1200
-    height: 1200
+    width: '1200'
+    height: '1200'
     resize_style: contain
     mime_type: image/jpeg
 _comments:
@@ -47,8 +50,9 @@ _comments:
 
   <div class="editable">
     <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
-
-    </div>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  </div>
 
 
     {% if page.show_carousel %}
@@ -95,7 +99,7 @@ _comments:
                     <h2 class="title mb0">{{ section.frontpagetitle }}</h2>
                   </header>
                   {% if section.homepage_description_markdown %}
-                    {{ section.homepage_description_markdown | markdownify }}<br>
+                    {{ section.homepage_description_markdown | markdownify }}<br />
                     <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
                   {% endif %}
@@ -152,3 +156,4 @@ _comments:
     </section>
     {% endif %}
 
+</section>
