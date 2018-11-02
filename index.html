@@ -47,8 +47,9 @@ _comments:
 
   <div class="editable">
     <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
-
-    </div>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+  </div>
 
 
     {% if page.show_carousel %}
@@ -95,7 +96,7 @@ _comments:
                     <h2 class="title mb0">{{ section.frontpagetitle }}</h2>
                   </header>
                   {% if section.homepage_description_markdown %}
-                    {{ section.homepage_description_markdown | markdownify }}<br>
+                    {{ section.homepage_description_markdown | markdownify }}<br />
                     <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
 
                   {% endif %}
@@ -152,3 +153,4 @@ _comments:
     </section>
     {% endif %}
 
+</section>
