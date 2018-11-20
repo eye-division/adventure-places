@@ -37,7 +37,7 @@ layout: default
 
   <div class="video--responsive staticmap">
 
-    {% if page.location  and jekyll.environment == 'production' %}
+    {% if page.location %}
 
       {% google_map zoom="10" width="100%" height="400" class="apmap" %}
 
