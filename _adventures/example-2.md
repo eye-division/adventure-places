@@ -15,7 +15,7 @@ location:
   latitude: '51.633869'
   longitude: '-2.340849'
 images:
-  - image_path:
+  - image_path: /uploads/dartmoor-scrambling-and-adventure-cycling-hound-tor-101.JPG
     description: Scrambling on Greator rocks
   - image_path:
     description: Scarpa Rebel Lites
