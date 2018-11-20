@@ -59,23 +59,23 @@ layout: default
 
           <div class="gallery--box">
 
-            <a href="{% include imgpath.html src=image max-w=1280 %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.image_title }} - {{ thisimage.image_description_markdown | markdownify }}">
+             <a href="{% include imgpath.html src=image max-w=1280 %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.description }}">
 
               {% if page.thumb_crop %}
 
                 <!-- cropped square images -->
-                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.image_title %}
+                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.description %}
                 <!-- end cropped square -->
 
               {% else %}
 
                 <!-- full format images -->
-                {% include img.html src=image width=600 fit=clip alt=thisimage.image_title %}
+                {% include img.html src=image width=600 fit=clip alt=thisimage.description %}
                  <!-- end format images -->
                {% endif %}
 
                {% if page.display_title %}
-                  <figcaption class="gallery--caption">{{ thisimage.image_title }}</figcaption>
+                  <figcaption class="gallery--caption">{{ thisimage.description }}</figcaption>
               {% endif %}
 
             </a>

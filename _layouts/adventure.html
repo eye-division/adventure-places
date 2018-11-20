@@ -35,18 +35,25 @@ layout: default
 
   </section>
 
-  <div class="video--responsive staticmap">
 
-    {% if page.location %}
+
+  {% if page.location %}
+
+    <div class="video--responsive">
 
       {% google_map zoom="10" width="100%" height="400" class="apmap" %}
 
-    {% else %}
+    </div>
+
+  {% else %}
+
+    <div class="video--responsive staticmap">
 
       <h3>On the live site, a Google Map will display here</h3>
-    {% endif %}
 
-  </div>
+    </div>
+
+  {% endif %}
 
   {% if site.related_posts.size >= 1 %}
 
@@ -85,7 +92,7 @@ layout: default
 
           <div class="gallery--box">
 
-            <a href="{% include imgpath.html src=image max-w=1280 %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.image_title }} - {{ thisimage.image_description_markdown | markdownify }}">
+            <a href="{% include imgpath.html src=image max-w=1280 %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.description }}">
 
               {% if page.thumb_crop %}
 
@@ -96,12 +103,12 @@ layout: default
               {% else %}
 
                 <!-- full format images -->
-                {% include img.html src=image width=600 fit=clip alt=thisimage.image_title %}
+                {% include img.html src=image width=600 fit=clip alt=thisimage.description %}
                  <!-- end format images -->
                {% endif %}
 
                {% if page.display_title %}
-                  <figcaption class="gallery--caption">{{ thisimage.image_title }}</figcaption>
+                  <figcaption class="gallery--caption">{{ thisimage.description }}</figcaption>
               {% endif %}
 
             </a>

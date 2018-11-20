@@ -39,4 +39,6 @@ video.background {
 .staticmap {
   background: url(/assets/images/demomap.png) no-repeat;
   background-size: cover;
+  height: 400px;
+  padding-bottom: 0;
 }
