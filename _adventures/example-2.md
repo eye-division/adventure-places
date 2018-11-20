@@ -17,7 +17,7 @@ location:
 images:
   - image_path: /uploads/dartmoor-scrambling-and-adventure-cycling-hound-tor-101.JPG
     description: Scrambling on Greator rocks
-  - image_path:
+  - image_path: /uploads/dartmoor-scrambling-and-adventure-cycling-hound-tor-127.JPG
     description: Scarpa Rebel Lites
 tags:
 order_number: 2
