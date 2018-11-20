@@ -6,16 +6,20 @@ main_image_caption: Fell running in the Howgills
 _options:
   layout:
     hidden: true
+  image_path:
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
-    width: '1200'
-    height: '1200'
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
     resize_style: contain
     mime_type: image/jpeg
-  image:
-    width: '1200'
-    height: '1200'
-    resize_style: contain
-    mime_type: image/jpeg
+  content:
+    uploads_dir: "assets/:year"
 _comments:
   display_image: Show cover image above text on home page
   main_image_path: Cover image
