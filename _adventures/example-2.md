@@ -1,5 +1,5 @@
 ---
-title: Scrambling on Dartmoor
+title: "Scrambling on Dartmoor"
 adventure_date: 2018-08-03 00:00:00
 description_markdown: >-
   Dartmoor isn't known for its scrambling, but then neither is anywhere else in

@@ -46,13 +46,13 @@ imagecdn:
 collections:
     adventures:
         output: true
-        permalink: /adventure/:path/
+        permalink: /adventure/:title/
     projects:
         output: true
-        permalink: /project/:path/
+        permalink: /project/:title/
     books:
         output: true
-        permalink: /books/:path/
+        permalink: /book/:title/
 
 # Defaults Example
 defaults:
