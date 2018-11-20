@@ -15,10 +15,10 @@ location:
   latitude: '51.633869'
   longitude: '-2.340849'
 images:
-  - image_path: /uploads/fell-running-yorkshire.JPG
-    description: Another beautiful field
-  - image_path: /uploads/running-wiltshire-1.JPG
-    description: Cley Hill
+  - image_path:
+    description: Scrambling on Greator rocks
+  - image_path:
+    description: Scarpa Rebel Lites
 tags:
 order_number: 2
 _options:
