@@ -1,5 +1,5 @@
 ---
-title: "Scrambling on Dartmoor"
+title: Scrambling on Dartmoor
 adventure_date: 2018-08-03 00:00:00
 description_markdown: >-
   Dartmoor isn't known for its scrambling, but then neither is anywhere else in
@@ -7,7 +7,7 @@ description_markdown: >-
   fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to
   spice up a winter run.
 display_image: true
-main_image_path:
+main_image_path: /uploads/dartmoor-scrambling-and-adventure-cycling-hound-tor-101-2.JPG
 main_image_caption: Scrambling at Greator rocks
 frontpage: true
 homepage_description_markdown:
