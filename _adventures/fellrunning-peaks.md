@@ -17,24 +17,29 @@ order_number: 1
 _options:
   order_number:
     hidden: true
-  image:
+  image_path:
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
   main_image_path:
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
+  content:
+    uploads_dir: "assets/:year"
 _comments:
   title: Page title
-  adventure_date: Adventures are ordered by date
-  display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your page
+  adventure_date: Only month and year are public
+  display_image: Show the featured image at the top of the page
   images: Add and edit images here
+  frontpage: Show this gallery on the homepage
+  homepage_description_markdown: Text used on homepage if shown
   description_markdown: Short text used on summary page
-  location: add latitude and longitude coordinates here to show a map
   tags: use tags to link adventures to each other 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!
