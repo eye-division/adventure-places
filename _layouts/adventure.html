@@ -97,13 +97,13 @@ layout: default
               {% if page.thumb_crop %}
 
                 <!-- cropped square images -->
-                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.image_title %}
+                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.description %}
                 <!-- end cropped square -->
 
               {% else %}
 
                 <!-- full format images -->
-                {% include img.html src=image width=600 fit=clip alt=thisimage.description %}
+                {% include img.html src=image alt=thisimage.description %}
                  <!-- end format images -->
                {% endif %}
 
