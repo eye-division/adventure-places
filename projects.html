@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "Recent projects"
-permalink: "/projects/"
+title: Recent projects
+permalink: /projects/
 display_image: false
-main_image_path: "/assets/images/mountainbiking-dartmoor.jpg"
-main_image_caption: "Mountain biking on Dartmoor"
+main_image_path: /assets/images/mountainbiking-dartmoor.jpg
+main_image_caption: Mountain biking on Dartmoor
 pageorder_number: 3
-main_nav: true
-frontpage: true
-homepage_description_markdown: "Projects we're involved in"
-frontpagetitle: "Recent projects"
+main_nav: false
+frontpage: false
+homepage_description_markdown: Projects we're involved in
+frontpagetitle: Recent projects
 images:
   - image_path:
-    image_title: ""
+    image_title:
     image_description:
 _options:
   permalink:
@@ -20,19 +20,19 @@ _options:
   layout:
     hidden: true
   image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: "assets/:year"
+    uploads_dir: 'assets/:year'
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
@@ -43,7 +43,7 @@ _comments:
   display_image: Show the featured image at the top of the page
 ---
 
-  {% if page.main_image_path and page.display_image %}
+{% if page.main_image_path and page.display_image %}
 
     <figure>
       {% assign alt_text = page.title %}
