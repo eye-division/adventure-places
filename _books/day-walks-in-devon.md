@@ -38,3 +38,8 @@ _comments:
   tags:
 ---
 
+Day Walks in Devon features 20 circular routes, between 8.8 and 17.6 miles (14.1km and 28.3km), suitable for hillwalkers of all abilities. The routes are split into five geographical areas: North Devon and Exmoor, Torridge and West Devon, Mid and East Devon, Dartmoor, and South Devon and the South Hams.
+
+Devon has some of the most diverse and beautiful terrain of any county in England. Local authors Jen and Sim Benson share their favourite walks in the region, including coastal circuits taking in sections of the South West Coast Path past Baggy Point, Noss Mayo and Hartland Point; moorland loops of Dartmoor's granite tors such as Haytor, Sheeps Tor and High Willhays; and tours through the county's rich history at Berry Pomeroy Castle, Killerton Park and Castle Drogo.
+
+Together with stunning photography, each route features Ordnance Survey1:25,000 maps, easy-to-follow directions, details of distance and navigation information, and refreshment stops and local information.
