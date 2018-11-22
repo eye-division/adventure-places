@@ -1,11 +1,12 @@
 ---
 title: Day Walks in Devon
-book_date:
+book_date: 2017-08-01 00:00:00
 archive: false
 description_markdown:
-purchase_link:
+purchase_link: >-
+  https://www.v-publishing.co.uk/books/categories/walking/day-walks-in-devon.html
 display_image: true
-main_image_path:
+main_image_path: /assets/images/day-walks-in-devon.jpg
 main_image_caption:
 images:
   - image_path:
@@ -34,5 +35,6 @@ _comments:
   images: Add and edit images here
   order_number: Books are ordered by date
   description_markdown: Short text used on summary page
-  tags: use tags to link books to each other
+  tags:
 ---
+
