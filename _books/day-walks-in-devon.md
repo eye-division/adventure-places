@@ -2,7 +2,11 @@
 title: Day Walks in Devon
 book_date: 2017-08-01 00:00:00
 archive: false
-description_markdown:
+description_markdown: >-
+  Day Walks in Devon features 20 circular routes, between 8.8 and 17.6 miles
+  (14.1km and 28.3km), suitable for hillwalkers of all abilities. The routes are
+  split into five geographical areas: North Devon and Exmoor, Torridge and West
+  Devon, Mid and East Devon, Dartmoor, and South Devon and the South Hams.
 purchase_link: >-
   https://www.v-publishing.co.uk/books/categories/walking/day-walks-in-devon.html
 display_image: true
