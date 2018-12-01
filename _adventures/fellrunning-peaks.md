@@ -15,7 +15,11 @@ location:
   longitude: -3.5219444444444
 images:
   - image_path: /assets/images/colton-fishacre-scabacombe-132-2.JPG
-    description:
+    description: 'Scabbacombe beach, Kingswear'
+  - image_path: /assets/images/colton-fishacre-scabacombe-251-2.JPG
+    description: 'Scabbacombe beach, Kingswear'
+  - image_path: /assets/images/colton-fishacre-scabacombe-441-2.JPG
+    description: Rollercoaster running on the South West Coast Path
 tags:
   - running
 order_number: 1
