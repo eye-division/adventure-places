@@ -1,5 +1,5 @@
 ---
-title: Trail running on the Kingswear peninsula
+title: Trail running in South Devon
 adventure_date: 2016-03-23 10:20:00
 description_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta
