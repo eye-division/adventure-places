@@ -1,16 +1,16 @@
 ---
 title: Trail running in South Devon
-adventure_date: 2016-03-23 10:20:00
+adventure_date: 2018-11-07 00:00:00
 description_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta
   molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit
   reprehenderit sed qui mollitia cumque non quam, placeat inventore!
 display_image: true
-main_image_path: /assets/images/fellrunning-peakdistrict1.jpg
-main_image_caption: Fell running in the Peak District
+main_image_path: /assets/images/colton-fishacre-scabacombe-495-2.JPG
+main_image_caption: Trail running on the Kingswear peninsula
 location:
-  latitude: 53.249948
-  longitude: -1.774388
+  latitude: 50.356944
+  longitude: 3.521944
 images:
   - image_path:
     description:
