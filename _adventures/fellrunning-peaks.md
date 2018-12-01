@@ -9,8 +9,8 @@ display_image: true
 main_image_path: /assets/images/colton-fishacre-scabacombe-495-2.JPG
 main_image_caption: Trail running on the Kingswear peninsula
 location:
-  latitude: 50.356944
-  longitude: -3.521944
+  latitude: 50.356944444444
+  longitude: -3.5219444444444
 images:
   - image_path:
     description:
