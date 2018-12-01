@@ -50,7 +50,7 @@ _comments:
 
 ### Where we went
 
-We love heading down to the south coast out of season when the wind's whipping the sea into a fantastic foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the South West Coast Path calls out to be explored. The stretch that runs around the Kingswear peninsular is one of the few we hadn't previously visited but we'll definitely be back.
+We love heading down to the south coast out of season when the wind's whipping the sea into a fantastic foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the South West Coast Path calls out to be explored. The stretch that runs around the Kingswear peninsula is one of the few we hadn't previously visited but we'll definitely be back.
 
 ### What we did
 
