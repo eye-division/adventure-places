@@ -14,7 +14,7 @@ location:
   latitude: 50.356944444444
   longitude: -3.5219444444444
 images:
-  - image_path:
+  - image_path: /assets/images/colton-fishacre-scabacombe-132-2.JPG
     description:
 tags:
   - running
@@ -48,22 +48,22 @@ _comments:
   tags:
 ---
 
-### Where we went
+#### Place
 
 We love heading down to the south coast out of season when the wind's whipping the sea into a fantastic foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the South West Coast Path calls out to be explored. The stretch of this mighty 630-mile trail that runs around the Kingswear peninsula is one of the few we hadn't previously visited but we'll definitely be back.
 
-### What we did
+#### Adventure
 
-Trail running on a brilliant rollercoaster section of the South West Coast Path, scrambling on wet rocks overlooking peaceful, sandy coves, exploring rockpools and the formal gardens at Coleton Fishacre and a fun ferry ride across the River Dart to Dartmouth.
+A week's outstanding trail running on a brilliant rollercoaster section of the South West Coast Path. Scrambling on wet rocks overlooking peaceful, sandy coves. Exploring rockpools and brewing up the Kelly Kettle for hot, post-adventure drinks. Out-of-hours access to the beautiful formal gardens at Coleton Fishacre, a bonus of staying in one of the cottages on the estate. A ferry ride across the River Dart to Dartmouth for castles and cafes aplenty.
 
-### Weather & conditions
+#### Conditions
 
 The weather was cold, with strong winds and regular rain, however there were also some stunning clear days when Devon basked resplendent in all its green grass, blue sea, red earth glory. We saw very few other people along the coast and generally had this fantastic place all to ourselves.
 
-### Where we stayed
+#### Accommodation
 
 Once the school half-term holidays have finished holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors so they can continue to thrive. We stayed in a National Trust cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a long stretch of manic work, was absolutely perfect.
 
-### Kit
+#### Kit
 
 With the trails in a pretty muddy, slippery condition good grip was essential. We went for Inov-8 Mudclaw 275s with some nice sticky rubber soles and plenty of depth of tread and our trusty Inov-8 X-Talon 275s which have seen us around much of the country, from munro-bagging in Scotland to the pathless bogs of Dartmoor. Most of our running was under two hours and, wonderfully, done from the doorstep.
