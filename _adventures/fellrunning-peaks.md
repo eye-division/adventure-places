@@ -2,8 +2,8 @@
 title: Trail running in South Devon
 adventure_date: 2018-11-07 00:00:00
 description_markdown: >-
-  We love heading down to the south coast out of season when the wind's whipping
-  the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding
+  We love heading to the south coast out of season when the wind's whipping the
+  sea into a foaming frenzy, the sky dawns clear blue one day and a brooding
   grey the next and the beaches are empty and exciting. The South West Coast
   Path is an incredible trail, with many sections along its 630-mile length
   between Poole in Dorset and Minehead in Somerset that provide outstanding
@@ -58,7 +58,7 @@ _comments:
 
 #### **The place**
 
-We love heading down to the south coast out of season when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The South West Coast Path is an incredible trail, with many sections along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The stretch that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more.
+We love heading to the south coast out of season when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The South West Coast Path is an incredible trail, with many sections along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The stretch that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more.
 
 #### The adventure
 
@@ -70,7 +70,7 @@ The weather was cold, with strong winds and regular rain showers, however there 
 
 #### Accommodation
 
-Once the school half-term holidays have finished holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors so they can continue to thrive. We stayed in a National Trust cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a long stretch of manic work, was absolutely perfect.
+If you're not bound by school holidays, out of season holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors in order to thrive. We stayed in a National Trust cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a few weeks of full-on work, was absolutely perfect.
 
 #### Kit
 
