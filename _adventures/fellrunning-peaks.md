@@ -68,7 +68,7 @@ _comments:
 
 #### The place
 
-We love heading to the south coast over the winter months, when the wind whips the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The [South West Coast Path](https://www.southwestcoastpath.org.uk/){: target="_blank"} is an incredible trail, with countless stretches along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The section that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more. Scroll to the end for a full set of photos.
+We love heading to the south coast over the winter months, when the wind whips the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The [South West Coast Path](https://www.southwestcoastpath.org.uk/){: target="_blank"} is an incredible trail, with countless stretches along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The section that traces the intricate coastline around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more. Scroll to the end for a full set of photos.
 
 #### The adventure
 
