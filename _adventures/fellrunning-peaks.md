@@ -58,11 +58,11 @@ _comments:
 
 #### **The place**
 
-We love heading to the south coast out of season when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The South West Coast Path is an incredible trail, with many sections along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The stretch that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more.
+We love heading to the south coast over the winter months, when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The South West Coast Path is an incredible trail, with many sections along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The stretch that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more.&nbsp;
 
 #### The adventure
 
-A week's enjoyable trail running on a brilliant rollercoaster section of the South West Coast Path. Scrambling on wet rocks overlooking peaceful, sandy coves, exploring anemone-filled rockpools, swimming in exciting seas and brewing up the Kelly Kettle for a warming, post-adventure cuppa. Out-of-hours access to the beautiful formal gardens at Coleton Fishacre, a bonus of staying in one of the cottages on the estate. A ferry ride across the River Dart to Dartmouth for castles and cafes aplenty.
+A week's enjoyable trail running on a brilliant rollercoaster section of the South West Coast Path. Scrambling on wet rocks overlooking peaceful, sandy coves, exploring anemone-filled rockpools, swimming in exciting seas and brewing up the [Kelly Kettle](https://www.kellykettle.com/){: target="_blank"} for a warming, post-adventure cuppa. Out-of-hours access to the beautiful formal gardens at Coleton Fishacre, a bonus of staying in one of the cottages on the estate. A ferry ride across the River Dart to Dartmouth for castles and cafes aplenty.
 
 #### Conditions
 
