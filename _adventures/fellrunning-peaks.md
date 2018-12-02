@@ -88,4 +88,4 @@ With the trails in a pretty muddy, slippery condition good grip was essential. W
 
 #### Don't miss
 
-Pretty Dartmouth, via a passenger or car ferry across the stunning Dart estuary, is well worth a visit, and the coast path running past the atmospheric castle continuing south-west is excellent. The views are glorious, out along the rugged coastline and down into the sandy coves from the precipitous cliff tops. The beaches at Man Sands and Scabbacombe are serene, peaceful and beautiful with great swimming and surfing and plenty of rocks and caves to explore.
+Pretty Dartmouth, via a passenger or car ferry across the stunning Dart estuary, is well worth a visit, and the coast path running past the atmospheric castle continuing south-west is excellent. The views are glorious, out along the rugged coastline and down into the sandy coves from the precipitous cliff tops. Back on the Kingswear side of the estuary the beaches at Man Sands and Scabbacombe are serene, peaceful and beautiful with great swimming and surfing and plenty of rocks and caves to explore.
