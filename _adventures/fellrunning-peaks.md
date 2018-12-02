@@ -52,17 +52,17 @@ _comments:
   tags:
 ---
 
-#### Place
+#### **The place**
 
-We love heading down to the south coast out of season when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The South West Coast Path is an incredible trail, with many sections along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The stretch that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but we'll definitely be back.
+We love heading down to the south coast out of season when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The South West Coast Path is an incredible trail, with many sections along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The stretch that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more.
 
-#### Adventure
+#### The adventure
 
-A week's enjoyable trail running on a brilliant rollercoaster section of the South West Coast Path. Scrambling on wet rocks overlooking peaceful, sandy coves. Exploring rockpools and brewing up the Kelly Kettle for hot, post-adventure drinks. Out-of-hours access to the beautiful formal gardens at Coleton Fishacre, a bonus of staying in one of the cottages on the estate. A ferry ride across the River Dart to Dartmouth for castles and cafes aplenty.
+A week's enjoyable trail running on a brilliant rollercoaster section of the South West Coast Path. Scrambling on wet rocks overlooking peaceful, sandy coves, exploring anemone-filled rockpools, swimming in exciting seas and brewing up the Kelly Kettle for a warming, post-adventure cuppa. Out-of-hours access to the beautiful formal gardens at Coleton Fishacre, a bonus of staying in one of the cottages on the estate. A ferry ride across the River Dart to Dartmouth for castles and cafes aplenty.
 
 #### Conditions
 
-The weather was cold, with strong winds and regular rain, however there were also some stunning clear days when Devon basked resplendent in all its green grass, blue sea, red earth glory. We saw very few other people along the coast and generally had this fantastic place all to ourselves.
+The weather was cold, with strong winds and regular rain showers, however there were also some stunning clear days when Devon basked resplendent in all its green grass, blue sea, red earth glory. We saw very few other people along the coast and generally had this fantastic place all to ourselves.
 
 #### Accommodation
 
@@ -71,3 +71,5 @@ Once the school half-term holidays have finished holiday cottages in the south-w
 #### Kit
 
 With the trails in a pretty muddy, slippery condition good grip was essential. We went for Inov-8 Mudclaw 275s with some nice sticky rubber soles and plenty of depth of tread and our trusty Inov-8 X-Talon 275s which have seen us around much of the country, from munro-bagging in Scotland to the pathless bogs of Dartmoor. Most of our running was under two hours and, wonderfully, done from the doorstep.
+
+#### Don't miss
