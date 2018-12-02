@@ -3,10 +3,14 @@ title: Trail running in South Devon
 adventure_date: 2018-11-07 00:00:00
 description_markdown: >-
   We love heading down to the south coast out of season when the wind's whipping
-  the sea into a fantastic foaming frenzy, the sky dawns clear blue one day and
-  a brooding grey the next and the South West Coast Path calls out to be
-  explored. The stretch that runs around the Kingswear peninsular is one of the
-  few we hadn't previously visited but we'll definitely be back.
+  the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding
+  grey the next and the beaches are empty and exciting. The South West Coast
+  Path is an incredible trail, with many sections along its 630-mile length
+  between Poole in Dorset and Minehead in Somerset that provide outstanding
+  trail running. The stretch that traces the intricate coast around the
+  Kingswear peninsula is one of the few we hadn't previously visited but, having
+  just returned feeling windswept and refreshed, we'll definitely be returning
+  to explore some more.
 display_image: true
 main_image_path: /assets/images/colton-fishacre-scabacombe-495-2.JPG
 main_image_caption: Trail running on the Kingswear peninsula
