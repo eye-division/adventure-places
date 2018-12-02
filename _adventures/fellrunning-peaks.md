@@ -24,6 +24,16 @@ images:
     description: 'Scabbacombe beach, Kingswear'
   - image_path: /assets/images/colton-fishacre-scabacombe-441-2.JPG
     description: Rollercoaster running on the South West Coast Path
+  - image_path: /assets/images/man-sands-coleton-fishacre-051-2.JPG
+    description: >-
+      The South West Coast Path along the Kingswear peninsula, looking towards
+      the Daymark tower.
+  - image_path: /assets/images/man-sands-coleton-fishacre-084-2.JPG
+    description: >-
+      The Daymark, a 24-mentre tower built in 1864 as a guide to mariners
+      negotiating the tricky entrance to Dartmouth harbour.
+  - image_path:
+    description:
 tags:
   - running
 order_number: 1
@@ -58,7 +68,7 @@ _comments:
 
 #### **The place**
 
-We love heading to the south coast over the winter months, when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The South West Coast Path is an incredible trail, with many sections along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The stretch that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more. Scroll to the end for a full set of photos.
+We love heading to the south coast over the winter months, when the wind's whipping the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The [South West Coast Path](https://www.southwestcoastpath.org.uk/){: target="_blank"} is an incredible trail, with countless stretches along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The section that traces the intricate coast around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more. Scroll to the end for a full set of photos.
 
 #### The adventure
 
