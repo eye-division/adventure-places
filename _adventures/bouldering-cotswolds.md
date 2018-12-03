@@ -48,4 +48,14 @@ _comments:
   tags:
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit reprehenderit sed qui mollitia cumque non quam, placeat inventore!
+#### The place
+
+#### The adventure
+
+#### The weather
+
+#### Food & sleep
+
+#### Kit
+
+#### Don't miss
