@@ -74,4 +74,6 @@ The excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and 
 
 #### Kit
 
+When out scrambling we'll either wear technical approach shoes with sticky rubber soles stiff lightweight mountaineering boots which give lots of &nbsp;&nbsp;
+
 #### Don't miss
