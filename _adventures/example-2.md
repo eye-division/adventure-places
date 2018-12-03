@@ -66,7 +66,7 @@ Dartmoor's tors are well-loved by local boulderers for their shapely granite fea
 
 #### The weather
 
-Dartmoor has its own weather systems, often standing under a blanket of grey cloud when the English Riviera below is basked in sunshine - it all adds to the atmosphere of the place! Sunny days on the moor are well worth waiting for though, when you can see for miles across the rolling hills and pick out each distinctively-shaped tor as it appears on the horizon. We were lucky enough to have uninterrupted blue skies and sunshine, and a spectacular sunset as we finished the day with a wild camp, too.
+Dartmoor has its own weather systems, often lost under a blanket of grey cloud when the English Riviera below is basked in sunshine - it all adds to the atmosphere of the place! Sunny days on the moor are well worth waiting for though, when you can see for miles across the rolling hills and pick out each distinctively-shaped tor as it appears on the horizon. We were lucky enough to have uninterrupted blue skies and sunshine, and a spectacular sunset as we finished the day with a wild camp, too.
 
 #### Eat, drink, sleep
 
