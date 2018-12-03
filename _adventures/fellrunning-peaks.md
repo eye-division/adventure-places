@@ -1,6 +1,6 @@
 ---
 title: Trail running in South Devon
-permalink:
+permalink: 'https://friendly-violin.cloudvent.net/adventure/trailrunningsouthdevon/'
 adventure_date: 2018-11-07 00:00:00
 description_markdown: >-
   We love heading to the south coast out of season when the wind's whipping the
