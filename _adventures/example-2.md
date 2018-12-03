@@ -3,10 +3,9 @@ title: Scrambling on Dartmoor
 permalink:
 adventure_date: 2018-08-03 00:00:00
 description_markdown: >-
-  Dartmoor isn't known for its scrambling, but then neither is anywhere else in
-  the sunny south-west. If you know where to look, however, there are some
-  fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to
-  spice up a winter run.
+  Dartmoor isn't known for its scrambling, but if you know where to look there
+  are some fantastic easy scrambles ideal for a relaxed clamber on a summer's
+  day or to spice up a winter run.
 display_image: true
 main_image_path: /uploads/dartmoor-scrambling-and-adventure-cycling-hound-tor-101-2.JPG
 main_image_caption: Scrambling at Greator rocks
@@ -45,7 +44,7 @@ _comments:
   title: Page title
   permalink: Change the URL
   main_image_path: Image used to represent your page
-  adventure_date: Only month and year are public
+  adventure_date: Invalid date
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
@@ -60,9 +59,7 @@ Dartmoor National Park covers 368 square miles of granite upland in central and 
 
 #### The adventure
 
-Dartmoor isn't known for its scrambling, but then neither is anywhere else in the sunny south-west. If you know where to look there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run.
-
-Dartmoor's tors are well-loved by local boulderers for their shapely granite features offering a range of problems from the classic V1 Shark's Fin at Hound Tor right up to the Green Room at Bonehill, a 3-star V12. There's also a wealth of running trails here, particularly on the moor's gentler eastern fringes.
+Dartmoor isn't known for its scrambling, but if you know where to look there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run. The tors here are well-loved by local boulderers for their shapely granite features offering a range of problems from the classic V1 Shark's Fin at Hound Tor right up to the Green Room at Bonehill, a 3-star V12. There's also a wealth of running trails here, particularly on the moor's gentler eastern fringes.
 
 #### The weather
 
