@@ -20,17 +20,22 @@ h2 {
 
 h3 {
   font-size: modular-scale(2);
+  font-family: $subheading-font-family;
 }
 h4 {
   font-size: modular-scale(1);
+  font-family: $subheading-font-family;
 }
 h5 {
   font-size: modular-scale(-1);
+  font-family: $subheading-font-family;
 }
 h6 {
   font-size: modular-scale(-2);
+  font-family: $subheading-font-family;
 }
 
 .hdr--small {
   font-size: modular-scale(0);
+  font-family: $subheading-font-family;
 }

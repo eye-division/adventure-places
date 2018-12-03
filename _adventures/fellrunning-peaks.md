@@ -1,5 +1,6 @@
 ---
 title: Trail running in South Devon
+permalink:
 adventure_date: 2018-11-07 00:00:00
 description_markdown: >-
   We love heading to the south coast out of season when the wind's whipping the
@@ -17,6 +18,7 @@ main_image_caption: Trail running on the Kingswear peninsula
 location:
   latitude: 50.356944444444
   longitude: -3.5219444444444
+display_title: true
 images:
   - image_path: /assets/images/colton-fishacre-scabacombe-132-2.JPG
     description: 'Scabbacombe beach, Kingswear'
@@ -57,7 +59,9 @@ _options:
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
-  adventure_date: Invalid date
+  adventure_date: Only month and year are public
+  permalink: Change the URL
+  display_title: Show image captions
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage

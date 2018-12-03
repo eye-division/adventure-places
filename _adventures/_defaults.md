@@ -1,5 +1,6 @@
 ---
 title:
+permalink:
 adventure_date:
 description_markdown: 
 display_image: true
@@ -8,6 +9,7 @@ main_image_caption:
 location:
     latitude: 
     longitude: 
+display_title: 
 images:
   - image_path:
     description:
@@ -33,7 +35,9 @@ _options:
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
+  permalink: Change the URL
   adventure_date: Only month and year are public
+  display_title: Show image captions
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage

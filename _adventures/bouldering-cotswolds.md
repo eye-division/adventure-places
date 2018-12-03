@@ -1,5 +1,6 @@
 ---
 title: Hitting the trails at Coed-y-Brenin
+permalink:
 adventure_date: 2018-07-12 00:00:00
 description_markdown: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta
@@ -11,6 +12,7 @@ main_image_caption: Bouldering in the Cotswolds
 location:
   latitude: '51.633869'
   longitude: '-2.340849'
+display_title: true
 images:
   - image_path: /uploads/fell-running-yorkshire.JPG
     description: Another beautiful field
@@ -39,8 +41,10 @@ _options:
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
-  adventure_date: Invalid date
+  permalink: Change the URL
+  adventure_date: Only month and year are public
   display_image: Show the featured image at the top of the page
+  display_title: Show image captions
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown
