@@ -12,8 +12,8 @@ main_image_caption: Scrambling at Greator rocks
 frontpage: true
 homepage_description_markdown:
 location:
-  latitude: '51.633869'
-  longitude: '-2.340849'
+  latitude: '50.596666666667'
+  longitude: '-3.7780555555556'
 images:
   - image_path: /uploads/dartmoor-scrambling-and-adventure-cycling-hound-tor-101.JPG
     description: Scrambling on Greator rocks
