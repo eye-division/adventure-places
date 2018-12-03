@@ -52,6 +52,18 @@ _comments:
   tags:
 ---
 
-**Dartmoor isn't known for its scrambling, but then neither is anywhere else in the sunny south-west. If you know where to look, however, there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run.**
+#### The place
+
+#### The adventure
+
+Dartmoor isn't known for its scrambling, but then neither is anywhere else in the sunny south-west. If you know where to look, however, there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run.
 
 Dartmoor's tors are well known by local boulderers for their shapely granite features offering a range of problems from the classic V0 Shark's Fin at Hound Tor to the Green Room at Bonehill, a 3-star V12. There's also a wealth of running trails here, particularly on the moor's gentler eastern fringes.
+
+#### The weather
+
+#### Food & sleep
+
+#### Kit
+
+#### Don't miss
