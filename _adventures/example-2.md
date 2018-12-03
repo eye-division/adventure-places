@@ -71,7 +71,7 @@ Dartmoor has its own weather, often lying cloaked in a blanket of grey cloud whe
 
 The excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and hens is a local favourite, but it does get very busy on a sunny weekend. Home Farm cafe on the edge of the National Trust's Parke estate on the Bovey Tracey side of the moor serves great food and coffee all day and is family- and dog-friendly. The cafe also has a mobile unit at the Haytor car park, next to the National Park visitor centre.
 
-There are some excellent campsites on the moor, including the quirky Five Wytches and Cockingford Farm and the more extensive Langford Farm on the western edge of the moor, perfectly-placed for exploring this quieter, often more challenging corner. Responsible wild camping is also permitted in some areas; full information can be found on the National Parks website.
+There are some excellent campsites on the moor, including the quirky [Five Wyches](https://www.five-wyches-farm.co.uk/){: target="_blank"} and [Cockingford Farm](https://www.ukcampsite.co.uk/sites/details.asp?revid=5621){: target="_blank"} and the more extensive [Langstone Manor](https://www.langstonemanor.co.uk/){: target="_blank"} on the western edge of the moor, perfectly-placed for exploring this quieter corner, not far from the town of Tavistock. Responsible wild camping is also permitted in some areas; full information can be found on the [National Park's website](http://www.dartmoor.gov.uk/enjoy-dartmoor/outdoor-activities/camping){: target="_blank"}.
 
 #### Kit
 
