@@ -64,7 +64,7 @@ Dartmoor's tors are well known by local boulderers for their shapely granite fea
 
 #### The weather
 
-#### Food & sleep
+#### Eat, drink, sleep
 
 #### Kit
 
