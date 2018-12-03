@@ -60,13 +60,15 @@ Dartmoor National Park covers 368 square miles of granite upland in central and 
 
 #### The adventure
 
-Dartmoor isn't known for its scrambling, but then neither is anywhere else in the sunny south-west. If you know where to look, however, there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run.
+Dartmoor isn't known for its scrambling, but then neither is anywhere else in the sunny south-west. If you know where to look there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run.
 
 Dartmoor's tors are well-loved by local boulderers for their shapely granite features offering a range of problems from the classic V1 Shark's Fin at Hound Tor right up to the Green Room at Bonehill, a 3-star V12. There's also a wealth of running trails here, particularly on the moor's gentler eastern fringes.
 
 #### The weather
 
 #### Eat, drink, sleep
+
+The excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and hens is a local favourite - it does get very busy on a sunny weekend. Home Farm cafe on the edge of the National Trust's Parke estate on the Bovey Tracey side of the moor serves great food and coffee all day and is family- and dog-friendly. The cafe also has a mobile unit at the Haytor car park, next to the National Park visitor centre.
 
 #### Kit
 
