@@ -66,6 +66,8 @@ Dartmoor's tors are well-loved by local boulderers for their shapely granite fea
 
 #### The weather
 
+Dartmoor has its own weather systems, often standing under a blanket of grey cloud when the English Riviera below is basked in sunshine - it all adds to the atmosphere of the place! Sunny days on the moor are well worth waiting for though, when you can see for miles across the rolling hills and pick out each distinctively-shaped tor as it appears on the horizon. We were lucky enough to have uninterrupted blue skies and sunshine, and a spectacular sunset as we finished the day with a wild camp, too.
+
 #### Eat, drink, sleep
 
 The excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and hens is a local favourite - it does get very busy on a sunny weekend. Home Farm cafe on the edge of the National Trust's Parke estate on the Bovey Tracey side of the moor serves great food and coffee all day and is family- and dog-friendly. The cafe also has a mobile unit at the Haytor car park, next to the National Park visitor centre.
