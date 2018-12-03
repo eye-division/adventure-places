@@ -56,11 +56,13 @@ _comments:
 
 #### The place
 
+Dartmoor covers 368 square miles of granite upland in central and southern Devon. It's a rugged, wild place with vast swathes of open moorland punctuated by distinctive tors - the exposed knuckles of prehistoric volcanic activity. Off the trails, much of the running is hard going, with tussocky grass, boggy valleys, and an often featureless landscape that makes navigation a challenge. It's a wonderfully peaceful, atmospheric place to be, however, where wild ponies graze amidst stone circles and ruined settlements and the moss-covered remnants of ancient sessile oak woodland, pockets of temperate rainforest by definition, are a magical experience to explore.
+
 #### The adventure
 
 Dartmoor isn't known for its scrambling, but then neither is anywhere else in the sunny south-west. If you know where to look, however, there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run.
 
-Dartmoor's tors are well known by local boulderers for their shapely granite features offering a range of problems from the classic V0 Shark's Fin at Hound Tor to the Green Room at Bonehill, a 3-star V12. There's also a wealth of running trails here, particularly on the moor's gentler eastern fringes.
+Dartmoor's tors are well-loved by local boulderers for their shapely granite features offering a range of problems from the classic V1 Shark's Fin at Hound Tor right up to the Green Room at Bonehill, a 3-star V12. There's also a wealth of running trails here, particularly on the moor's gentler eastern fringes.
 
 #### The weather
 
