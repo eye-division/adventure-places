@@ -61,13 +61,17 @@ Dartmoor National Park covers 368 square miles of granite upland in central and 
 
 Dartmoor isn't known for its scrambling, but if you know where to look there are some fantastic easy scrambles ideal for a relaxed clamber on a summer's day or to spice up a winter run. The tors here are well-loved by local boulderers for their shapely granite features offering a range of problems from the classic V1 Shark's Fin at Hound Tor right up to the Green Room at Bonehill, a 3-star V12. There's also a wealth of running trails here, particularly on the moor's gentler eastern fringes.
 
+We headed for Hound Tor, scrambling over the highest rocks and pausing for a moment to take in the wonderful views of the surrounding moorland, right down to the coast. Dropping down past the medieval village we then scrambled the full length of the fin of Greator Rocks. Another fun, fast descent took us to the traditional granite clapper bridge over the Becka brook (this brook is the subject of Jen's poem&nbsp;*Counterflow* in the 2018 anthology&nbsp;[*Waymaking*](https://www.v-publishing.co.uk/books/categories/wildlife-photography-and-outdoors/waymaking.html){: target="_blank"}&nbsp;from Vertebrate publishing), with a steep climb to reach Haytor quarry and then the distinctive bulk of Haytor itself.
+
 #### The weather
 
 Dartmoor has its own weather, often lying cloaked in a blanket of grey cloud when the English Riviera below is basked in sunshine - it all adds to the atmosphere of the place. Sunny days on the moor are well worth waiting for though, when you can see for miles across the rolling hills and pick out each distinctively-shaped tor as it appears on the horizon. We were lucky enough to have uninterrupted blue skies and sunshine, and a spectacular sunset as we finished the day with a wild camp, too.
 
 #### Eat, drink, sleep
 
-The excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and hens is a local favourite - it does get very busy on a sunny weekend. Home Farm cafe on the edge of the National Trust's Parke estate on the Bovey Tracey side of the moor serves great food and coffee all day and is family- and dog-friendly. The cafe also has a mobile unit at the Haytor car park, next to the National Park visitor centre.
+The excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and hens is a local favourite, but it does get very busy on a sunny weekend. Home Farm cafe on the edge of the National Trust's Parke estate on the Bovey Tracey side of the moor serves great food and coffee all day and is family- and dog-friendly. The cafe also has a mobile unit at the Haytor car park, next to the National Park visitor centre.
+
+There are some excellent campsites on the moor, including the quirky Five Wytches and Cockingford Farm and the more extensive Langford Farm on the western edge of the moor, perfectly-placed for exploring this quieter, often more challenging corner. Responsible wild camping is also permitted in some areas; full information can be found on the National Parks website.
 
 #### Kit
 
