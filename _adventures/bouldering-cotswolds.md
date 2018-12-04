@@ -75,8 +75,12 @@ Our stay was, for the most part, dry and sunny which was ideal for the trails. O
 
 #### Eat, drink, sleep
 
-We stayed at the excellent self-catering log cabins at Mostyn Cottage, right in the heart of the forest and only metres from the trails. The cabins are well-equipped with secure bike storage and comfy beds and the hosts are friendly, enthusiastic and knowledgeable with a passion for running and cycling. The cabins feel private and secluded and yet there's always someone about to help with any queries. There's also wifi at the house/B&B that self-catering guests are welcome to use.
+We stayed at the excellent self-catering log cabins at [Mostyn Cottage](http://mostyncottage.co.uk/){: target="_blank"}, right in the heart of the forest and only metres from the trails. The cabins are well-equipped with secure bike storage and comfy beds and the owners, Glenda and Keith, are friendly, enthusiastic and knowledgeable with a passion for running and cycling. The cabins feel private and secluded and yet there's always someone about to help with any queries. There's also wifi at the house/B&B that self-catering guests are welcome to use. The buzzy cafe at Coed-y-Brenin's visitor centre is a great place to meet for pre/post trail coffee and cake.
 
 #### Kit
 
+The trails are, for the most part, hard-packed so you won't need mud gear or deep treads. We took our hardtail mountain bikes and trail shoes and were more than happy.
+
 #### Don't miss
+
+Picture-perfect Cadair Idris, rising majestically from the lush valleys of southern Snowdonia to a height of 893 metres, makes a brilliant day out. Run the Pony Path to the top, swim in the tarns, climb on the craggy slopes or simply explore, breathing in the beauty of this amazing place.
