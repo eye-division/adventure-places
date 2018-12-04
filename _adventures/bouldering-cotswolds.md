@@ -83,4 +83,4 @@ The trails are, for the most part, hard-packed so you won't need mud gear or dee
 
 #### Don't miss
 
-Picture-perfect Cadair Idris, rising majestically from the lush valleys of southern Snowdonia to a height of 893 metres, makes a brilliant day out. Run the Pony Path to the top, swim in the tarns, climb on the craggy slopes or simply explore, breathing in the beauty of this amazing place.
+Picture-perfect Cadair Idris, rising majestically from the lush valleys of southern Snowdonia to a height of 893 metres, makes a brilliant day out. Run the Pony Path to the top, swim in the llyns, climb on the craggy slopes or simply explore, breathing in the beauty of this amazing place.
