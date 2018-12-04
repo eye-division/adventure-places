@@ -3,9 +3,14 @@ title: Hitting the trails at Coed-y-Brenin
 permalink:
 adventure_date: 2018-07-12 00:00:00
 description_markdown: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dicta
-  molestias illo facilis! Id incidunt quae beatae, minus tempore, vero velit
-  reprehenderit sed qui mollitia cumque non quam, placeat inventore!
+  Set within Snowdonia National Park, with Cadair Idris on its doorstep,
+  Coed-y-Brenin is the UK’s first, and largest, dedicated mountain bike trail
+  centre. If you're looking for excellent mountain biking there are miles of
+  exceptional singletrack for experienced riders alongside family and
+  intermediate trails perfectly suited to all abilities. A more recent addition,
+  Run Coed-y-Brenin boasts a fantastic range of dedicated, way-marked running
+  trails from the 2.7-mile Sarn Helen to the challenging Half Marathon that
+  features over 700 metres of ascent.
 display_image: false
 main_image_path: /assets/images/bouldering-cotswolds.jpg
 main_image_caption: Bouldering in the Cotswolds
@@ -42,7 +47,7 @@ _comments:
   title: Page title
   main_image_path: Image used to represent your page
   permalink: Change the URL
-  adventure_date: Only month and year are public
+  adventure_date: Invalid date
   display_image: Show the featured image at the top of the page
   display_title: Show image captions
   images: Add and edit images here
