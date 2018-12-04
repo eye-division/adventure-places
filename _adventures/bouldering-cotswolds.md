@@ -65,7 +65,9 @@ Set within Snowdonia National Park, with Cadair Idris on its doorstep,&nbsp;[Coe
 
 #### The adventure
 
-We stayed onsite for a week while Sim also ran the Scott Snowdonia Ultra. Being right in the heart of the trails was fantastic, and we both ended up fully broken by the end of our trip! Each day began with coffee on the terrace outside our log cabin, surrounded by the sounds and sights of the forest and with the trail maps spread out before us. There was the tricky decision to be made whether to ride or run - usually one in the morning and the other later on. We were thoroughly inspired and impressed by the quality of the trails which offer a huge variety of technicality, setting, gradient and surface. Maintenance and signage is spot-on.
+We stayed onsite for a week while Sim also ran the Scott Snowdonia Ultra, a little further north. Being right in the heart of the trails was fantastic, and we both ended up in need of some serious rest by the end of our trip. Each day began with coffee on the terrace outside our log cabin, surrounded by the sounds and sights of the forest and with the trail maps spread out before us. There was the tricky decision to be made whether to ride or run - usually one in the morning and the other later on. It's a magical place to explore as a family, too, and while one of us was out on the trails the other was usually busy being fed bilberries by the kids.&nbsp;
+
+We were thoroughly inspired and impressed by the quality of the trails which offer a huge variety of technicality, setting, gradient and surface. Maintenance and signage is spot-on.
 
 #### The weather
 
