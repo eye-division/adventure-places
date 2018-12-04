@@ -69,9 +69,7 @@ Dartmoor has its own weather, often lying cloaked in a blanket of grey cloud whe
 
 #### Eat, drink, sleep
 
-We finished an awesome day's running and scrambling on the moor in the beer garden of the excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and hens. We also like Home Farm cafe on the edge of the National Trust's Parke estate on the Bovey Tracey side of the moor serves great food and coffee all day and is family- and dog-friendly. The cafe also has a mobile unit at the Haytor car park, next to the National Park visitor centre.
-
-As dusk fell we walked a couple of miles out onto the moor and found a sheltered spot beneath an outcrop of granite boulders to pitch our backpacking tent. Dartmoor is one of the few places in England that permits wild camping, however it's only allowed in certain areas and with strict adherence to the park's guidelines. Full information can be found on the [National Park's website](http://www.dartmoor.gov.uk/enjoy-dartmoor/outdoor-activities/camping){: target="_blank"}.
+We finished an awesome day's running and scrambling on the moor in the beer garden of the excellent Rugglestone Inn at Widecombe with its resident turkeys, ducks and hens. As dusk fell we walked a couple of miles out onto the moor and found a sheltered spot beneath an outcrop of granite boulders to pitch our backpacking tent. Dartmoor is one of the few places in England that permits wild camping, however it's only allowed in certain areas and with strict adherence to the park's guidelines. Full information can be found on the [National Park's website](http://www.dartmoor.gov.uk/enjoy-dartmoor/outdoor-activities/camping){: target="_blank"}.
 
 #### Kit
 
