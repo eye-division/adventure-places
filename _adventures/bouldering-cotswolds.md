@@ -9,8 +9,8 @@ description_markdown: >-
   exceptional singletrack for experienced riders alongside family and
   intermediate trails perfectly suited to all abilities. A more recent addition,
   Run Coed-y-Brenin boasts a fantastic range of dedicated, way-marked running
-  trails from the 2.7-mile Sarn Helen to the challenging Half Marathon that
-  features over 700 metres of ascent.
+  trails from the 2.7-mile/4.3km Sarn Helen to the challenging Half Marathon
+  that features over 700 metres of ascent.
 display_image: true
 main_image_path: /assets/images/coed-y-brenin-mountain-bike-049-4.JPG
 main_image_caption:
@@ -67,11 +67,15 @@ Set within Snowdonia National Park, with Cadair Idris on its doorstep,&nbsp;[Coe
 
 We stayed onsite for a week while Sim also ran the Scott Snowdonia Ultra, a little further north. Being right in the heart of the trails was fantastic, and we both ended up in need of some serious rest by the end of our trip. Each day began with coffee on the terrace outside our log cabin, surrounded by the sounds and sights of the forest and with the trail maps spread out before us. There was the tricky decision to be made whether to ride or run - usually one in the morning and the other later on. It's a magical place to explore as a family, too, and while one of us was out on the trails the other was usually busy being fed bilberries by the kids.&nbsp;
 
-We were thoroughly inspired and impressed by the quality of the trails which offer a huge variety of technicality, setting, gradient and surface. Maintenance and signage is spot-on.
+We were thoroughly inspired and impressed by the quality of the trails which offer a huge variety of technicality, setting, gradient and surface. Expect dense forest, roaring rivers, pools, steep climbs, berms, jumps, hairpins and unexpected glorious mountain views from the high points. Maintenance and signage is spot-on. On the running side, the Gold Rush trail was a real surprise with two big climbs and some wonderfully windy woodland trails.
 
 #### The weather
 
+Our stay was, for the most part, dry and sunny which was ideal for the trails. On one day we did have the first rain the area had seen for over two weeks - almost unheard of in this part of Wales - and we were told the river was lower than it had been for a long time.
+
 #### Eat, drink, sleep
+
+We stayed at the excellent self-catering log cabins at Mostyn Cottage, right in the heart of the forest and only metres from the trails. The cabins are well-equipped with secure bike storage and comfy beds and the hosts are friendly, enthusiastic and knowledgeable with a passion for running and cycling. The cabins feel private and secluded and yet there's always someone about to help with any queries. There's also wifi at the house/B&B that self-catering guests are welcome to use.
 
 #### Kit
 
