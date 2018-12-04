@@ -1,6 +1,6 @@
 ---
 title: Scrambling on Dartmoor
-permalink:
+permalink: 'https://friendly-violin.cloudvent.net/adventure/dartmoor-scrambling'
 adventure_date: 2018-08-03 00:00:00
 description_markdown: >-
   Dartmoor isn't known for its scrambling, but if you know where to look there
