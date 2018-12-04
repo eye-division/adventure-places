@@ -54,11 +54,13 @@ _comments:
 
 #### The place
 
+[Coed-y-Brenin](https://www.beicsbrenin.co.uk/){: target="_blank"} forest park was the UK’s first, and still the largest, dedicated mountain bike trail centre. If you're looking for excellent mountain biking there are miles of exceptional singletrack for experienced riders alongside family and intermediate trails perfectly suited to all abilities. A more recent addition, [Run Coed-y-Brenin](http://www.runcoedybrenin.com/){: target="_blank"}&nbsp;boasts a fantastic range of dedicated, way-marked running trails from the 2.7-mile Sarn Helen to the challenging Half Marathon.
+
 #### The adventure
 
 #### The weather
 
-#### Food & sleep
+#### Eat, drink, sleep
 
 #### Kit
 
