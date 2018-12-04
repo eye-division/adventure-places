@@ -15,8 +15,8 @@ display_image: true
 main_image_path: /assets/images/coed-y-brenin-mountain-bike-049-4.JPG
 main_image_caption:
 location:
-  latitude: '51.633869'
-  longitude: '-2.340849'
+  latitude: '52.824166666667'
+  longitude: '-3.8958333333333'
 display_title: true
 images:
   - image_path: /assets/images/coed-y-brenin-mountain-bike-271.JPG
