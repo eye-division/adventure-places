@@ -1,6 +1,6 @@
 ---
 title: Hitting the trails at Coed-y-Brenin
-permalink:
+permalink: 'https://friendly-violin.cloudvent.net/adventure/trails-coedybrenin/'
 adventure_date: 2018-07-12 00:00:00
 description_markdown: >-
   Set within Snowdonia National Park, with Cadair Idris on its doorstep,
