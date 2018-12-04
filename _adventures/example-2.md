@@ -73,9 +73,7 @@ We finished an awesome day's running and scrambling on the moor in the beer gard
 
 #### Kit
 
-Although most of the easy scrambles and clambers on Dartmoor are perfectly doable in a decent pair of running shoes, if we're aiming for something a bit trickier we'll wear technical approach shoes with sticky rubber soles like the [Scarpa Mescalito](https://www.scarpa.co.uk/approach/mescalito/){: target="_blank"} or [La Sportiva TX4](https://www.lasportiva.com/en/tx4-woman){: target="_blank"}. These are comfortable all day but offer great grip and feel when climbing.
-
-On longer, more mountainous days, especially if we're carrying heavy rucksacks, we'll go for stiff, lightweight mountaineering boots. These offer great support and protection combined with good grip on rock and the ability to comfortably stand on small edges. We're currently wearing the [Zamberlan Baltoro](https://en.zamberlan.com/product/4751366/1000-baltoro-gtx-r-trekking-boots-royal-blue-black){: target="_blank"}&nbsp;or the [Scarpa Charmoz](https://www.scarpa.co.uk/mountain/charmoz-od-wmn/){: target="_blank"}. The new generation of [Mutant packs](https://www.ospreyeurope.com/shop/gb_en/climbing){: target="_blank"} from Osprey are perfect for carrying everything we need for a long day's scrambling, with a narrower profile that works particularly well for inching through smaller spaces.&nbsp;&nbsp;
+Although most of the easy scrambles and clambers on Dartmoor are perfectly doable in a decent pair of running shoes, the trickier moves feel far more secure with sticky rubber soled approach shoes like the [Scarpa Mescalito](https://www.scarpa.co.uk/approach/mescalito/){: target="_blank"} or [La Sportiva TX4](https://www.lasportiva.com/en/tx4-woman){: target="_blank"}. These are comfortable and supportive for walking all day but offer great grip and feel when climbing.&nbsp;
 
 #### Don't miss
 
