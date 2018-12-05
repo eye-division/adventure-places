@@ -3,8 +3,8 @@ layout: page
 title: Contact
 permalink: /contact/
 display_image: true
-main_image_path: "/assets/images/sunsetrunwatergatebay-cornwall.jpg"
-main_image_caption: "Sunset run Watergate Bay, Cornwall"
+main_image_path: /assets/images/sunsetrunwatergatebay-cornwall.jpg
+main_image_caption: 'Watergate Bay, Cornwall'
 pageorder_number: 6
 main_nav: true
 frontpage: false
@@ -13,7 +13,7 @@ frontpagetitle:
 show_form: true
 images:
   - image_path:
-    image_title: ""
+    image_title:
     image_description:
 _options:
   layout:
@@ -21,19 +21,19 @@ _options:
   permalink:
     hidden: true
   image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: "assets/images/:year"
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   content:
-    uploads_dir: "assets/:year"
+    uploads_dir: 'assets/:year'
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
@@ -44,10 +44,10 @@ _comments:
   images: Add and edit images here
   display_image: Show the featured image at the top of the page
 ---
-  <div class="editable">
-    <p><strong>Tel:</strong> 111 1111<br>
-      <strong>Email:</strong> <a href="mailto:hello@adventureplaces.co.uk">hello@adventureplaces.co.uk</a></p>
-  </div>
+
+<div class="editable">
+      <p><strong>Email:</strong> <a href="mailto:hello@adventureplaces.co.uk">hello@adventureplaces.co.uk</a></p>
+    </div>
 
 {% if page.show_form %}
   <h4>Send an email</h4>
@@ -56,15 +56,15 @@ _comments:
 
   <fieldset>
     <input type="text" name="_gotcha" style="display:none" />
-    <input type="hidden" name="_to" value="hello@adventureplaces.co.uk">
-    <input type="hidden" name="_subject" value="Web form">
+    <input type="hidden" name="_to" value="hello@adventureplaces.co.uk" />
+    <input type="hidden" name="_subject" value="Web form" />
     <p>
     <label for="name">Name:</label>
-    <input type="text" name="name">
+    <input type="text" name="name" />
     </p>
     <p>
     <label for="_replyto">Email:</label>
-    <input type="email" name="_replyto">
+    <input type="email" name="_replyto" />
     </p>
     <p>
     <label>Message</label>
@@ -74,7 +74,7 @@ _comments:
       <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
     {% endif %}
      <p>
-    <input type="submit" value="Send message">
+    <input type="submit" value="Send message" />
     </p>
   </fieldset>
 
