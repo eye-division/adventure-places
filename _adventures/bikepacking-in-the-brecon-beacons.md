@@ -60,4 +60,6 @@ Our weekend bikepacking trip followed the Taff Trail, a mainly traffic-free 55-m
 
 #### Kit
 
+Vaude, Ortlieb
+
 #### Don't miss
