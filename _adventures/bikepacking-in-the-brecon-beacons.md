@@ -48,7 +48,7 @@ _comments:
 
 #### The place
 
-Stretching west from the Anglo-Welsh border, the Brecon Beacons are a rolling, wild landscape set within the 519 square miles (1,340 km2) of the Brecon Beacons National Park. The region's high point is Pen-y-Fan at 2,907 feet (886m), also the highest point in South Wales. Made for multi-day adventures on foot or bike, the area is a dark sky reserve, perfect for watching the stars.
+Stretching west from the Anglo-Welsh border, the Brecon Beacons are a rolling, wild landscape set within the 519 square miles (1,340 km2) of the Brecon Beacons National Park. The region's high point is Pen-y-Fan at 2,907 feet (886m), also the highest point in South Wales. Made for multi-day adventures on foot or bike, the area is a dark sky reserve, perfect for watching the stars from a wild bivvy.
 
 #### The adventure
 
