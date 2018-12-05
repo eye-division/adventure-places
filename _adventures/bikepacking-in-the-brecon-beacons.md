@@ -1,7 +1,7 @@
 ---
 title: Bikepacking in the Brecon Beacons
 permalink:
-adventure_date: 2018-07-14 00:00:00
+adventure_date: 2017-08-12 00:00:00
 description_markdown:
 display_image: true
 main_image_path: /assets/images/breacon-bikepacking-074.JPG
