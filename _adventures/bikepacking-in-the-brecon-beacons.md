@@ -48,11 +48,11 @@ _comments:
 
 #### The place
 
-Stretching west from the Anglo-Welsh border, the Brecon Beacons are a rolling, wild landscape set within the 519 square miles (1,340 km2) of the Brecon Beacons National Park. The region's high point is Pen-y-Fan at 2,907 feet (886m), also the highest point in South Wales. Made for multi-day adventures on foot or bike, the area is also a dark sky reserve, perfect for watching the stars from a wild bivvy.
+Stretching west from the Anglo-Welsh border, the Brecon Beacons are a rolling, wild landscape set within the 519 square miles (1,340 km2) of the Brecon Beacons National Park. The region's high point is Pen-y-Fan at 2,907 feet (886m), also the highest point in South Wales. Well serviced by footpaths and bridleways they are made for multi-day adventures on foot or bike, and the area is also a dark sky reserve, perfect for watching the stars from a wild bivvy.
 
 #### The adventure
 
-Our weekend bikepacking trip started just outside the town of Brecon. We headed south on the Taff Trail, a mainly traffic-free 55-mile (89km) route between Brecon and Cardiff. The trail takes you through wonderfully varied landscapes with mountain-lined valleys, waterfalls, gleaming reservoirs and a final decent through towns rich in industrial and mining heritage to reach the sea at Cardiff Bay. We rode a circular route, following the Taff Trail from Brecon to the Llwyn-onn reservoir. Here we left the trail, winding along minor roads and trails north-west above the waterfall-filled valley of Ystradfellte and heading out into the wild upland of Fforest Fawr where we pitched for the night, the grassy valleys and hillsides flooded with golden evening light. In the morning we headed east, stopping at the National Park visitor centre for a coffee before picking up the Taff Trail back to Brecon.&nbsp;
+Meeting with laden bikes just outside Brecon we headed south on the Taff Trail, a mainly traffic-free 55-mile (89km) route between Brecon and Cardiff. The trail takes you through wonderfully varied landscapes with mountain-lined valleys, waterfalls, gleaming reservoirs and a final decent through towns rich in industrial and mining heritage to reach the sea at Cardiff Bay. We rode a circular route, following the Taff Trail as far as to the Llwyn-onn reservoir. Here we left the trail, winding along minor roads and trails north-west above the waterfall-filled valley of Ystradfellte and heading out into the wild upland of Fforest Fawr where we pitched for the night, the grassy valleys and hillsides flooded with golden evening light. In the morning we headed east, stopping at the National Park visitor centre for a coffee before picking up the Taff Trail back to Brecon.&nbsp;
 
 #### The weather
 
