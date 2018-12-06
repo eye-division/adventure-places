@@ -11,7 +11,11 @@ location:
   longitude: '-3.4044444444444'
 display_title:
 images:
-  - image_path:
+  - image_path: /assets/images/breacon-bikepacking-165-2.JPG
+    description:
+  - image_path: /assets/images/breacon-bikepacking-051-2.JPG
+    description:
+  - image_path: /assets/images/breacon-bikepacking-038.JPG
     description:
 tags:
 order_number:
