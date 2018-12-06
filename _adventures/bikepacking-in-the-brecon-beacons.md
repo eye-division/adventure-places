@@ -52,7 +52,7 @@ Stretching west from the Anglo-Welsh border, the Brecon Beacons are a rolling, w
 
 #### The adventure
 
-Our weekend bikepacking trip followed the Taff Trail, a mainly traffic-free 55-mile (89km) route that begins in Cardiff and passes through towns rich in industrial and mining heritage before emerging into breathtaking mountain landscapes where waterfalls tumble down craggy hillsides and gleaming reservoirs nestle in grassy valleys. The trail ends in the town of Brecon, a good place to stop and refuel, but we left it a little early and camped in the beautiful Usk Valley, finding the grassy hillsides bathed in golden evening sunlight as we arrived and pitched our tents. The following morning we set off west with the sun on our backs, picking up a branch of the Taff Trail and tracing a loop all the way around Pen-y-Fan on quiet lanes and bridleways. At Merthyr Tidfil we rejoined our outward route back to Cardiff.
+Our weekend bikepacking trip started just outside Brecon. We headed south on the Taff Trail, a mainly traffic-free 55-mile (89km) route from Brecon to Cardiff which crosses breathtaking mountain landscapes where waterfalls tumble down craggy hillsides and gleaming reservoirs nestle in grassy valleys before descending through towns rich in industrial and mining heritage and ending at the sea in Cardiff Bay. To create a circular route we left the trail at the LLwyn-onn Reservoir following minor roads and trails north-west above the waterfall filled valley of Ystradfellte and heading onto the wild upland of Fforest Fawr. We found a sheltered spot to spend the night thankful that the rain showers that had soaked us during the day had stopped. The grassy hillsides was bathed in golden evening sunlight as we pitched our tents and cooked up our supper. The following morning we awoke with the sun on our backs, and set off east, stopping at the National Park Visitor Centre for a coffee before picking up the Taff Trail and returning to the start.&nbsp;
 
 #### The weather
 
@@ -60,6 +60,6 @@ Our weekend bikepacking trip followed the Taff Trail, a mainly traffic-free 55-m
 
 #### Kit
 
-Vaude, Ortlieb
+My plus sized hardtail mountain bike was much better suited to this route than my friends gravel bikes, the gravel was a bit big for them! If we'd stayed on the Taff Trail however they would have found it much easier than me. Bikepacking specific bags from [Ortlieb](https://www.ortlieb.com/us/products/bikepacking){: target="_blank"} allowed me to enjoy the riding on a responsive and balanced bike and kept my kit dry throughout the showers. Three of us slept comfortably in the [Vaude Invenio SUL 3](https://www.vaude.com/en-GB/Products/Activity/Best-in-Test/Invenio-SUL-3P?number=124861820){: target="_blank"}&nbsp;while Dave had more space but was colder on his own in a [Terra Nova Laser Comp](https://www.terra-nova.co.uk/tents-and-spares/all-tents/laser-competition-1-tent-ss16/){: target="_blank"}.
 
 #### Don't miss
