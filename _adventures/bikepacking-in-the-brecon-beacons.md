@@ -56,7 +56,7 @@ Our bikes loaded with everything we'd need for a weekend in the hills, four of u
 
 #### The weather
 
-Regular summer showers but with plenty of sunshine - thankfully dry overnight and we were even treated to a spectacular sunset and sunrise.
+Regular summer showers and some giant puddles but with plenty of sunshine. The night was dry, clear and star-scattered and the spectacular sunrise well worth a second early start.
 
 #### Eat, drink, sleep
 
