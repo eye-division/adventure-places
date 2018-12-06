@@ -60,7 +60,7 @@ Regular summer showers but with plenty of sunshine - thankfully dry overnight an
 
 #### Eat, drink, sleep
 
-&nbsp;
+Wild camping in England and Wales, with the exception of some parts of Dartmoor, is illegal without the landowner's permission. It is, however, tolerated in many of the National Parks, particularly those with large, mountainous areas, as long as it's done responsibly. In the Brecon Beacons the Camping on Farms leaflet lists farmers who offer occasional camping for a small fee - further details and a generally excellent article on wild camping in Britain can be found at&nbsp;[campsites.co.uk](https://www.campsites.co.uk/guides/wild-camping/wild-camping-in-england-and-wales){: target="_blank"}.
 
 #### Kit
 
