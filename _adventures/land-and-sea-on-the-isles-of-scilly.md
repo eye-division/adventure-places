@@ -46,9 +46,9 @@ _comments:
   tags:
 ---
 
-Sometimes you travel somewhere that changes you. In many ways that’s the point of travelling – to return changed, horizons broadened, mind expanded, feeling just a little more… alive.
+Sometimes you travel somewhere that changes you. In many ways that’s the point of travelling: to return changed, horizons broadened, mind expanded, feeling just a little more… alive.
 
-We do feel that change with our many UK trips, but it’s a gradual process that happens as our knowledge of the country and its people expands. And although this is a diverse group of islands, with landscapes and cultures that amaze and excite us on a regular basis, it does always feel like Britain.
+We've feel that change after many of our trips, but it’s usually a gradual process that happens as our knowledge of the country and its people expands. And, although this is a diverse group of islands, with landscapes and cultures that amaze and excite us on a regular basis, it does always feel like Britain.
 
 Our recent trip to the Isles of Scilly was different. It’s only mid-May, yet we’ve returned with sunned faces and memories of swimming in the sea, paddling around the archipelago’s many uninhabited islands in an open kayak, playing on deserted white sand beaches, communing with seals and puffins, wandering around subtropical gardens and exploring the wild, rugged reaches of the islands in places that feel as though no human has ever been before. The kids have come back with clear blue seas and skies in their eyes and strange tales of red squirrels and golden pheasants to tell their friends. Their vocabularies now include the razorbills, fulmars and guillemots we saw, and they’ve tasted, touched and seen things they hadn’t realised existed.
 
