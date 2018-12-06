@@ -52,7 +52,7 @@ Stretching west from the Anglo-Welsh border, the Brecon Beacons are a rolling, w
 
 #### The adventure
 
-Our weekend bikepacking trip followed the Taff Trail, a mainly traffic-free 55-mile (89km) route that begins in Cardiff and passes through towns rich in industrial and mining heritage before emerging into breathtaking mountain landscapes where waterfalls tumble down craggy hillsides and gleaming reservoirs nestle in the valleys. The trail ends in the town of Brecon, a good place to stop and refuel, but we left it a little early and camped in the beautiful Usk Valley, finding the grassy hillsides bathed in golden evening sunlight as we arrived and pitched our tents. The following morning we set off west with the sun on our backs, picking up a branch of the Taff Trail and tracing a loop all the way around Pen-y-Fan on quiet lanes and bridleways. At Merthyr Tidfil we rejoined our outward route back to Cardiff.
+Our weekend bikepacking trip followed the Taff Trail, a mainly traffic-free 55-mile (89km) route that begins in Cardiff and passes through towns rich in industrial and mining heritage before emerging into breathtaking mountain landscapes where waterfalls tumble down craggy hillsides and gleaming reservoirs nestle in grassy valleys. The trail ends in the town of Brecon, a good place to stop and refuel, but we left it a little early and camped in the beautiful Usk Valley, finding the grassy hillsides bathed in golden evening sunlight as we arrived and pitched our tents. The following morning we set off west with the sun on our backs, picking up a branch of the Taff Trail and tracing a loop all the way around Pen-y-Fan on quiet lanes and bridleways. At Merthyr Tidfil we rejoined our outward route back to Cardiff.
 
 #### The weather
 
