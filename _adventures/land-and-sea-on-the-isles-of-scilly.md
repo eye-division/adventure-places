@@ -11,7 +11,11 @@ location:
   longitude: '-6.3536111111111'
 display_title:
 images:
-  - image_path:
+  - image_path: /assets/images/isles-of-scilly-674.JPG
+    description:
+  - image_path: /assets/images/tresco--bryher-056-2.JPG
+    description:
+  - image_path: /assets/images/tresco--bryher-163-2.JPG
     description:
 tags:
 order_number:
