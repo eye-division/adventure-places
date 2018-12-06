@@ -2,7 +2,10 @@
 title: Land and sea on the Isles of Scilly
 permalink:
 adventure_date: 2017-05-06 00:00:00
-description_markdown:
+description_markdown: >-
+  Sometimes you travel somewhere that changes you. In many ways that’s the point
+  of travelling: to return changed, horizons broadened, mind expanded, feeling
+  just a little more… alive.
 display_image: true
 main_image_path: /assets/images/isles-of-scilly-230-2.JPG
 main_image_caption: Paddling from Bryher to Samson
