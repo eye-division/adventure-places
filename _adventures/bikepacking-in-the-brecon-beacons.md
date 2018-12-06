@@ -2,7 +2,14 @@
 title: Bikepacking in the Brecon Beacons
 permalink:
 adventure_date: 2017-08-12 00:00:00
-description_markdown:
+description_markdown: >-
+  Stretching west from the Anglo-Welsh border to Carmarthenshire, the Brecon
+  Beacons are a rolling, wild landscape set within the 519 square miles (1,340
+  km2) of the Brecon Beacons National Park. The region's high point is Pen-y-Fan
+  at 2,907 feet (886m), also the highest point in South Wales. Well serviced by
+  footpaths and bridleways, this is a place that's fantastic for multi-day
+  adventures on foot or bike; the area is also a dark sky reserve, perfect for
+  watching the stars from a wild bivvy.
 display_image: true
 main_image_path: /assets/images/breacon-bikepacking-074.JPG
 main_image_caption: Bikepacking in the Brecon Beacons
