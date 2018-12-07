@@ -31,7 +31,7 @@ layout: default
         <p class="post--date">{{ page.book_date  | date: "%Y" }}</p>
       {% endif %}
       {% if page.purchase_link %}
-         <a href="{{ page.purchase_link }}">Buy book</a>
+         <a href="{{ page.purchase_link }}" class="button">Buy book</a>
       {% endif %}
     </section>
   </article>
@@ -39,8 +39,6 @@ layout: default
 
 {% if with_media %}
   <aside class="media">
-
-
 
     {% if page.images[0].image_path %}
 
@@ -88,6 +86,42 @@ layout: default
     {% endif %}
 
   </aside>
+{% endif %}
+
+{% assign books = site.books | sort: "book_date" | reverse %}
+
+{% if books %}
+
+<hr>
+
+  <h2>View more books</h2>
+
+
+    <section class="books gallery--list">
+
+    {% for book in books %}
+
+      {% if book.url != page.url %}
+
+      <div class="gallery--box">
+
+        <a href="{{ book.url }}" class="gallery--link">
+
+            <!-- cropped square images -->
+            {% include img.html src=book.main_image_path width=200 height=200 fit=crop alt=book.title %}
+            <!-- end cropped square -->
+
+            <figcaption class="gallery--caption">{{ book.title }}</figcaption>
+
+        </a>
+
+      </div>
+    {% endif %}
+    {% endfor %}
+
+   </section>
+
+
 {% endif %}
 
 </div>

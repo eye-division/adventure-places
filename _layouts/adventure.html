@@ -1,5 +1,6 @@
 ---
 layout: default
+display_title: true
 ---
 <div class="page">
 
@@ -39,17 +40,9 @@ layout: default
 
   {% if page.location %}
 
-    <div class="video--responsive">
+    <div class="">
 
       {% google_map zoom="10" width="100%" height="400" class="apmap" %}
-
-    </div>
-
-  {% else %}
-
-    <div class="video--responsive staticmap">
-
-      <h3>On the live site, a Google Map will display here</h3>
 
     </div>
 
@@ -88,27 +81,30 @@ layout: default
         {% assign image = site.default_gallery_image %}
         {% if thisimage.image_path %}
           {% assign image = thisimage.image_path %}
+          {% assign description = thisimage.description %}
         {% endif %}
 
           <div class="gallery--box">
 
-            <a href="{% include imgpath.html src=image %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.description }}">
+            <a href="{% include imgpath.html src=image %}" class="gallery--link" data-lightbox="gallery" data-title="{{ description }}">
 
               {% if page.thumb_crop %}
 
                 <!-- cropped square images -->
-                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.description %}
+                {% include img.html src=image width=200 height=200 fit=crop alt=description %}
                 <!-- end cropped square -->
 
               {% else %}
 
                 <!-- full format images -->
-                {% include img.html src=image alt=thisimage.description %}
+                {% include img.html src=image alt=description %}
                  <!-- end format images -->
-               {% endif %}
+              {% endif %}
 
-               {% if page.display_title %}
-                  <figcaption class="gallery--caption">{{ thisimage.description }}</figcaption>
+              {% if page.display_title %}
+
+                  <figcaption class="gallery--caption">{{ description }}</figcaption>
+
               {% endif %}
 
             </a>
@@ -125,6 +121,41 @@ layout: default
     {% endif %}
 
   </aside>
+
+{% endif %}
+
+
+{% assign adventures = site.adventures | sort: "adventure_date" | reverse %}
+
+{% if adventures %}
+
+<hr>
+
+  <h2>View more adventures</h2>
+
+
+    <section class="adventures gallery--list">
+
+    {% for adventure in adventures %}
+      {% if adventure.url != page.url %}
+      <div class="gallery--box">
+
+        <a href="{{ adventure.url }}" class="gallery--link">
+
+            <!-- cropped square images -->
+            {% include img.html src=adventure.main_image_path width=200 height=200 fit=crop alt=adventure.title %}
+            <!-- end cropped square -->
+
+            <figcaption class="gallery--caption">{{ adventure.title }}</figcaption>
+
+        </a>
+
+      </div>
+    {% endif %}
+    {% endfor %}
+
+   </section>
+
 
 {% endif %}
 

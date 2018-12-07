@@ -1,6 +1,6 @@
 ---
 title: Scrambling on Dartmoor
-permalink: 'https://friendly-violin.cloudvent.net/adventure/dartmoor-scrambling'
+permalink: /adventures/scrambling-dartmoor/
 adventure_date: 2018-08-03 00:00:00
 description_markdown: >-
   Dartmoor isn't known for its scrambling, but if you know where to look there
@@ -22,6 +22,7 @@ images:
     description:
   - image_path: /assets/images/dartmoor-scrambling-and-adventure-cycling-hound-tor-44.JPG
     description:
+display_title: true
 tags:
 order_number: 2
 _options:
@@ -45,7 +46,7 @@ _comments:
   title: Page title
   permalink: Change the URL
   main_image_path: Image used to represent your page
-  adventure_date: Invalid date
+  adventure_date: Only month and year are public
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage

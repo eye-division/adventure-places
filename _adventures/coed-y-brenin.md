@@ -1,6 +1,6 @@
 ---
 title: Hitting the trails at Coed-y-Brenin
-permalink: 'https://friendly-violin.cloudvent.net/adventure/trails-coedybrenin/'
+permalink: /adventures/trails-coed-y-brenin/
 adventure_date: 2018-07-12 00:00:00
 description_markdown: >-
   Set within the southern reaches of Snowdonia National Park, Coed-y-Brenin is
@@ -13,7 +13,7 @@ description_markdown: >-
   features over 700 metres of ascent.
 display_image: true
 main_image_path: /assets/images/coed-y-brenin-mountain-bike-049-4.JPG
-main_image_caption:
+main_image_caption: 
 location:
   latitude: '52.824166666667'
   longitude: '-3.8958333333333'
@@ -49,7 +49,7 @@ _comments:
   title: Page title
   main_image_path: Image used to represent your page
   permalink: Change the URL
-  adventure_date: Invalid date
+  adventure_date: Only month and year are public
   display_image: Show the featured image at the top of the page
   display_title: Show image captions
   images: Add and edit images here

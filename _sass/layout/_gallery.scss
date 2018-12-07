@@ -26,7 +26,9 @@
   text-align: center;
   padding-bottom: 1em;
 }
-
+.gallery--caption {
+    color: $black;
+}
 .gallery--list {
     /// make it a flexbox so items can be aligned vertically
     /*@include display(flex);
@@ -40,10 +42,11 @@
 
     display: grid;
     grid-gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
 
 
     a {
+        text-decoration: none;
         img {
             opacity: 1;
             transition: all 0.2s ease-in-out;
