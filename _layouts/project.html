@@ -95,4 +95,43 @@ layout: default
   </aside>
 {% endif %}
 
+{% assign projects = site.projects | where:"archive",false | sort: "order_number" %}
+
+{% if projects %}
+
+<hr>
+
+<h2>View more projects</h2>
+
+<section class="projects gallery--list">
+
+
+    {% for project in projects %}
+
+       {% if project.url != page.url %}
+
+          <div class="gallery--box">
+
+            <a href="{{ project.url }}" class="gallery--link">
+
+                <!-- cropped square images -->
+                {% include img.html src=project.main_image_path width=200 height=200 fit=crop alt=project.title %}
+                <!-- end cropped square -->
+
+                <figcaption class="gallery--caption">{{ project.title }}</figcaption>
+
+            </a>
+
+          </div>
+      {% endif %}
+
+
+    {% endfor %}
+
+
+
+</section>
+
+{% endif %}
+
 </div>
