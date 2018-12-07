@@ -1,9 +1,10 @@
 ---
-layout: page-noimage
+layout: page
 title: "Books"
 permalink: "/books/"
-main_image_path: "/assets/images/Wild-Running-mid-res.jpg"
-main_image_caption: "Wild Running"
+display_image: false
+main_image_path: "/assets/images/books-cover.jpg"
+main_image_caption: "Books by Jen and Sim"
 pageorder_number: 4
 main_nav: true
 frontpage: true
@@ -18,16 +19,20 @@ _options:
     hidden: true
   permalink:
     hidden: true
-  main_image_path:
-    width: 1200
-    height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
   image_path:
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
+  main_image_path:
+    uploads_dir: "assets/images/:year"
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+  content:
+    uploads_dir: "assets/:year"
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
@@ -36,10 +41,22 @@ _comments:
   homepage_description_markdown: Text used on homepage if shown
   frontpagetitle: Alternative title for home page use
   images: Add and edit images here
+  display_image: Show the featured image at the top of the page
 ---
 
+{% if page.main_image_path and page.display_image %}
+
+    <figure>
+      {% assign alt_text = page.title %}
+      {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+      {% include img.html src=page.main_image_path alt=alt_text %}
+      <figcaption>{{ alt_text }}</figcaption>
+    </figure>
+
+  {% endif %}
+
 <section class="book--intro editable">
-  <p>Published in 2014 our first book, <a href="/books/wild-running/">Wild Running</a>, champions the incredible off-road running to be found in Britain. <a href="/books/amazing-family-adventures/">Amazing Family Adventures* with the National Trust</a> and <em>Day Walks in Devon</em> were published in 2017 and we’re excited to announce two new books for 2018: <a href="/books/adventurers-guide-to-britain/">The Adventurer’s Guide to Britain</a>, out on 17 May, and <em>Day Walks in Cornwall</em>, out in the autumn. Click on a book image for full details and to purchase.</p>
+  <p>We love books of all kinds and feel incredibly lucky to count writing them as our job. Over the past few years we've explored the length and breadth of the country researching and photographing incredible places and amazing adventures in the great British outdoors. Our first book, <em>Wild Running</em>, was published in 2014 by Wild Things Publishing. <em>Amazing Family Adventures</em> (National Trust) and <em>Day Walks in Devon</em> (Vertebrate) came out in 2017 and our latest book, <em>The Adventurer's Guide to Britain</em>, was published by Bloomsbury in 2018. We have a busy 2019 lined up with the fully-updated second edition of <em>Wild Running</em> due out in February and our second book in the <em>Day Walks</em> series, this time covering beautiful Cornwall, out in April.</p>
 </section>
 
 {% assign books = site.books | sort: "book_date" | reverse %}

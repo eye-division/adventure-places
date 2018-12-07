@@ -1,74 +1,76 @@
 ---
-
-main_image_path: "/assets/images/kayaking-cover.jpg"
-main_image_caption: "Kayaking in the Isles of Scilly"
-show_carousel: false
-show_blog: false
-carousel:
-  - image: /assets/images/bikepacking-breconbeacons1.jpg
-    caption: "Bike packing, Brecon Beacons"
-    link:
-  - image: /assets/images/kayaking-islesofscilly.jpg
-    caption: "Kayaking, Isles of Scilly"
-    link:
+layout: home
+display_image: true
+main_image_path: /assets/images/fellrunning-howgills.jpg
+main_image_caption:
 _options:
   layout:
     hidden: true
-  status:
-    hidden: true
+  image_path:
+    uploads_dir: 'assets/images/:year'
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
-  image:
-    width: 1200
-    height: 1200
-    resize_style: contain
-    mime_type: image/jpeg
+  content:
+    uploads_dir: 'assets/:year'
 _comments:
+  display_image: Show cover image above text on home page
   main_image_path: Cover image
-  main_image_caption: Alt text for cover image
-  carousel: Edit the slideshow
-  link: Optional web link from the slide
-  caption: optional caption
+  main_image_caption: Caption text for cover image
 ---
-<!DOCTYPE html>
-<html>
 
-  {% include head.html %}
-
-  <body class="holding">
-
-    <div class="main--container">
-
-      <div class="parallax--container">
-        <h1 class="text--center text--white">{{ site.title }}</h1>
-
-      </div>
-
-      <div class="content--container">
-
-        <div class="content">
-
-        <h2 class="text--center">Site coming soon!</h2>
-        </div>
-
-      </div>
-
-    </div>
-
-
-<!-- Scripts -->
-{% if site.recaptcha_site_key %}
-<script src="//www.google.com/recaptcha/api.js" async defer></script>
+{% if page.main_image_path and page.display_image %}
+    <figure>
+      {% assign alt_text = page.title %}
+      {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
+      {% include img.html src=page.main_image_path alt=alt_text %}
+      <figcaption>{{ alt_text }}</figcaption>
+    </figure>
 {% endif %}
-<script defer src="//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js"></script>
-<script src="/js/jquery.flexslider-min.js" defer></script>
-<script src="//cdn.jsdelivr.net/npm/lightbox2@2.10.0/dist/js/lightbox.min.js" defer></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
-<script src="/js/main.js"></script>
 
-  </body>
 
-</html>
+  <div class="editable">
+    
+  </div>
+
+
+  {% for section in site.pages %}
+
+    {% if section.frontpage %}
+
+      {% if section.main_image_path %}
+        <section class="gallery--cover has--cover" style="background-image: url({{ section.main_image_path }});">
+      {% else %}
+        <section class="gallery--cover has--cover" style="background-image: url('http://placekitten.com/g/1200/300');">
+      {% endif %}
+        <a href="{{ section.url | prepend: site.baseurl }}">
+          <div class="scrim has--cover">
+            <article class="gallery--front">
+              <header class="gallery-header">
+                <h2 class="title mb0">{{ section.frontpagetitle }}</h2>
+              </header>
+              {% if section.homepage_description_markdown %}
+                {{ section.homepage_description_markdown | markdownify }}
+                <span class="readmore">Read more <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg></span>
+
+              {% endif %}
+            </span>
+          </article>
+        </div>
+        </a>
+
+      </section>
+
+    {% endif %}
+
+  {% endfor %}
+
+
+</section>

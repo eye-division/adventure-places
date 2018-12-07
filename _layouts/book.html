@@ -13,7 +13,7 @@ layout: default
   </header>
 
   <article class="post">
-    {% if page.main_image_path %}
+    {% if page.main_image_path and page.display_image %}
       <figure class="post--image">
       {% assign alt_text = page.title %}
       {% if page.main_image_caption %} {% assign alt_text = page.main_image_caption %} {% endif %}
@@ -31,7 +31,7 @@ layout: default
         <p class="post--date">{{ page.book_date  | date: "%Y" }}</p>
       {% endif %}
       {% if page.purchase_link %}
-         <a href="{{ page.purchase_link }}">Buy book</a>
+         <a href="{{ page.purchase_link }}" class="button">Buy book</a>
       {% endif %}
     </section>
   </article>
@@ -40,32 +40,88 @@ layout: default
 {% if with_media %}
   <aside class="media">
 
-    {% if page.main_image_path %}
-    <figure>
-      <a href="{% include imgpath.html src=page.main_image_path width=1280 %}" data-lightbox="gallery" data-title="{{ page.main_image_description }}">
-      {% include img.html src=page.main_image_path width=400 alt=page.main_image_description %}
-      </a>
-      <figcaption>{{ page.main_image_description}}</figcaption>
-    </figure>
+    {% if page.images[0].image_path %}
+
+    <section class="gallery--list">
+
+      {% for thisimage in page.images %}
+
+        {% assign image = site.default_gallery_image %}
+        {% if thisimage.image_path %}
+          {% assign image = thisimage.image_path %}
+        {% endif %}
+
+          <div class="gallery--box">
+
+            <a href="{% include imgpath.html src=image %}" class="gallery--link" data-lightbox="gallery" data-title="{{ thisimage.description }}">
+
+              {% if page.thumb_crop %}
+
+                <!-- cropped square images -->
+                {% include img.html src=image width=200 height=200 fit=crop alt=thisimage.description %}
+                <!-- end cropped square -->
+
+              {% else %}
+
+                <!-- full format images -->
+                {% include img.html src=image alt=thisimage.description %}
+                 <!-- end format images -->
+               {% endif %}
+
+               {% if page.display_title %}
+                  <figcaption class="gallery--caption">{{ thisimage.description }}</figcaption>
+              {% endif %}
+
+            </a>
+
+
+
+          </div>
+
+
+      {% endfor %}
+
+    </section>
+
     {% endif %}
 
-    {% if page.images[0].image_path %}
-    <section class="gallery">
-      {% for image in page.images %}
-        {% if image.image_path %}
-        <div class="gallery--box {% cycle 'alpha', '', 'last' %}">
-            {% include img.html src=image.image_path width=1200 alt=image.image_description %}
-          <caption>{{ image.image_title }}</caption>
-          {% if image.image_description %}
-            <p>{{ image.image_description }}</p>
-          {% endif %}
-        </div>
-        {% endif %}
-      {% endfor %}
-    </section>
-  {% endif %}
-
   </aside>
+{% endif %}
+
+{% assign books = site.books | sort: "book_date" | reverse %}
+
+{% if books %}
+
+<hr>
+
+  <h2>View more books</h2>
+
+
+    <section class="books gallery--list">
+
+    {% for book in books %}
+
+      {% if book.url != page.url %}
+
+      <div class="gallery--box">
+
+        <a href="{{ book.url }}" class="gallery--link">
+
+            <!-- cropped square images -->
+            {% include img.html src=book.main_image_path width=200 height=200 fit=crop alt=book.title %}
+            <!-- end cropped square -->
+
+            <figcaption class="gallery--caption">{{ book.title }}</figcaption>
+
+        </a>
+
+      </div>
+    {% endif %}
+    {% endfor %}
+
+   </section>
+
+
 {% endif %}
 
 </div>

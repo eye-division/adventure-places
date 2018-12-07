@@ -159,6 +159,10 @@ $dropdown-arrow-top-distance: 0;
 $gallery-image-hover-opacity: 0.7;
 $gallery-image-hover-color: $medium-gray;
 
+// lightbox colours
+$lightbox-background: rgba($black, 0.8);
+$lightbox-color: $white;
+
 
 /// Forms
 $form-box-shadow: inset 0 1px 3px rgba(rgb(0, 0, 0), 0.06);
@@ -180,6 +184,7 @@ $large: (
   gutter: 10px,
   media: 960px,
 );
+
 
 body {
   background-color: $base-background-color;

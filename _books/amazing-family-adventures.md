@@ -1,6 +1,5 @@
 ---
 title: "Amazing Family Adventures"
-permalink: 
 book_date: 2017-05-20T10:20:00Z
 archive: false
 description_markdown:  >-
@@ -10,6 +9,7 @@ description_markdown:  >-
 
   Each activity suggests National Trust places to visit for an adventure with the whole family.
 purchase_link: "https://shop.nationaltrust.org.uk/amazing-family-adventures/p8629"
+display_image: true
 main_image_path: "/assets/images/amazing-family-adventures.jpg"
 main_image_caption: "Amazing Family Adventures"
 images:
@@ -18,19 +18,26 @@ images:
 tags: 
 order_number: 1
 _options:
-  image:
+  image_path:
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
+    uploads_dir: "assets/images/:year"
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
+  content:
+    uploads_dir: "assets/:year"
 _comments:
   title: Page title
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your page
+  display_image: Show the featured image at the top of the page
+  main_image_path: Image used to represent your book
   images: Add and edit images here
+  order_number: Books are ordered by date
+  description_markdown: Short text used on summary page
+  tags: use tags to link books to each other
 ---

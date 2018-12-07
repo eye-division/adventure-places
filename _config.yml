@@ -11,7 +11,7 @@ plugins:
 
 # Site settings
 title: ADVENTURE Places
-subtitle:
+subtitle: "Jen & Sim Benson - outdoor adventure writing and photography"
 name: Adventure Places
 description: Adventure Places
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -46,16 +46,13 @@ imagecdn:
 collections:
     adventures:
         output: true
-        permalink: /adventure/:path/
+        permalink: /adventure/:title/
     projects:
         output: true
-        permalink: /project/:path/
-    kit:
-        output: true
-        permalink: /kit/:path/
+        permalink: /project/:title/
     books:
         output: true
-        permalink: /books/:path/
+        permalink: /book/:title/
 
 # Defaults Example
 defaults:
@@ -183,8 +180,8 @@ social:
 
   - name: Instagram
     icon: icon-instagram
-    username:
-    url:
+    username: jenandsim
+    url: https://www.instagram.com/jenandsim/
     desc: Follow us on Instagram
     share: false
 

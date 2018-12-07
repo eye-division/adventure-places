@@ -1,15 +1,12 @@
-- title: "Home"
-  href: "/"
-- title: "Latest adventures"
-  href: "/adventures/"
-- title: "Work with us"
-  href: "/work-with-us/"
-- title: "Recent projects"
-  href: "/projects/"
-- title: "Books"
-  href: "/books/"
-
-- title: "About"
-  href: "/about/"
-- title: "Contact"
-  href: "/contact/"
+- title: Home
+  href: /
+- title: Latest adventures
+  href: /adventures/
+- title: Work with us
+  href: /work-with-us/
+- title: Books
+  href: /books/
+- title: About
+  href: /about/
+- title: Contact
+  href: /contact/

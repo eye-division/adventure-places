@@ -96,6 +96,11 @@
 
 .post--title {
   margin-bottom: 0.2em;
+  text-align: center;
+  font-size: modular-scale(3);
+   @include grid-media ($small) {
+      font-size: modular-scale(4);
+  }
 }
 
 .post--navigation {
