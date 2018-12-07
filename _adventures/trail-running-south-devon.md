@@ -82,7 +82,7 @@ A week's enjoyable trail running on a brilliant rollercoaster section of the Sou
 
 Mainly cold, with strong winds and regular rain showers, but in between there were some stunning clear days when Devon basked resplendent in all its green grass, blue sea, red earth glory. We saw very few other people along the coast and generally had this fantastic place all to ourselves.
 
-#### Food & sleep
+#### Eat, drink, sleep
 
 If you're not bound by school holidays, out of season holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors in order to thrive. We stayed in a [National Trust](https://www.nationaltrust.org.uk/holidays){: target="_blank"}&nbsp;self-catering cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a few weeks of full-on work, was absolutely perfect.
 
