@@ -9,7 +9,7 @@ main_image_caption:
 location:
     latitude: 
     longitude: 
-display_title: 
+display_title: true
 images:
   - image_path:
     description:
@@ -37,7 +37,7 @@ _comments:
   main_image_path: Image used to represent your page
   permalink: Change the URL
   adventure_date: Only month and year are public
-  display_title: Show image captions
+  display_title: Show image captions in gallery
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage

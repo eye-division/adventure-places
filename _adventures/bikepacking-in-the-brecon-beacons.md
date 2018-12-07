@@ -16,7 +16,7 @@ main_image_caption: Bikepacking in the Brecon Beacons
 location:
   latitude: '51.944444444444'
   longitude: '-3.4044444444444'
-display_title:
+display_title: true
 images:
   - image_path: /assets/images/breacon-bikepacking-165-2.JPG
     description:
@@ -48,7 +48,7 @@ _comments:
   main_image_path: Image used to represent your page
   permalink: Change the URL
   adventure_date: Invalid date
-  display_title: Show image captions
+  display_title: Show image captions in gallery
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
