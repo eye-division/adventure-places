@@ -1,6 +1,6 @@
 ---
 title: Trail running in South Devon
-permalink: '/adventures/trail-running-south-devon/'
+permalink: /adventures/trail-running-south-devon/
 adventure_date: 2018-11-07 00:00:00
 description_markdown: >-
   We love heading to the south coast out of season when the wind's whipping the
@@ -21,21 +21,17 @@ location:
 display_title: true
 images:
   - image_path: /assets/images/colton-fishacre-scabacombe-132-2.JPG
-    description: 'Scabbacombe beach, Kingswear'
+    description: Scabbacombe sands
   - image_path: /assets/images/colton-fishacre-scabacombe-251-2.JPG
-    description: 'Scabbacombe beach, Kingswear'
+    description: Scabbacombe sands
   - image_path: /assets/images/colton-fishacre-scabacombe-441-2.JPG
-    description: Rollercoaster running on the South West Coast Path
+    description: South West Coast Path
   - image_path: /assets/images/man-sands-coleton-fishacre-051-2.JPG
-    description: >-
-      The South West Coast Path along the Kingswear peninsula, looking towards
-      the Daymark tower.
+    description: South West Coast Path
   - image_path: /assets/images/man-sands-coleton-fishacre-084-2.JPG
-    description: >-
-      The Daymark, a 24-mentre tower built in 1864 as a guide to mariners
-      negotiating the tricky entrance to Dartmouth harbour.
-  - image_path: /assets/images/anemone.jpg
-    description: Beadlet anemones
+    description: The Daymark
+  - image_path:
+    description:
 tags:
   - running
 order_number: 1
@@ -84,11 +80,11 @@ Mainly cold, with strong winds and regular rain showers, but in between there we
 
 #### Eat, drink, sleep
 
-If you're not bound by school holidays, out of season holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors in order to thrive. We stayed in a [National Trust](https://www.nationaltrust.org.uk/holidays){: target="_blank"}&nbsp;self-catering cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a few weeks of full-on work, was absolutely perfect.
+If you're not bound by school holidays, out of season holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors in order to thrive. We stayed in a [National Trust](https://www.nationaltrust.org.uk/holidays){: target="_blank"} self-catering cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a few weeks of full-on work, was absolutely perfect.
 
 #### Kit
 
-With the trails in a pretty muddy, slippery condition good grip was essential. We went for the new&nbsp;[Inov-8 Mudclaw 275s ](https://www.inov-8.com/trail-running/best-shoes-for/soft-and-muddy/mudclaw-275-mens-womens-trail-running-shoe-black){: target="_blank"}with some nice sticky rubber soles and plenty of depth of tread and our trusty [Inov-8 X-Talon 230s](https://www.inov-8.com/trail-running/best-shoes-for/soft-and-muddy/x-talon-230-mens-trail-running-shoes-grey){: target="_blank"} which have seen us around much of the country, from munro-bagging in Scotland to the pathless bogs of Dartmoor. Most of our runs were under two hours and, wonderfully, done from the doorstep so we used the [Ultimate Direction Groove Mono](https://ultimatedirection.com/groove-mono/){: target="_blank"}&nbsp;predominantly and the [Salomon Skin Pro 15](https://www.salomon.com/en-gb/shop-emea/product/skin-pro-15-set.html#848=10402&amp;1532=6248){: target="_blank"}&nbsp;pack for a day-long run that more than fitted everything we needed. This pack is great for us as it's stretchy and versatile and fits both of us perfectly, even though we're very different sizes. It's stable, comfortable, great for all-round use and has an attachment system that works with poles, helmet, ice axes and any number of other bits and pieces. Lightweight waterproof jackets (currently loving the funky, brilliant women's&nbsp;[Dynafit Ultra Light 3L](https://www.dynafit.com/en-gb/women/apparel/softshell-jackets/ultra-light-3l-jacket-women){: target="_blank"} smock and the men's [Inov-8 AT/C Stormshell](https://www.inov-8.com/trail-running/clothing/jackets/stormshell-waterproof-running-jacket-mens-red){: target="_blank"}) were an essential addition, easy to stash away but absolutely necessary when the rain began.
+With the trails in a pretty muddy, slippery condition good grip was essential. We went for the new [Inov-8 Mudclaw 275s ](https://www.inov-8.com/trail-running/best-shoes-for/soft-and-muddy/mudclaw-275-mens-womens-trail-running-shoe-black){: target="_blank"}with some nice sticky rubber soles and plenty of depth of tread and our trusty [Inov-8 X-Talon 230s](https://www.inov-8.com/trail-running/best-shoes-for/soft-and-muddy/x-talon-230-mens-trail-running-shoes-grey){: target="_blank"} which have seen us around much of the country, from munro-bagging in Scotland to the pathless bogs of Dartmoor. Most of our runs were under two hours and, wonderfully, done from the doorstep so we used the [Ultimate Direction Groove Mono](https://ultimatedirection.com/groove-mono/){: target="_blank"} predominantly and the [Salomon Skin Pro 15](https://www.salomon.com/en-gb/shop-emea/product/skin-pro-15-set.html#848=10402&amp;1532=6248){: target="_blank"} pack for a day-long run that more than fitted everything we needed. This pack is great for us as it's stretchy and versatile and fits both of us perfectly, even though we're very different sizes. It's stable, comfortable, great for all-round use and has an attachment system that works with poles, helmet, ice axes and any number of other bits and pieces. Lightweight waterproof jackets (currently loving the funky, brilliant women's [Dynafit Ultra Light 3L](https://www.dynafit.com/en-gb/women/apparel/softshell-jackets/ultra-light-3l-jacket-women){: target="_blank"} smock and the men's [Inov-8 AT/C Stormshell](https://www.inov-8.com/trail-running/clothing/jackets/stormshell-waterproof-running-jacket-mens-red){: target="_blank"}) were an essential addition, easy to stash away but absolutely necessary when the rain began.
 
 #### Don't miss
 
