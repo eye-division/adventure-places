@@ -69,5 +69,59 @@ _comments:
     <p>If you'd like to chat to us about a forthcoming project <a href="/contact/">we'd love to hear from you</a>.</p>
   </div>
 
+{% assign projects = site.projects | where:"archive",false | sort: "order_number"  %}
 
+{% if projects %}
+<hr>
+
+<h2>Recent projects</h2>
+
+<section class="projects-current">
+
+  <ul class="posts--list">
+
+  {% for project in projects %}
+
+  <li class="post--inlist">
+
+    <a href="{{ project.url }}" title="{{ project.title }}" class="post--image">
+      {% if project.main_image_path %}
+          {% include img.html src=project.main_image_path %}
+      {% else %}
+          {% include img.html src=site.placeholder_image %}
+      {% endif %}
+    </a>
+
+    <div class="post--content">
+
+        <h3>{{ project.title }}</h3>
+
+        {% if project.description_markdown %}
+          <p>{{ project.description_markdown | markdownify }}</p>
+        {% endif %}
+
+        {% if project.ongoing %}
+            <p><strong>In progress!</strong></p>
+        {% endif %}
+
+        {% if project.project_date %}
+          <p class="post--date">{{ project.project_date | date: "%B %Y" }}
+          {% if project.project_to_date %}
+            to {{ project.project_to_date | date: "%B %Y" }}
+          {% endif %}
+          </p>
+        {% endif %}
+
+        <p><a href="{{ project.url }}" title="{{ project.title }}">View this project&nbsp;&raquo;</a></p>
+
+    </div>
+
+  </li>
+  {% endfor %}
+  </ul>
+
+</section>
+
+
+{% endif %}
 

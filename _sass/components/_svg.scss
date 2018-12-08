@@ -8,6 +8,7 @@
     width: 30px;
     height: 30px;
 }
+a:hover .icon,
 a:hover .icon { /// hover colour
     fill: $highlight-color;
 }
@@ -42,7 +43,7 @@ a:hover .icon { /// hover colour
 /// vertical align SVG icons in the centre
 a svg {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
 }
 .icon--light {
     fill: $white;

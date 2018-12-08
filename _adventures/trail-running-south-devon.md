@@ -61,7 +61,7 @@ _comments:
   main_image_path: Image used to represent your page
   adventure_date: Invalid date
   permalink: Change the URL
-  display_title: Show image captions
+  display_title: Show image captions in gallery
   display_image: Show the featured image at the top of the page
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
@@ -69,6 +69,7 @@ _comments:
   description_markdown: Short text used on summary page
   tags:
 ---
+
 #### The place
 
 We love heading to the south coast over the winter months, when the wind whips the sea into a foaming frenzy, the sky dawns clear blue one day and a brooding grey the next and the beaches are empty and exciting. The [South West Coast Path](https://www.southwestcoastpath.org.uk/){: target="_blank"} is an incredible trail, with countless stretches along its 630-mile length between Poole in Dorset and Minehead in Somerset that provide outstanding trail running. The section that traces the intricate coastline around the Kingswear peninsula is one of the few we hadn't previously visited but, having just returned feeling windswept and refreshed, we'll definitely be returning to explore some more. Scroll to the end for a full set of photos.
@@ -81,11 +82,9 @@ A week's enjoyable trail running on a brilliant rollercoaster section of the Sou
 
 Mainly cold, with strong winds and regular rain showers, but in between there were some stunning clear days when Devon basked resplendent in all its green grass, blue sea, red earth glory. We saw very few other people along the coast and generally had this fantastic place all to ourselves.
 
-#### Food & sleep
+#### Eat, drink, sleep
 
-If you're not bound by school holidays, out of season holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors in order to thrive. We stayed in a [National Trust](https://www.nationaltrust.org.uk/holidays){: target="_blank"} cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a few weeks of full-on work, was absolutely perfect.
-
-The Ship at Kingswear.
+If you're not bound by school holidays, out of season holiday cottages in the south-west are excellent value, and the local communities desperately need year-round visitors in order to thrive. We stayed in a [National Trust](https://www.nationaltrust.org.uk/holidays){: target="_blank"}&nbsp;self-catering cottage at Coleton Barton, surrounded by sweeping fields and with glimpses of the sparkling sea. There was no mobile reception and no wifi which, having just finished a few weeks of full-on work, was absolutely perfect.
 
 #### Kit
 

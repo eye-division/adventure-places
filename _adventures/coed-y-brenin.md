@@ -51,7 +51,7 @@ _comments:
   permalink: Change the URL
   adventure_date: Only month and year are public
   display_image: Show the featured image at the top of the page
-  display_title: Show image captions
+  display_title: Show image captions in gallery
   images: Add and edit images here
   frontpage: Show this gallery on the homepage
   homepage_description_markdown: Text used on homepage if shown

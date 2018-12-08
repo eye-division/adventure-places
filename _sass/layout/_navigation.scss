@@ -17,7 +17,7 @@
 }
 
 /// small view
-.navigation-menu-button {
+.navigation--menu-button {
   display: block;
   text-align: center;
   margin: 0;
@@ -51,8 +51,8 @@
 
 nav {
     @include grid-media ($small) {
-        float: none;
-        line-height: 1.5em;
+        //float: none;
+        //line-height: 1.5em;
     }
 }
 
@@ -64,13 +64,16 @@ nav {
     overflow: visible;
     padding: 0;
     width: 100%;
-    @include grid-media ($small) {
-        display: block;
-        margin: 0;
-        padding: 0;
-    }
     &.show {
-        display: block;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    @include grid-media ($small) {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        justify-content: center; // space-around;
     }
 }
 
@@ -83,7 +86,7 @@ nav {
     padding: 0.25em 0;
     @include grid-media ($small) {
         background: transparent;
-        display: inline-block;
+        display: inline;
         text-decoration: none;
         width: auto;
     }

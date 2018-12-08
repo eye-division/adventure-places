@@ -1,22 +1,29 @@
 <header class="navigation" role="banner">
+
   <div class="navigation--wrapper">
-    <a href="{{ site.baseurl }}/" class="logo" title="Return home">
+
+    <a href="{{ site.baseurl }}/" class="header--wrapper" title="Return home">
+
       {% if site.logo %}
-        {% include img.html src=site.logo width=400 alt=site.title %}
-      <!-- <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}"> -->
+
+        {% include img.html src=site.logo width=400 alt=site.title class="header--logo" %}
+
       {% else %}
-      <h1>{{ site.title }}</h1>
-      <div class="subtitle">{{ site.subtitle }}</div>
+
+        <h1 class="header--title">{{ site.title }}</h1>
+        <div class="subtitle">{{ site.subtitle }}</div>
+
       {% endif %}
     </a>
 
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
+    <a href="javascript:void(0)" class="navigation--menu-button" id="js--mobile-menu">
       <span class="menu--title">MENU</span> <svg class="icon icon--menu"><use xlink:href="#icon-reorder" /></svg>
     </a>
 
 
     <nav role="navigation">
-      <ul id="js-navigation-menu" class="dropdown navigation--menu show">
+
+      <ul id="js--navigation-menu" class="navigation--menu show">
 
         {% for link in site.data.nav %}
 
@@ -27,18 +34,23 @@
         {% endfor %}
 
         {% for social in site.social %}
+
           {% if social.url != null %}
 
           <li class="nav--link">
+
             <a href="{{ social.url }}" title="{{ social.desc }}">
               <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
             </a>
+
           </li>
           {% endif %}
+
         {% endfor %}
 
       </ul>
     </nav>
 
   </div>
+
 </header>
