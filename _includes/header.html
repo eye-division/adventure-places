@@ -11,7 +11,7 @@
       {% else %}
 
         <h1 class="header--title">{{ site.title }}</h1>
-        <div class="subtitle">{{ site.subtitle }}</div>
+        {% if site.show_subtitle %} <div class="subtitle">{{ site.subtitle }}</div> {% endif %}
 
       {% endif %}
     </a>

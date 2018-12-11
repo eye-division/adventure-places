@@ -22,6 +22,7 @@ baseurl: ""
 url: "https://www.adventureplaces.co.uk/"
 logo:
 show_logo: false
+show_subtitle: false
 email: a.ward@eyedivision.com
 #placeholder_image: "/assets/images/leaf-icon.png"
 
