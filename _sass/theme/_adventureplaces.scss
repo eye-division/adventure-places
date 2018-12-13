@@ -1,5 +1,5 @@
 // Google Fonts
-@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Overlock:400,400i);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300|Overlock:400,400i|Lato:300,400);
 @font-face {
     font-family: 'trailmade_extrasregular';
     src: url('/assets/fonts/trailmadeextras-regular-webfont.woff2') format('woff2'),
@@ -30,6 +30,8 @@ $heading-font-family: ('trailmaderegular', 'Helvetica Neue', 'Helvetica', 'verda
 $subheading-font-family: ('Overlock', cursive);
 $logo-font-family: ('trailmaderegular', 'Helvetica Neue', 'Helvetica', 'verdana', 'Arial', sans-serif); // $base-font-family;
 // Font Sizes
+$navigation-menu-font: "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
 $base-font-size: 1.25em; // 16px
 
 $site-title-font-family: $logo-font-family;
@@ -91,6 +93,8 @@ $soundcloud: rgb(255, 58, 0);
 $base-background-color: rgb(255, 255, 255);
 $base-font-color: $dark-gray;
 $action-color: $black;
+$action-hover-color: darken($action-color,5%);
+
 $highlight-color: tint($action-color, 33%);
 $cta-color: darken($orange,20%);
 
@@ -210,4 +214,21 @@ blockquote {
 
 strong {
   color: $action-color;
+}
+
+// badges - replace with Materialize
+// 2. Badges
+// ==========================================================================
+
+// Badges
+span.badge {
+  display: inline-block;
+  min-width: 3rem;
+  padding: 0.5em 2em;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 1rem;
+  //color: color('grey', 'darken-1');
+  box-sizing: border-box;
+  background-color: darken($white,10%);
 }
