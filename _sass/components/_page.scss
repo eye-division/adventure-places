@@ -23,16 +23,22 @@
 }
 
 .page {
-   padding: 1em;
+   padding: 0 1em;
    //max-width: 48em;
    margin: 0 auto;
-
 }
 .page--title {
-  margin-bottom: 0.2em;
+  margin: 0.2em;
   text-align: center;
-  font-size: modular-scale(3);
-   @include grid-media ($small) {
-      font-size: modular-scale(5);
+  line-height: 1.2;
+  font-size: modular-scale(4);
+  transition: size $base-duration $base-timing;
+  @include grid-media ($small) {
+    line-height: 1.6;
+    font-size: modular-scale(6);
+  }
+  @include grid-media ($large) {
+    margin: 0 0.2em 0;
+    font-size: modular-scale(6);
   }
 }

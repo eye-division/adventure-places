@@ -1,38 +1,17 @@
+@charset "UTF-8";
 
-// Configuration and helpers
-// Bourbon and Neat are already imported
+// Color
+@import "components/color-variables";
+@import "components/color-classes";
 
-// 1. Bourbon Themes
-@import 'theme/adventureplaces';
+// Variables;
+@import "components/variables";
 
-// 2. Bourbon Vendors
-@import 'vendor-extensions/lightbox';
+// Reset
+@import "components/normalize";
 
-
-// 4. Bourbon Layout
-@import 'layout/header';
-@import 'layout/footer';
-@import 'layout/navigation';
-@import 'layout/gallery';
-@import 'layout/forms';
-
-// 5. Bourbon Components
-@import 'better-bourbon-buttons/bbb';
-@import 'components/header';
-@import 'components/page';
-@import 'components/list';
-@import 'components/margins';
-@import 'components/post';
-@import 'components/media';
-@import 'components/cloudcannon';
-@import 'components/cover';
-@import 'components/product';
-@import 'components/svg';
-
-
-// Materialize components
 // components
-/*@import "components/global";
+@import "components/global";
 @import "components/badges";
 @import "components/icons-material-design";
 @import "components/grid";
@@ -60,10 +39,3 @@
 @import "components/pulse";
 @import "components/datepicker";
 @import "components/timepicker";
-*/
-
-// 6. Bourbon Page-specific
-@import	'pages/home';
-@import 'pages/parallax';
-// 8. Bourbon Shame
-@import 'shame';

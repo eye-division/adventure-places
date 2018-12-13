@@ -81,16 +81,18 @@ _comments:
 
       <div class="post--content">
 
-          <h3>{{ adventure.title }}</h3>
-          <p>
+          <a href="{{ adventure.url }}" title="{{ adventure.title }}" class="plain">
+            <h3 class="post--title">{{ adventure.title }}</h3>
+          </a>
             {% if adventure.description_markdown %}
-              {{ adventure.description_markdown | markdownify }}<br />
+              {{ adventure.description_markdown | markdownify }}
             {% endif %}
             {% if adventure.adventure_date %}
-              <span class="post--date">{{ adventure.adventure_date  | date: "%B %Y" }}</span><br />
+            <p class="post--date"><span class="badge">{{ adventure.adventure_date  | date: "%B %Y" }}</span></p>
             {% endif %}
-            <a href="{{ adventure.url }}" title="{{ adventure.title }}">View this adventure&nbsp;&raquo;</a>
-          </p>
+            <p>
+              <a href="{{ adventure.url }}" title="{{ adventure.title }}" class="btn">View this adventure&nbsp;&raquo;</a>
+            </p>
 
       </div>
 

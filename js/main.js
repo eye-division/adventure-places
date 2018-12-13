@@ -17,8 +17,6 @@
       });
     });
 
-
-
     // Lightbox2 options
     lightbox.option({
       'wrapAround': true
@@ -36,6 +34,12 @@
       animationSpeed: 600,
       touch: true
     });
+
+
+    $('.sidenav').sidenav();
+    $('.parallax').parallax();
+
+    $('.sidenav').sidenav();
 
   }); // end doc ready
 
