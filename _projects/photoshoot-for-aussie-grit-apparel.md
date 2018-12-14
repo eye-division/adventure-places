@@ -17,7 +17,7 @@ images:
     description:
   - image_path: /assets/images/jen--sim-benson-aussie-grit-49.JPG
     description:
-  - image_path:
+  - image_path: /assets/images/aussie-grit-women-s-running-page-1.jpg
     description:
 tags:
 order_number:
