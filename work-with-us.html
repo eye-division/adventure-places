@@ -71,7 +71,7 @@ _comments:
     <p>If you'd like to chat to us about a forthcoming project <a href="/contact/">we'd love to hear from you</a>.</p>
   </div>
 
-{% if show_recent %}
+{% if page.show_recent %}
 
   {% assign projects = site.projects | where:"archive",false | sort: "order_number"  %}
 
