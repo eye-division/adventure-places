@@ -108,7 +108,7 @@ _comments:
                 <p><strong>In progress!</strong></p>
             {% endif %}
 
-            {% if project.project_date %}
+            {% if project.project_date and project.show_date %}
               <p class="post--date">{{ project.project_date | date: "%B %Y" }}
               {% if project.project_to_date %}
                 to {{ project.project_to_date | date: "%B %Y" }}
