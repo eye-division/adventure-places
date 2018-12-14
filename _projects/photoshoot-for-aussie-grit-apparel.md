@@ -4,7 +4,11 @@ project_date: 2018-11-01 00:00:00
 project_to_date:
 archive: false
 ongoing: false
-description_markdown:
+description_markdown: >-
+  We were delighted to be asked to model and shoot the new Flint range from
+  Aussie Grit Apparel after the brand won an award for its 3/4-length tights in
+  Women's Running magazine. Our images appeared across the brand's website and
+  social media and on a full page of the magazine.
 display_image: true
 main_image_path: /assets/images/westbury-white-horse-aussie-grit-847.JPG
 main_image_caption:
@@ -45,3 +49,5 @@ _comments:
 ---
 
 We were delighted to be asked to model and shoot the new Flint range from Aussie Grit Apparel after the brand won an award for its 3/4-length tights in Women's Running magazine. Our images appeared across the brand's website and social media and on a full page of the magazine.
+
+The shoot took place on the chalk plains above Westbury white horse and Bratton Camp in Wiltshire on a glorious golden evening.
