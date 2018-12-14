@@ -17,7 +17,7 @@ images:
     description:
   - image_path: /assets/images/jen--sim-benson-aussie-grit-49.JPG
     description:
-  - image_path: /assets/images/aussie-grit-women-s-running-page-1.jpg
+  - image_path:
     description:
 tags:
 order_number:
@@ -51,3 +51,5 @@ _comments:
 We were delighted to be asked to model and shoot the new Flint range from Aussie Grit Apparel after the brand won an award for its 3/4-length tights in Women's Running magazine. Our images appeared across the brand's website and social media and on a full page of the magazine.
 
 The shoot took place on the chalk plains above Westbury white horse and Bratton Camp in Wiltshire on a glorious golden evening.
+
+![](/assets/aussie-grit-women-s-running-page-1.jpg)
