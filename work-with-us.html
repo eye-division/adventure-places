@@ -10,7 +10,7 @@ frontpage: true
 pageorder_number: 2
 homepage_description_markdown: 'Writing, photography, consultancy'
 frontpagetitle: Work with us
-show_recent: false
+show_recent: true
 images:
   - image_path:
     image_title:
@@ -71,12 +71,12 @@ _comments:
     <p>If you'd like to chat to us about a forthcoming project <a href="/contact/">we'd love to hear from you</a>.</p>
   </div>
 
-{% if show_recent %}
+{% if page.show_recent %}
 
   {% assign projects = site.projects | where:"archive",false | sort: "order_number"  %}
 
   {% if projects %}
-    <hr>
+    <hr />
 
     <h2>Recent projects</h2>
 
