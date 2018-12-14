@@ -15,9 +15,9 @@ main_image_caption:
 images:
   - image_path: /assets/images/westbury-white-horse-aussie-grit-255.JPG
     description:
-  - image_path: /assets/images/jen--sim-benson-aussie-grit-49.JPG
+  - image_path: /assets/images/aussie-grit-women-s-running-update.jpg
     description:
-  - image_path: /assets/images/aussie-grit-women-s-running-page-1.jpg
+  - image_path: /assets/images/jen--sim-benson-aussie-grit-49.JPG
     description:
 tags:
 order_number:
