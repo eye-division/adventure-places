@@ -2,6 +2,7 @@
 title: National Trust Ranger Runs
 project_date: 2018-03-23 10:20:00
 project_to_date: 2019-03-31 00:00:00
+show_date: false
 ongoing: true
 archive: false
 description_markdown: >-
@@ -40,6 +41,7 @@ _comments:
   title: Page title
   project_date: Invalid date
   project_to_date: Invalid date
+  show_date: Display date or not
   display_image: Show the featured image at the top of the page
   main_image_path: Image used to represent your page
   archive: Hide from the main project listing page
