@@ -12,7 +12,7 @@ description_markdown: >-
   this a must-have guide for runners and explorers. Updated with 150 new runs,
   including directions, terrain data and safety advice, with Ordnance Survey
   1:250,000 route maps and links to 1:25,000 maps and GPX downloads.
-purchase_link: 'http://www.wildthingspublishing.com/product/wild-running-book-2nd-edition/'
+purchase_link: 'http://wildrunning.net/buy-book/'
 display_image: true
 main_image_path: /assets/images/wr-jacket-cover-v52.jpg
 main_image_caption:
