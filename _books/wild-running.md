@@ -1,6 +1,6 @@
 ---
 title: Wild Running
-book_date: 2016-03-23 10:20:00
+book_date: 2014-03-23 00:00:00
 archive: false
 description_markdown: >-
   Wild Running is the first UK guidebook for those who love to run and who dream
@@ -13,7 +13,7 @@ description_markdown: >-
   including terrain data with safety advice. Ordnance Survey 1:250,000 route
   maps and directions with online 1:50,000 maps and GPX downloads for
   mobiles.&nbsp;
-purchase_link: 'http://wildrunning.net/buy-book/'
+purchase_link:
 display_image: true
 main_image_path: /assets/images/Wild-Running-mid-res.jpg
 main_image_caption: Wild Running
@@ -47,3 +47,4 @@ _comments:
   tags:
 ---
 
+**The first edition of Wild Running, now out of stock.**
