@@ -54,4 +54,18 @@ Dartmoor National Park, stretching across southern and central Devon, is a perfe
 
 ## The adventure
 
-Setting out early from the warmth of the in-laws house on the eastern fringe of Dartmoor, we followed the long, winding track up onto open moorland. Our planned route took in a long loop, 15 miles each day and with a carefully-chosen wild camping spot at half way. Although everything had been damp and grey when we left, as we reached the stacked granite boulders of Hound Tor we were greeted by a spectacular sunrise, flooding the valley and the rocks with magical red-orange light. We spent nearly half an hour just taking it all in before the sun vanished behind a bank of cloud and the familiar grey tones of the moor returned.
+Setting out early from the warmth of the in-laws' house on the eastern fringes of Dartmoor, we followed the long, winding track up onto open moorland. Our planned route took in a long loop, running all of both days and with a carefully-chosen wild camping spot at half way.
+
+Although everything had been damp and grey when we left, as we reached the stacked granite boulders of Hound Tor we were greeted by a spectacular sunrise, flooding the valley and the rocks with magical red-orange light. We spent nearly half an hour just taking it all in before the sun vanished behind a bank of cloud and the familiar grey tones of the moor returned. On day one we ran past Jay's Grave before climbing to the long ridge of Hamel Down and admiring the awe-inspiring stone circle at Grimspound. Following a bridleway took us past the Warren House - a good place to stop for refreshments later in the day - before navigating vague sheep paths to the edge of Fernworthy forest. Taking our time and exploring as we went meant we arrived at the deserted ruins of Teignhead Farm, a perfect spot for a wild camp, just as dusk was starting to fall. Plentiful water from the nearby North Teign river and wonderful views to wake up to make this a favourite overnight spot. Day two took us on a rambling route back to Haytor. With the promise of a second clear night and the hope of another glorious sunrise we pitched for a second night in the shelter of boulders in the valley below with the music of the nearby brook to send us to sleep.
+
+## The weather
+
+Mild (for December) and sunny on day 1, grey and chilly on day 2 with an overnight frost. Two fine sunrises and a sunset.
+
+## Eat, drink, sleep
+
+Wild camping completes the adventure, but if the weather's bad it could easily turn an enjoyable fastpacking trip into an epic. There's a huge choice of excellent pubs for food, drink and accommodation plus self-catering, 'official' campsites with warm showers and B&B options. We highly recommend the Rugglestone Inn for a local cider.
+
+## Kit
+
+&nbsp;
