@@ -12,8 +12,10 @@ main_image_caption:
 location:
   latitude:
   longitude:
-display_title: true
+display_title: false
 images:
+  - image_path: /assets/images/grimspound-087.JPG
+    description: Brimspound stone circle
   - image_path:
     description:
 tags:
