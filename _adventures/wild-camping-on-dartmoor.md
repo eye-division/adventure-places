@@ -3,8 +3,9 @@ title: A wild winter weekend on Dartmoor
 permalink:
 adventure_date: 2018-12-27 00:00:00
 description_markdown: >-
-  Dartmoor is a perfect place to escape the Christmas rush and enjoy some
-  quality time together on a winter fastpacking and wild camping adventure.
+  Dartmoor is a perfect place to escape the festivities for a long weekend and
+  enjoy some quality time together on a winter fastpacking and wild camping
+  adventure.
 display_image: true
 main_image_path: /assets/images/dartmoor-december-2018-115-2.JPG
 main_image_caption:
@@ -64,8 +65,8 @@ Mild (for December) and sunny on day 1, grey and chilly on day 2 with an overnig
 
 ### Eat, drink, sleep
 
-Wild camping completes the adventure, but if the weather's bad it could easily turn an enjoyable fastpacking trip into an epic. There's a huge choice of excellent pubs for food, drink and accommodation plus self-catering, 'official' campsites with warm showers and B&B options. We highly recommend the Rugglestone Inn for a local cider.
+Over a sunny weekend, wild camping completes the adventure, but if the weather's bad it could easily turn an enjoyable fastpacking trip into an epic slog. There's a great choice of excellent pubs for food, drink and accommodation on Dartmoor plus self-catering, 'official' campsites with warm showers and B&B options. We highly recommend the Rugglestone Inn for a local cider, Home Farm cafe at Parke, Ullacombe Farm near Haytor and also the cafe at Castle Drogo, overlooking the picturesque Teign Valley.
 
 ### Kit
 
-&nbsp;
+It's still early enough in the winter for the ground to be sufficiently firm for trail shoes, and there's a fair bit of hard-pack trail and also some quiet road along the route so we wanted footwear with a good balance of grip and cushioning. We went for the men's [Inov-8 Parkclaw 275](https://www.inov-8.com/parkclaw-275-mens-trail-running-shoes-green){: target="_blank"}s - comfortable, fairly grippy and, in bright green, a great colour for photos - and the excellent women's [Bushidos from La Sportiva](https://www.lasportiva.com/en/bushido-woman){: target="_blank"} - perfect for rocky, gravelly trails. As there were two of us we weren't too concerned about weight so we took the brilliant [Vaude Invenio UL ](https://www.vaude.com/en-GB/Products/Tents/2-Person/Invenio-UL-2P){: target="_blank"}2-person tent, giving us plenty of room for us and our packs. Clothing that's fast drying and warm for its weight is essential for fastpacking trips and the [Outdoor Research Deviator Hoody](https://www.outdoorresearch.com/gb/en/womens/womens-jackets-vests/womens-synthetic-insulated-jackets/womens-deviator-hoody/p/2437781194008){: target="_blank"}&nbsp;worked perfectly, both for colder spells of running during the day and then over a midlayer and under a jacket for the evening. This is one of those rare items of kit that really doesn't have any faults - it's brilliantly versatile, with stretchy, breathable, thumb-looped sleeves and back panel; windproof and lightly-insulated front; three perfectly-places pockets and a snug, fitted hood.&nbsp;
