@@ -10,8 +10,8 @@ display_image: true
 main_image_path: /assets/images/dartmoor-december-2018-115-2.JPG
 main_image_caption:
 location:
-  latitude:
-  longitude:
+  latitude: '50.59666667'
+  longitude: '3.77805556'
 display_title: false
 images:
   - image_path: /assets/images/grimspound-087.JPG
