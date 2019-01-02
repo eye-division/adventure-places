@@ -1,7 +1,5 @@
 ---
-title: >-
-  'The art of getting children outdoors' - a fun, informative booklet for the
-  Wildlife Trusts
+title: '''The art of getting children outdoors'' booklet for the Wildlife Trusts'
 project_date: 2017-01-02 00:00:00
 project_to_date:
 archive: false
