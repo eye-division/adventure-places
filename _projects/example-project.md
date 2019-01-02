@@ -3,7 +3,7 @@ title: National Trust Ranger Runs
 project_date: 2019-03-23 00:00:00
 project_to_date: Invalid date
 show_date: false
-ongoing: true
+ongoing: false
 archive: false
 description_markdown: >-
   For the past year we've been working with the incredible team of National
