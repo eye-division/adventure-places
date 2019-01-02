@@ -1,5 +1,5 @@
 ---
-title: A wild winter weekend on Dartmoor
+title: Fastpacking and wild camping on Dartmoor
 permalink:
 adventure_date: 2018-12-27 00:00:00
 description_markdown: >-
