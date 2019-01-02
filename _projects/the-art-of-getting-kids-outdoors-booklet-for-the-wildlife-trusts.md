@@ -1,7 +1,5 @@
 ---
-title: >-
-  'The art of getting children outdoors' - a fun, informative booklet for the
-  Wildlife Trusts
+title: '''The art of getting children outdoors'' booklet for the Wildlife Trusts'
 project_date: 2017-01-02 00:00:00
 project_to_date:
 archive: false
@@ -11,7 +9,7 @@ description_markdown: >-
   devised, researched and provided copy and images for this engaging,
   informative booklet.
 display_image: true
-main_image_path: /assets/images/wildlife-trusts-booklet-page-1.jpg
+main_image_path: /assets/images/wildlife-trusts-booklet-page-2.jpg
 main_image_caption: The art of getting children outdoors
 images:
   - image_path: /assets/images/wildlife-trusts-booklet-page-2.jpg
@@ -21,6 +19,8 @@ images:
   - image_path: /assets/images/wildlife-trusts-booklet-page-4.jpg
     description:
   - image_path: /assets/images/wildlife-trusts-booklet-page-5.jpg
+    description:
+  - image_path: /assets/images/wildlife-trusts-booklet-page-1.jpg
     description:
 tags:
 order_number:
@@ -51,6 +51,4 @@ _comments:
   description_markdown: Short text used on summary page
 ---
 
-As parents to two young children we know how important it is to spend time together outdoors. But we also know how hard it can be to actually get through the door... Our aim in writing this booklet was to address some of the common challenges involved in spending time outdoors with young children and to provide some practical advice and inspiration, while keep everything fun and enjoyable - because that's how it should be!
-
-&nbsp;
+As parents to two young children we know how important it is to spend time together outdoors. But we also know how hard it can be to actually get through the door… Our aim in writing this booklet was to address some of the common challenges involved in spending time outdoors with young children and to provide some practical advice and inspiration, while keep everything fun and enjoyable - because that's how it should be!
