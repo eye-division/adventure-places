@@ -45,4 +45,4 @@ _comments:
   description_markdown: Short text used on summary page
 ---
 
-We're regular contributors to the excellent Outdoor Fitness magazine. Our feature on getting into scrambling was great fun to research, write and photograph, spending a gloriously sunny day enjoying the granite on Dartmoor. As well as offering advice and information for those keen to try scrambling and the best places to go for beginner-friendly routes, we included a detailed review of some of our favourite kit for scrambling.
+We're regular contributors to the excellent [Outdoor Fitness](https://www.outdoorsradar.com/){: target="_blank"} magazine and write them a monthly wild running column. Our feature on getting into scrambling was great fun to research, write and photograph, spending a gloriously sunny day enjoying the granite on Dartmoor. As well as offering advice and information for those keen to try scrambling and the best places to go for beginner-friendly routes, we included a detailed review of some of our favourite kit for scrambling.
