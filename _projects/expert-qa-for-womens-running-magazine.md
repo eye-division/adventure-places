@@ -8,7 +8,7 @@ description_markdown: >-
   Jen offers advice on off-road running and getting back into running after a
   break in the relaunch issue of Women's Running magazine.
 display_image: true
-main_image_path:
+main_image_path: /assets/images/womens-running-cover-landscape.jpg
 main_image_caption:
 images:
   - image_path: /assets/images/womens-running-qa-page-1.jpg
