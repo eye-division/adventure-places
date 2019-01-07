@@ -48,6 +48,6 @@ _comments:
 
 ### The Place
 
-The Isle of Mull is the second-largest of the Inner Hebrides, after Skye. It's a wonderfully varied place, and perfect for exploring, with a mountainous interior topped by Ben More at 966 metres, many beautiful lochs and beaches and the colourful town of Tobermory, home to to the island's only single malt distillery, at its northern tip.
+The Isle of Mull is the second-largest of the Inner Hebrides, after Skye. It's a wonderfully varied place, and perfect for exploring, with a mountainous interior topped by Ben More at 966 metres, many beautiful lochs and beaches and the colourful town of Tobermory, home to the island's only single malt distillery, at its northern tip.
 
 The Ardmeanach Peninsula lies on Mull's west coast, unreachable by road and with a sheer headland at its westernmost point that drops in giant steps to to the sea below. It is a place that feels wild, ancient and untouched
