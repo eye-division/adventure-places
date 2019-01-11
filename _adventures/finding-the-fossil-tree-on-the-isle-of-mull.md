@@ -56,4 +56,4 @@ Ardmeanach (Middle Promontory) lies on Mull's west coast: isolated, inaccessible
 
 MacCulloch's Fossil Tree lies in a hidden cove right at the end of the precipitous headland. This vast tree, thought to be a conifer engulfed by flowing lava 55 million years ago and since exposed by erosion, was first discovered by geologist John MacCulloch in 1811 and described in his 1819 book, ‘*A description of the Western Isles of Scotland*’. Although it has been pillaged over the years by those wishing to own a part of this incredible piece of the earth's history, the remaining fossilised parts of the tree and its impression in the towering coastal wall is vast and awe-inspiring.
 
-It's a 5-mile out-and-back adventure from the&nbsp;
+It's a 5-mile out-and-back adventure from the car park at Tiroran. We started out on mountain bikes, riding the winding coastal trail as far as&nbsp;
