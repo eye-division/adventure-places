@@ -2,7 +2,10 @@
 title: Finding the Fossil Tree on the Isle of Mull
 permalink:
 adventure_date: 2018-06-04 00:00:00
-description_markdown:
+description_markdown: >-
+  A bike and run adventure to discover Mull's awe-inspiring fossil tree, thought
+  to be over 50 million years old and first discovered by geologist John
+  MacCulloch in 1811.
 display_image: true
 main_image_path: /assets/images/mull-fossil-tee-061-3.JPG
 main_image_caption:
@@ -66,7 +69,7 @@ Ardmeanach (Middle Promontory) lies on Mull's west coast: isolated, inaccessible
 
 MacCulloch's Fossil Tree lies in a hidden cove right at the end of the precipitous headland. This vast tree, thought to be a conifer engulfed by flowing lava 55 million years ago and since exposed by erosion, was first discovered by geologist John MacCulloch in 1811 and described in his 1819 book, ‘*A description of the Western Isles of Scotland*’. Although it has been pillaged over the years by those wishing to own a part of this incredible piece of the earth's history, the remaining fossilised parts of the tree and its impression in the towering coastal wall is vast and awe-inspiring.
 
-It's approaching 6&nbsp;miles each way from the car park at Tiroran. We started out on mountain bikes, soaking up the glorious views as we rode on pleasant, and mostly downhill, coastal trails as far as Burg, managed by the National Trust for Scotland. Leaving the bikes here we continued at a run, first on grassy tracks and then on a narrow, vague path winding between the sea to our left and the towering crags to our right. At this point it felt like a real adventure, requiring a good level of fitness and a cool head, particularly when faced with some decent-sized landslides and rockfall, none of which looked recent but still served as a reminder of the unstable and unpredictable nature of those huge cliffs.
+It's approaching 6 miles each way from the car park at Tiroran. We started out on mountain bikes, soaking up the glorious views as we rode on pleasant, and mostly downhill, coastal trails as far as Burg, managed by the National Trust for Scotland. Leaving the bikes here we continued at a run, first on grassy tracks and then on a narrow, vague path winding between the sea to our left and the towering crags to our right. At this point it felt like a real adventure, requiring a good level of fitness and a cool head, particularly when faced with some decent-sized landslides and rockfall, none of which looked recent but still served as a reminder of the unstable and unpredictable nature of those huge cliffs.
 
 Eventually we arrived at a ladder, corroded and slightly concerning, leading to the beach below. A careful descent brought us to a beach of amazing hexagonal basalt columns, shaped by the cooling of ancient magma. A couple of hundred metres of boulder hopping followed before we reached the first of two vast waterfalls that thundered down the cliffs onto the beach, filling the air with fine spray. Past these, rounding a cliff, we finally discovered the tree itself, towering above us: strange, beautiful, truly awe-inspiring. We spent a long time simply standing there in silence, gazing up at the tree and taking in a place unlike anything we had ever experienced before.
 
@@ -87,5 +90,3 @@ This would also make a good run from the car park, but our hardtail mountain bik
 ### Don't miss
 
 South of Ardmeanach, the Ross of Mull is an equally stunning, yet completely different, place to explore. Watch the sun set over the white, sandy beaches at Fionnphort with views across to Iona.
-
-&nbsp;
