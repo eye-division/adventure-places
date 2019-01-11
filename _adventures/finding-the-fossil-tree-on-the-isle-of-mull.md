@@ -72,7 +72,7 @@ This adventure lends itself perfectly to self-sufficiency. Take plenty of suppli
 
 ### Kit
 
-It would be a good run from the car park, but our hardtail mountain bikes made the first few miles quicker and easier. Shoes with good grip are essential.
+This would also make a good run from the car park, but our hardtail mountain bikes made the first few miles quicker and easier. Shoes with good grip are essential.
 
 ### Don't miss
 
