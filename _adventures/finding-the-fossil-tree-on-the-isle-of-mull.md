@@ -15,7 +15,7 @@ images:
     description:
   - image_path: /assets/images/mull-fossil-tee-033-2.JPG
     description:
-  - image_path: /assets/images/mull-fossil-tee-045-2.JPG
+  - image_path:
     description:
   - image_path: /assets/images/mull-fossil-tee-053-2.JPG
     description:
@@ -27,9 +27,9 @@ images:
     description:
   - image_path: /assets/images/mull-fossil-tree-018-2.JPG
     description:
-  - image_path: /assets/images/mull-fossil-tree-021-2.JPG
+  - image_path:
     description:
-  - image_path: /assets/images/mull-fossil-tree-024-2.JPG
+  - image_path:
     description:
   - image_path:
     description:
