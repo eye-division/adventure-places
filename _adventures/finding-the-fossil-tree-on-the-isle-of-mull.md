@@ -7,8 +7,8 @@ display_image: true
 main_image_path: /assets/images/mull-fossil-tee-061-3.JPG
 main_image_caption:
 location:
-  latitude:
-  longitude:
+  latitude: '56.370555555556'
+  longitude: '-6.2077777777778'
 display_title: true
 images:
   - image_path:
