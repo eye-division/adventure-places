@@ -50,8 +50,10 @@ _comments:
 
 Mull is the second-largest island in the Inner Hebrides, after Skye. Like so many islands it's a wonderful place to escape with a character completely different from the mainland. It is also surprisingly varied, perfectly-sized for exploring, with a mountainous interior topped by Ben More at 966 metres, many beautiful lochs and beaches and the colourful town of Tobermory, home to the island's only single malt distillery, at its northern tip. Rich in wildlife, Mull boasts 2,388 different species of plant and 261 species of bird. Around its 300 miles of coastline you might spot seals, otters, porpoises, minke whales and basking sharks.
 
-Ardmeanach (meaning: middle promontory) lies on Mull's west coast: isolated, inaccessible by car and with a high, craggy headland at the peninsula's westernmost point. Viewed across the water from Bunessan, on the Ross of Mull to the south, the cliffs, formed by volcanic activity some 60 million years ago and sculpted by waves and weather, drop in a series of giant steps to the sea below. This is a place that feels wild, ancient and untouched with few settlements and some fascinating geology to discover.
+Ardmeanach (Middle Promontory) lies on Mull's west coast: isolated, inaccessible by car and with a high, craggy headland at the peninsula's westernmost point. Viewed across the water from Bunessan, on the Ross of Mull to the south, the cliffs, formed by volcanic activity some 60 million years ago and sculpted by waves and weather, drop in a series of giant steps to the sea below. This is a place that feels wild, ancient and untouched with few settlements and some fascinating geology to discover.
 
 ### The Adventure
 
-MacCulloch's Fossil Tree lies in a hidden cove right at the end of the precipitous headland.
+MacCulloch's Fossil Tree lies in a hidden cove right at the end of the precipitous headland. This vast tree, thought to be a conifer engulfed by flowing lava 55 million years ago and since exposed by erosion, was first discovered by geologist John MacCulloch in 1811 and described in his 1819 book, ‘*A description of the Western Isles of Scotland*’. Although it has been pillaged over the years by those wishing to own a part of this incredible piece of the earth's history, the remaining fossilised parts of the tree and its impression in the towering coastal wall is vast and awe-inspiring.
+
+It's a 5-mile out-and-back adventure from the&nbsp;
