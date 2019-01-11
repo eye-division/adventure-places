@@ -11,6 +11,26 @@ location:
   longitude: '-6.2077777777778'
 display_title: true
 images:
+  - image_path: /assets/images/mull-fossil-tee-020-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tee-033-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tee-045-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tee-053-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tee-055-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tree-005-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tree-010-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tree-018-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tree-021-2.JPG
+    description:
+  - image_path: /assets/images/mull-fossil-tree-024-2.JPG
+    description:
   - image_path:
     description:
 tags:
