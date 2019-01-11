@@ -66,7 +66,7 @@ Ardmeanach (Middle Promontory) lies on Mull's west coast: isolated, inaccessible
 
 MacCulloch's Fossil Tree lies in a hidden cove right at the end of the precipitous headland. This vast tree, thought to be a conifer engulfed by flowing lava 55 million years ago and since exposed by erosion, was first discovered by geologist John MacCulloch in 1811 and described in his 1819 book, ‘*A description of the Western Isles of Scotland*’. Although it has been pillaged over the years by those wishing to own a part of this incredible piece of the earth's history, the remaining fossilised parts of the tree and its impression in the towering coastal wall is vast and awe-inspiring.
 
-It's a 5-mile out-and-back trip from the car park at Tiroran. We started out on mountain bikes, soaking up the glorious views as we rode on pleasant, and mostly downhill, coastal trails as far as The Burg, a National Trust for Scotland property. Leaving the bikes here we continued at a run, first on grassy tracks and then on a narrow, vague path winding between the sea to our left and the towering crags to our right. At this point it felt like a real adventure, requiring a good level of fitness and a cool head, particularly when faced with some decent-sized landslides and rockfall, none of which looked recent but still served as a reminder of the unstable and unpredictable nature of those huge cliffs.
+It's approaching 6&nbsp;miles each way from the car park at Tiroran. We started out on mountain bikes, soaking up the glorious views as we rode on pleasant, and mostly downhill, coastal trails as far as The Burg, a National Trust for Scotland property. Leaving the bikes here we continued at a run, first on grassy tracks and then on a narrow, vague path winding between the sea to our left and the towering crags to our right. At this point it felt like a real adventure, requiring a good level of fitness and a cool head, particularly when faced with some decent-sized landslides and rockfall, none of which looked recent but still served as a reminder of the unstable and unpredictable nature of those huge cliffs.
 
 Eventually we arrived at a ladder, corroded and slightly concerning, leading to the beach below. A careful descent brought us to a beach of amazing hexagonal basalt columns, shaped by the cooling of ancient magma. Two vast waterfalls thundered down the cliffs onto the beach, filling the air with fine spray. Past these, rounding a cliff, we finally discovered the tree itself, towering above us: strange, beautiful, truly awe-inspiring. We shared our chocolate in silence, gazing up at the tree and around us at the surroundings that were like nothing we had ever experienced before.
 
@@ -78,7 +78,7 @@ Cool, calm and dry. This would be an epic undertaking in bad weather and, due to
 
 ### Eat, drink, sleep
 
-This adventure lends itself perfectly to self-sufficiency. Take plenty of supplies. Bivvy or wild camp under the stars (but well away from potential rock fall). Drink in all of its wild beauty and return changed by the experience.
+This adventure lends itself perfectly to self-sufficiency. Take plenty of supplies. Bivvy or wild camp under the stars (but well away from potential rock fall). Drink in all of its wild beauty and return changed by the experience. Otherwise, the [Whitetail Gin](https://whitetailgin.com/){: target="_blank"} distillery and cafe and the [Tiroran hotel](https://www.tiroran.com/){: target="_blank"} and self-catering cottages are perfectly-placed at the start.
 
 ### Kit
 
