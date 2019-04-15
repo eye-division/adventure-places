@@ -6,10 +6,10 @@ archive: false
 ongoing: true
 description_markdown:
 display_image: true
-main_image_path:
+main_image_path: /assets/images/features-ethical-kit-page-1.jpg
 main_image_caption:
 images:
-  - image_path: /assets/images/features-ethical-kit-page-1.jpg
+  - image_path:
     description:
   - image_path:
     description:
