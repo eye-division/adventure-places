@@ -4,7 +4,11 @@ project_date: 2019-04-15 00:00:00
 project_to_date: 2019-04-30 00:00:00
 archive: false
 ongoing: true
-description_markdown:
+description_markdown: >-
+  Sustainability experts for Runner's World magazine's Future of Running panel
+  at the National Running Show in January 2019 and London Marathon Expo on 24th
+  April 2019. Major feature on ethical running kit in Runner's World May 2019
+  issue.
 display_image: true
 main_image_path: /assets/images/features-ethical-kit-page-1.jpg
 main_image_caption:
