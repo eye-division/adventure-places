@@ -1,7 +1,7 @@
 ---
 title: Sustainability experts for Runner's World magazine
-project_date: 2019-04-01 00:00:00
-project_to_date: 2019-04-30 00:00:00
+project_date: 2019-04-14 00:00:00
+project_to_date: Invalid date
 archive: false
 ongoing: false
 description_markdown: >-
