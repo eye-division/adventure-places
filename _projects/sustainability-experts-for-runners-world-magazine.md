@@ -1,5 +1,5 @@
 ---
-title: Sustainability experts for Runners World magazine
+title: Sustainability experts for Runner's World magazine
 project_date: 2019-04-15 00:00:00
 project_to_date: 2019-04-30 00:00:00
 archive: false
