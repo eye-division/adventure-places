@@ -3,7 +3,7 @@ title: Sustainability experts for Runner's World magazine
 project_date: 2019-04-01 00:00:00
 project_to_date: 2019-04-30 00:00:00
 archive: false
-ongoing: true
+ongoing: false
 description_markdown: >-
   Sustainability experts for Runner's World magazine's Future of Running panel
   at the National Running Show in January 2019 and London Marathon Expo on 24th
