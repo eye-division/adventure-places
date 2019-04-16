@@ -1,7 +1,8 @@
 ---
 title: Sustainability experts for Runner's World magazine
 project_date: 2019-04-14 00:00:00
-project_to_date: Invalid date
+project_to_date:
+show_date: false
 archive: false
 ongoing: false
 description_markdown: >-
@@ -38,8 +39,9 @@ _options:
     uploads_dir: 'assets/:year'
 _comments:
   title: Page title
-  project_date: Invalid date
-  project_to_date: Invalid date
+  project_date: Date project started (shown as Month Year)
+  project_to_date: Project end date (shown as Month Year)
+  show_date: Show the project dates on the page
   display_image: Show the featured image at the top of the page
   archive: Hide from the main project listing page
   main_image_path: Image used to represent your page
