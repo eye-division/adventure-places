@@ -64,7 +64,8 @@ _comments:
 
 {% if page.show_recent %}
 
-  {% assign projects = site.projects | where:"archive",false | sort: "order_number"  %}
+  {% assign projects_ordered = site.projects | where:"archive",false | sort: "order_number"  %}
+  {% assign projects = site.projects | where:"archive",false | sort: "project_date" | reverse  %}
 
   {% if projects %}
     <hr />
