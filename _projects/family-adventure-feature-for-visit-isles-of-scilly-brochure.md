@@ -44,4 +44,4 @@ _comments:
   description_markdown: Short text used on summary page
 ---
 
-Camping on the tiny island of Bryher, a rib ride to spot seals and puffins, wandering around Tresco Abbey Garden spotting red squirrels and golden pheasants, swimming and kayaking on clear blue waters and playing on beautiful golden sand. Amazing family adventures on the Isles of Scilly.
+Camping on the tiny island of Bryher, a rib ride to spot seals and puffins, wandering around Tresco Abbey Garden spotting red squirrels and golden pheasants, swimming and kayaking in clear blue seas and playing on beautiful golden sand. Amazing family adventures on the Isles of Scilly.
