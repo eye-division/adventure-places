@@ -1,5 +1,5 @@
 ---
-title: Family adventure feature for Visit Isles of Scilly brochure
+title: Family adventure feature for Visit Isles of Scilly's holiday brochure
 project_date: 2018-11-01 00:00:00
 project_to_date:
 show_date: false
