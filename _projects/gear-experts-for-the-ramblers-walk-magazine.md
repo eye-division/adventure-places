@@ -1,7 +1,7 @@
 ---
 title: Gear experts for the Ramblers' Walk magazine
-project_date:
-project_to_date:
+project_date: 2019-07-11 00:00:00
+project_to_date: 2019-07-11 11:37:27
 show_date: false
 archive: false
 ongoing: true
