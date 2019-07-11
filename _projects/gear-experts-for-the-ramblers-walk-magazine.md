@@ -1,7 +1,7 @@
 ---
 title: Gear experts for the Ramblers' Walk magazine
 project_date: 2019-07-11 00:00:00
-project_to_date: 2019-07-11 11:42:34
+project_to_date: 2019-07-11 11:45:17
 show_date: false
 archive: false
 ongoing: false
@@ -45,4 +45,4 @@ _comments:
   description_markdown: Short text used on summary page
 ---
 
-We thoroughly test and thoughtfully review the best walking and outdoor gear for the excellent [Walk magazine](https://www.ramblers.org.uk/news/walk-magazine.aspx){: target="_blank"} from the Ramblers. In the summer 2019 issue we tested out the best men's and women's walking shoes. You can also read our blog for the magazine [here](https://www.ramblers.org.uk/news/blogs/2019/may/qanda-with-walks-new-gear-testers.aspx).
+We thoroughly test and thoughtfully review the best walking and outdoor gear for the excellent [Walk magazine](https://www.ramblers.org.uk/news/walk-magazine.aspx){: target="_blank"} from the Ramblers. In the summer 2019 issue we tested out the best men's and women's walking shoes. [Read the full review online.](https://www.ramblers.org.uk/news/walk-magazine/current-issue/2019/may/summer-2019/walking-shoes.aspx){: target="_blank"}
