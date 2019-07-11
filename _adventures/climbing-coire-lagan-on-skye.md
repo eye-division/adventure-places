@@ -14,7 +14,7 @@ location:
 display_title: true
 images:
   - image_path: /assets/images/skye-coire-lagan-dunvegan-011.JPG
-    description: Glenbrittle
+    description:
   - image_path: /assets/images/skye-coire-lagan-dunvegan-053.JPG
     description:
   - image_path: /assets/images/skye-coire-lagan-dunvegan-060.JPG
@@ -22,6 +22,8 @@ images:
   - image_path: /assets/images/skye-coire-lagan-dunvegan-083.JPG
     description:
   - image_path: /assets/images/skye-coire-lagan-dunvegan-130.JPG
+    description:
+  - image_path: /assets/images/img-2351.jpg
     description:
 tags:
 order_number:
