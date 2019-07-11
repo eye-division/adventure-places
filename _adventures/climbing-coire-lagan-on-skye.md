@@ -3,7 +3,7 @@ title: Climbing Coire Lagan on Skye
 permalink:
 adventure_date: 2019-07-01 00:00:00
 description_markdown: >-
-  On a recent trip to Skye we combined a family adventure with a run/scramble to
+  Combining a family adventure with a run/scramble on a recent trip to Skye and
   the impressive and beautiful Coire Lagan.
 display_image: true
 main_image_path: /assets/images/skye-coire-lagan-dunvegan-098.JPG
