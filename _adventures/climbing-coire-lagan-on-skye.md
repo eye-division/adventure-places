@@ -3,7 +3,7 @@ title: Climbing Coire Lagan on Skye
 permalink:
 adventure_date: 2019-07-01 00:00:00
 description_markdown: >-
-  On a recent trip to Skye we combined a family adventure with a run/scramble to
+  Combining a family adventure with a run/scramble on a recent trip to Skye and
   the impressive and beautiful Coire Lagan.
 display_image: true
 main_image_path: /assets/images/skye-coire-lagan-dunvegan-098.JPG
@@ -58,13 +58,13 @@ _comments:
 
 Hiding in Glenbrittle cafe at the foot of the mighty Cuillin Ridge while the rain hammered at the windows it didn't feel like we'd picked the best day to take the kids up one of our favourite routes on Skye. Coire Lagan is a beautiful, shining dish of water, suspended high in a corrie surrounded by impressive, jagged peaks. The view across it, aligned with the blue sea beyond, is truly magical - like a perfect, wild infinity pool. The trail up the hillside from Glenbrittle beach is thoroughly inviting, with plenty of rocks to climb and giant mountains beckoning from above, making it a great expedition for families, too.
 
-Our plan was for all four of us, plus the dog, to make the ascent on the main path as far as Loch an Fhir-bhallaich. Sim and the kids would then turn left, descending via the loch and the Eas Mor waterfall to Glen Brittle Hut, while I'd carry on to the top and meet them somewhere on the way down. Eventually - amazingly - the rain stopped and the sun came out and we were ready to go.
+Our plan was for all four of us, plus the dog, to make the ascent on the main path as far as the path junction near to Loch an Fhir-bhallaich. Sim and the kids would then turn left, descending via the loch and the Eas Mor waterfall to Glen Brittle Hut, while I'd carry on to the top and meet them somewhere on the way down. Eventually - amazingly - the rain stopped and the sun came out and we were ready to go.
 
 The main path heads east from the cafe, straight up towards the towering mountains. If you're lucky enough to have a fine day, the views are glorious from start to finish, from the rugged skyline of the Cuillin across the valley and down to the beach and the glittering sea. The trail is winding and rough in places but there's plenty to keep children occupied, including little streams, rocky outcrops and regular stops to look down to the sandy bay and see how far they've climbed.
 
 The path junction is marked by several large cairns, helpful on the way back down, particularly if visibility isn't so good. It was a natural break and a good place for the kids to play and have a snack. I was keen to get to the top so left them busy amidst the boulders and set off up the steepening trail at a run. The final section is steep and pathless with a couple of hands-on moments, but that ever-deepening corrie draws you in as you climb. There's a brilliant moment when, after numerous false summits, you finally gain the wide, flat boulders that enclose the little loch and look down into its shimmering blue-green waters, vivid against a backdrop of grey scree and crag.
 
-I took some time to explore, dipping a hand deep into the water, finding the best angles to capture the essence of this special place. A passing cloud plunged everything into sudden gloom, only to be flooded by sunshine and colour as the sun reappeared. Beyond the corrie, several groups were trying to negotiate the tortuous scree slopes, but I didn't need to get to the top today.
+I took some time to explore, dipping a hand deep into the water, finding the best angles to capture the essence of this special place. A passing cloud plunged everything into sudden gloom, only to be flooded by light and colour as the sun reappeared. Beyond the corrie, several groups were trying to negotiate the tortuous scree slopes, but I didn't need to get to the top today.
 
 Having taken in as much as I could I launched back over the edge and let gravity take me back down the mountainside, hot from my climb and welcoming the breeze. I reached the cairns before I knew it and veered off right, the running fast and flowing descending past Loch an Fhir-bhallaich. The kids had seen me in the distance and I met them running around a corner to find me, arms outstretched like eagles. I felt like I'd returned from a different world, returned to a smiley, sunny family walk as we admired the falls and pools and finally reached the road.
 
