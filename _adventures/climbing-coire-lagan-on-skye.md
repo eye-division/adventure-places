@@ -13,7 +13,15 @@ location:
   longitude: '-6.293331'
 display_title: true
 images:
-  - image_path:
+  - image_path: /assets/images/skye-coire-lagan-dunvegan-011.JPG
+    description: Glenbrittle
+  - image_path: /assets/images/skye-coire-lagan-dunvegan-053.JPG
+    description:
+  - image_path: /assets/images/skye-coire-lagan-dunvegan-060.JPG
+    description:
+  - image_path: /assets/images/skye-coire-lagan-dunvegan-083.JPG
+    description:
+  - image_path: /assets/images/skye-coire-lagan-dunvegan-130.JPG
     description:
 tags:
 order_number:
