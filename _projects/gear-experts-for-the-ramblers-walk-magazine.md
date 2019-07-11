@@ -1,10 +1,10 @@
 ---
 title: Gear experts for the Ramblers' Walk magazine
 project_date: 2019-07-11 00:00:00
-project_to_date: 2019-07-11 11:41:38
+project_to_date: 2019-07-11 11:42:34
 show_date: false
 archive: false
-ongoing: true
+ongoing: false
 description_markdown: >-
   We thoroughly test and thoughtfully review the best walking and outdoor gear
   for the excellent Walk magazine from the Ramblers. In the summer 2019 issue we
