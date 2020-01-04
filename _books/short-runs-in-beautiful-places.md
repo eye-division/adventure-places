@@ -3,12 +3,11 @@ title: Short Runs in Beautiful Places
 book_date: 2020-03-05 00:00:00
 archive: false
 description_markdown: >-
-  **COMING SOON** Short Runs in Beautiful Places, published by the National
-  Trust, is the ideal guide to staying fit and healthy while enjoying Britain s
-  most beautiful locations. From the coasts of Cornwall to the summits of
-  Scotland, there is a run nearby that is ideal for you whether through rugged
-  woodlands, past meadows studded with wildflowers or across sandy beaches with
-  uninterrupted views of the sea.
+  **PUBLISHED 5th March 2020**&nbsp;Short Runs in Beautiful Places, published by
+  the National Trust, is the ideal guide to staying fit and healthy while
+  enjoying Britain's most beautiful locations. From the coasts of Cornwall to
+  the summits of Scotland, through leafy woodlands, past meadows studded with
+  wildflowers or across sandy beaches with uninterrupted views of the sea.
 purchase_link: 'https://shop.nationaltrust.org.uk/books-stationery/books.html'
 display_image: true
 main_image_path: /assets/images/short-runs-cover.jpg
@@ -43,7 +42,7 @@ _comments:
   tags: use tags to link books to each other
 ---
 
-Lace up your trainers and explore the British countryside in 100 short runs. This is the ideal guide to staying fit and healthy while enjoying Britain s most beautiful locations. From the coasts of Cornwall to the summits of Scotland, there is a run nearby that is ideal for you whether through rugged woodlands, past meadows studded with wildflowers or across sandy beaches with uninterrupted views of the sea.
+Lace up your trainers and explore the British countryside in 100 short runs. This is the ideal guide to staying fit and healthy while enjoying Britain's most beautiful locations. From the coasts of Cornwall to the summits of Scotland, there is a run nearby that is ideal for you whether through leafy woodlands, past meadows studded with wildflowers or across sandy beaches with uninterrupted views of the sea.
 
 With information on terrain and facilities included as well as plenty of suggestions for combining running with sea swimming, castle exploring or breathtaking spots for a picnic many of the routes are suitable for the whole family to join in.
 
