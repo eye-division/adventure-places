@@ -1,5 +1,5 @@
 ---
-title: 10 mini mountains to climb with kids
+title:
 permalink:
 adventure_date:
 description_markdown: >-
