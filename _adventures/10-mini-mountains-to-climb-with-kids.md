@@ -8,9 +8,9 @@ description_markdown: >-
   all with the essential ingredient of a proper top to reach and plenty to see
   along the way, here are some of our favourite mini mountains to climb with
   kids.
-display_image: true
-main_image_path:
-main_image_caption:
+display_image: false
+main_image_path: /assets/images/mam-tor-jen--sim-benson-4.JPG
+main_image_caption: Conquering Mam Tor in the Peak District
 location:
   latitude:
   longitude:
