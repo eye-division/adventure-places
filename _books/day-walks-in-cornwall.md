@@ -3,9 +3,9 @@ title: Day Walks in Cornwall
 book_date: 2019-04-11 00:00:00
 archive: false
 description_markdown: >-
-  Our brand new book from Vertebrate Publishing is out now\! Featuring 20
-  circular routes between 7.2 and 13.7 miles (11.6km and 22km) in length,
-  suitable for hillwalkers of all abilities.
+  Day Walks in Cornwall, from Vertebrate Publishing, features 20 circular routes
+  between 7.2 and 13.7 miles (11.6km and 22km) in length, suitable for
+  hillwalkers of all abilities.
 purchase_link: >-
   https://www.v-publishing.co.uk/books/categories/walking/day-walks-in-cornwall.html
 display_image: true
@@ -41,4 +41,4 @@ _comments:
   tags:
 ---
 
-Our brand new book from Vertebrate Publishing is out now\! Featuring 20 circular routes between 7.2 and 13.7 miles (11.6km and 22km) in length, suitable for hillwalkers of all abilities. Researched and written by experienced authors **Jen and Sim Benson**, and covering the extremities of this stunning peninsula, the walks reach areas from **Bude** to the **Isles of Scilly**, and from **Rame Head** near Plymouth to **Lizard Point** on the southernmost tip. Taking advantage of the South West Coast Path, discover a unique view of the charming coastline at every turn in this Area of Outstanding Natural Beauty.
+Day Walks in Cornwall, from Vertebrate Publishing, features 20 circular routes between 7.2 and 13.7 miles (11.6km and 22km) in length, suitable for hillwalkers of all abilities. Researched and written by experienced authors&nbsp;**Jen and Sim Benson**, and covering the extremities of this stunning peninsula, the walks reach areas from&nbsp;**Bude**&nbsp;to the&nbsp;**Isles of Scilly**, and from&nbsp;**Rame Head**&nbsp;near Plymouth to&nbsp;**Lizard Point**&nbsp;on the southernmost tip. Taking advantage of the South West Coast Path, discover a unique view of the charming coastline at every turn in this Area of Outstanding Natural Beauty.
