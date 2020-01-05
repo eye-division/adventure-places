@@ -1,23 +1,42 @@
 ---
 title:
 permalink:
-adventure_date:
+adventure_date: 2020-01-01 00:00:00
 description_markdown: >-
   Everyone loves conquering a summit and bathing in the views and feeling of
   achievement to be found there. From short and easy walks to bigger days out,
-  all with the essential ingredient of a proper top to reach and plenty to see
+  all with the essential ingredients of a proper top to reach and plenty to see
   along the way, here are some of our favourite mini mountains to climb with
   kids.
-display_image: false
+display_image: true
 main_image_path: /assets/images/mam-tor-jen--sim-benson-4.JPG
-main_image_caption: Conquering Mam Tor in the Peak District
+main_image_caption: Mam Tor in the Peak District
 location:
   latitude:
   longitude:
-display_title: false
+display_title: true
 images:
-  - image_path:
-    description:
+  - image_path: /assets/images/hound-tor-jen--sim-benson-2.JPG
+    description: 'Looking towards Hound Tor, Dartmoor'
+  - image_path: /assets/images/golden-cap-jen--sim-benson-2.JPG
+    description: 'Golden Cap, Dorset'
+  - image_path: /assets/images/cley-hill-jen--sim-benson-3.JPG
+    description: 'Cley Hill, Wiltshire'
+  - image_path: /assets/images/black-down-jen--sim-benson-1.JPG
+    description: 'Black Down, South Downs'
+  - image_path: /assets/images/mam-tor-jen--sim-benson-5.JPG
+    description: 'Mam Tor, Peak District'
+  - image_path: >-
+      /assets/images/fountains-abbey-wainstones-roseberry-topping-whitby-hole-of-horcum-141.JPG
+    description: 'Roseberry Topping, North York Moors'
+  - image_path: /assets/images/side-pike-jen--sim-benson.JPG
+    description: 'Side Pike, Lake District'
+  - image_path: /assets/images/sugar-loaf-jen--sim-benson.jpg
+    description: 'Sugar Loaf, Black Mountains'
+  - image_path: /assets/images/jen-i-phone-june-2018-4068.JPG
+    description: 'Holyhead Mountain, Anglesey'
+  - image_path: /assets/images/souter-lighthouse-arthurs-seat-050-2.JPG
+    description: 'Arthur''s Seat, Edinburgh'
 tags:
 order_number:
 _options:
@@ -51,7 +70,7 @@ _comments:
   tags: use tags to link adventures to each other
 ---
 
-Everyone loves conquering a summit and bathing in the views and feeling of achievement to be found there. From short and easy walks to bigger days out, all with the essential ingredient of a proper top to reach and plenty to see along the way, here are some of our favourite mini mountains to climb with kids.
+Everyone loves conquering a summit and bathing in the views and feeling of achievement to be found there. From short and easy walks to bigger days out, all with the essential ingredients of a proper top to reach and plenty to see along the way, here are some of our favourite mini mountains to climb with kids. Photo gallery at the end of the article.
 
 #### 1\. Hound Tor, Dartmoor
 
