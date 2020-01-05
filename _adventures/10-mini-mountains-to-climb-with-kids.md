@@ -18,6 +18,8 @@ display_title: true
 images:
   - image_path:
     description:
+  - image_path: /assets/images/hound-tor-jen--sim-benson-2.JPG
+    description: 'Looking towards Hound Tor, Dartmoor'
 tags:
 order_number:
 _options:
