@@ -1,20 +1,20 @@
 ---
 title:
 permalink:
-adventure_date:
+adventure_date: 2020-01-01 00:00:00
 description_markdown: >-
   Everyone loves conquering a summit and bathing in the views and feeling of
   achievement to be found there. From short and easy walks to bigger days out,
-  all with the essential ingredient of a proper top to reach and plenty to see
+  all with the essential ingredients of a proper top to reach and plenty to see
   along the way, here are some of our favourite mini mountains to climb with
   kids.
-display_image: false
+display_image: true
 main_image_path: /assets/images/mam-tor-jen--sim-benson-4.JPG
-main_image_caption: Conquering Mam Tor in the Peak District
+main_image_caption: Mam Tor in the Peak District
 location:
   latitude:
   longitude:
-display_title: false
+display_title: true
 images:
   - image_path:
     description:
@@ -51,7 +51,7 @@ _comments:
   tags: use tags to link adventures to each other
 ---
 
-Everyone loves conquering a summit and bathing in the views and feeling of achievement to be found there. From short and easy walks to bigger days out, all with the essential ingredient of a proper top to reach and plenty to see along the way, here are some of our favourite mini mountains to climb with kids.
+Everyone loves conquering a summit and bathing in the views and feeling of achievement to be found there. From short and easy walks to bigger days out, all with the essential ingredients of a proper top to reach and plenty to see along the way, here are some of our favourite mini mountains to climb with kids.
 
 #### 1\. Hound Tor, Dartmoor
 
