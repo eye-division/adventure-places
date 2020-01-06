@@ -8,7 +8,7 @@ description_markdown: >-
 display_image: true
 main_image_path: /assets/images/kilpeck-llanthony-014-2.JPG
 main_image_caption:
-display_map:
+display_map: true
 location:
   latitude: '51.944166666667'
   longitude: '-3.0358333333333'

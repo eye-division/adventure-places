@@ -13,7 +13,7 @@ description_markdown: >-
 display_image: true
 main_image_path: /assets/images/breacon-bikepacking-074.JPG
 main_image_caption: Bikepacking in the Brecon Beacons
-display_map:
+display_map: true
 location:
   latitude: '51.944444444444'
   longitude: '-3.4044444444444'

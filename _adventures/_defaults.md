@@ -6,7 +6,7 @@ description_markdown:
 display_image: true
 main_image_path:
 main_image_caption:
-display_map: 
+display_map: true
 location:
     latitude: 
     longitude: 
