@@ -76,7 +76,7 @@ Everyone loves conquering a summit and bathing in the views and feeling of achie
 
 #### 1\. Hound Tor, Dartmoor
 
-&nbsp;
+![](/assets/golden-cap-jen--sim-benson-2.JPG){: width="1200" height="800"}
 
 Perfect for family holidays, Devon has beaches for rockpooling and sandcastling, grassy hills to roll down, ancient woodlands for tree climbing and rocks for scrambling. The wilds of Dartmoor feel like another world compared with the sunny coast and you’ll find the weather more changeable too. The rocky, granite tors that rise across the whole of Dartmoor are the visible ‘knuckles’ of ancient volcanic activity across this part of the country, exposed by weathering over thousands of years. Many tors make a great day out for kids, often with an easy, grassy walk to the rocks and then plenty of opportunities for lower-level scrambling. Hound Tor is a great choice for its ease of access – there’s a car park at the bottom of the hill – and, for older children, a number of easy scrambles to the very top of the tor for panoramic views across the moor. It’s a place steeped in local myth and legend too, and said to be the inspiration for Conan Doyle’s *The Hound of the Baskervilles*.
 
