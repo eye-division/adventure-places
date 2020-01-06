@@ -11,6 +11,7 @@ description_markdown: >-
 display_image: true
 main_image_path: /assets/images/mam-tor-jen--sim-benson-4.JPG
 main_image_caption: Mam Tor in the Peak District
+display_map: false
 location:
   latitude:
   longitude:
@@ -59,6 +60,7 @@ _options:
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
+  display_map: Display a map (fill in coordinates)
   permalink: Change the URL
   adventure_date: Invalid date
   display_title: Show image captions in gallery

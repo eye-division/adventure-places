@@ -9,6 +9,7 @@ description_markdown: >-
 display_image: true
 main_image_path: /assets/images/dartmoor-december-2018-115-2.JPG
 main_image_caption:
+display_map:
 location:
   latitude: '50.596666666667'
   longitude: '-3.7780555555556'
