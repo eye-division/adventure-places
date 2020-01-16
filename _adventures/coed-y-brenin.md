@@ -13,7 +13,8 @@ description_markdown: >-
   features over 700 metres of ascent.
 display_image: true
 main_image_path: /assets/images/coed-y-brenin-mountain-bike-049-4.JPG
-main_image_caption: 
+main_image_caption:
+display_map: true
 location:
   latitude: '52.824166666667'
   longitude: '-3.8958333333333'

@@ -8,6 +8,7 @@ description_markdown: >-
 display_image: true
 main_image_path: /assets/images/skye-coire-lagan-dunvegan-098.JPG
 main_image_caption: The view across Coire Lagan and down to the sea
+display_map: true
 location:
   latitude: '57.202622'
   longitude: '-6.293331'

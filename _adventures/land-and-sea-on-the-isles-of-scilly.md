@@ -9,6 +9,7 @@ description_markdown: >-
 display_image: true
 main_image_path: /assets/images/isles-of-scilly-230-2.JPG
 main_image_caption: Paddling from Bryher to Samson
+display_map: true
 location:
   latitude: '49.956666666667'
   longitude: '-6.3536111111111'

@@ -11,6 +11,7 @@ description_markdown: >-
 display_image: true
 main_image_path: /assets/images/mam-tor-jen--sim-benson-4.JPG
 main_image_caption: Mam Tor in the Peak District
+display_map: false
 location:
   latitude:
   longitude:
@@ -59,6 +60,7 @@ _options:
 _comments:
   title: Page title
   main_image_path: Image used to represent your page
+  display_map: Display a map (fill in coordinates)
   permalink: Change the URL
   adventure_date: Invalid date
   display_title: Show image captions in gallery
@@ -73,8 +75,6 @@ _comments:
 Everyone loves conquering a summit and bathing in the views and feeling of achievement to be found there. From short and easy walks to bigger days out, all with the essential ingredients of a proper top to reach and plenty to see along the way, here are some of our favourite mini mountains to climb with kids. Photo gallery at the end of the article.
 
 #### 1\. Hound Tor, Dartmoor
-
-&nbsp;
 
 Perfect for family holidays, Devon has beaches for rockpooling and sandcastling, grassy hills to roll down, ancient woodlands for tree climbing and rocks for scrambling. The wilds of Dartmoor feel like another world compared with the sunny coast and you’ll find the weather more changeable too. The rocky, granite tors that rise across the whole of Dartmoor are the visible ‘knuckles’ of ancient volcanic activity across this part of the country, exposed by weathering over thousands of years. Many tors make a great day out for kids, often with an easy, grassy walk to the rocks and then plenty of opportunities for lower-level scrambling. Hound Tor is a great choice for its ease of access – there’s a car park at the bottom of the hill – and, for older children, a number of easy scrambles to the very top of the tor for panoramic views across the moor. It’s a place steeped in local myth and legend too, and said to be the inspiration for Conan Doyle’s *The Hound of the Baskervilles*.
 
